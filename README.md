@@ -1,4 +1,3 @@
-# How to use 
 ## Requirements & Setup
 
 This repository is designed to work with **no custom configuration**.
