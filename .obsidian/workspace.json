@@ -11,14 +11,28 @@
             "id": "aab9bc6c75b6c741",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
-                "aRef": ""
+                "file": "GAUSS — Global Autonomous Urban Systems & Society.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: appearance.json"
+              "icon": "lucide-file",
+              "title": "GAUSS — Global Autonomous Urban Systems & Society"
+            }
+          },
+          {
+            "id": "b00a7d850b710493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GAUSS Team.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GAUSS Team"
             }
           }
         ]
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a31ba0a3a371936",
@@ -190,9 +205,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "aab9bc6c75b6c741",
+  "active": "ba22db59e29d68b2",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/sad@20260104_033620.md",
+    "copilot/copilot-conversations/i_feel_like_this_part_PART_IV_—_CORE_OPERATING@20260104_033541.md",
+    "GAUSS Team.md",
     "GAUSS — Global Autonomous Urban Systems & Society.md",
+    "pages/Internal governance structure.md",
     "4. Why Existing Alternatives Fail.md",
     "dsadsa.md",
     "copilot/copilot-conversations/GAUSS_—_Global_Autonomous_Urban_Systems_&_Society_you_are@20260104_025005.md",
@@ -209,7 +228,6 @@
     "images/Pasted image 20260104010831.png",
     "pages/Population Dynamics — Seeding & Attraction (System Paper).md",
     "images",
-    "pages/Internal governance structure.md",
     "pages/RC ~ Regenerative Currency.md",
     "Eutopia/Untitled 1 asdsa.md",
     "pages",

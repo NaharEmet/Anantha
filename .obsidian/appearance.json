@@ -3,8 +3,8 @@
   "accentColor": "#5c6ef5",
   "cssTheme": "Notation 2",
   "interfaceFontFamily": "Arial",
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "monospaceFontFamily": "Fira Code",
   "enabledCssSnippets": [],
-  "textFontFamily": "EB Garamond"
+  "textFontFamily": "Helvetica"
 }
