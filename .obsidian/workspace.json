@@ -11,14 +11,14 @@
             "id": "aab9bc6c75b6c741",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "GAUSS — Global Autonomous Urban Systems & Society.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/appearance.json",
+                "bFile": ".obsidian/appearance.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "GAUSS — Global Autonomous Urban Systems & Society"
+              "icon": "diff",
+              "title": "Diff: appearance.json"
             }
           }
         ]
@@ -190,9 +190,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ba22db59e29d68b2",
+  "active": "aab9bc6c75b6c741",
   "lastOpenFiles": [
     "GAUSS — Global Autonomous Urban Systems & Society.md",
+    "4. Why Existing Alternatives Fail.md",
+    "dsadsa.md",
     "copilot/copilot-conversations/GAUSS_—_Global_Autonomous_Urban_Systems_&_Society_you_are@20260104_025005.md",
     "copilot/memory/Recent Conversations.md",
     "copilot/memory",
