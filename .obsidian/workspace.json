@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eutopia/pages/Ownership & Structural Architecture.md",
+                "file": "Eutopia/GAUSS — Global Autonomous Urban Systems & Society.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ownership & Structural Architecture"
+              "title": "GAUSS — Global Autonomous Urban Systems & Society"
             }
           }
         ],
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eutopia/pages/Ownership & Structural Architecture.md",
+                "file": "Eutopia/GAUSS — Global Autonomous Urban Systems & Society.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ownership & Structural Architecture"
+              "title": "Outline of GAUSS — Global Autonomous Urban Systems & Society"
             }
           },
           {
@@ -208,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba22db59e29d68b2",
+  "active": "32119afa82b4a21c",
   "lastOpenFiles": [
     "Eutopia/pages/Ownership & Structural Architecture.md",
     "images/Pasted image 20260104010831.png",
