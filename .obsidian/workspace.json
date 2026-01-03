@@ -39,14 +39,14 @@
             "id": "32119afa82b4a21c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Eutopia/pages/The City as a Value Engine.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "The City as a Value Engine"
+              "icon": "diff",
+              "title": "Diff: graph.json"
             }
           }
         ],
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eutopia/pages/The City as a Value Engine.md",
+                "file": "Eutopia/GAUSS — Global Autonomous Urban Systems & Society.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The City as a Value Engine"
+              "title": "Outline of GAUSS — Global Autonomous Urban Systems & Society"
             }
           },
           {
@@ -211,13 +211,13 @@
   "active": "32119afa82b4a21c",
   "lastOpenFiles": [
     "Eutopia/GAUSS — Global Autonomous Urban Systems & Society.md",
+    "Eutopia/pages/The City as a Value Engine.md",
     "Eutopia/pages/Scaling and Replication.md",
     "Eutopia/pages/Ownership & Structural Architecture.md",
     "images/Pasted image 20260104010831.png",
     "Eutopia/pages/FABRIC ~ Framework for Attuned Belonging, Reciprocity, and Interpersonal Connection.md",
     "Eutopia/pages/Population Dynamics — Seeding & Attraction (System Paper).md",
     "images",
-    "Eutopia/pages/The City as a Value Engine.md",
     "Eutopia/pages/Internal governance structure.md",
     "Eutopia/pages/RC ~ Regenerative Currency.md",
     "Eutopia/Untitled 1 asdsa.md",
