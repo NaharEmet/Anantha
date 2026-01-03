@@ -170,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Eutopia/pages/Population Dynamics — Seeding & Attraction (System Paper).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Population Dynamics — Seeding & Attraction (System Paper)"
             }
           },
           {
@@ -207,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a3180744c929619",
+  "active": "ba22db59e29d68b2",
   "lastOpenFiles": [
     "Eutopia/pages/The City as a Value Engine.md",
     "Eutopia/pages/Population Dynamics — Seeding & Attraction (System Paper).md",
