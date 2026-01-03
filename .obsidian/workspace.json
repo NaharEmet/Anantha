@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eutopia/pages/Population Dynamics — Seeding & Attraction (System Paper).md",
+                "file": "Eutopia/pages/Ownership & Structural Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Population Dynamics — Seeding & Attraction (System Paper)"
+              "title": "Ownership & Structural Architecture"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eutopia/pages/Population Dynamics — Seeding & Attraction (System Paper).md",
+                "file": "Eutopia/pages/Ownership & Structural Architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Population Dynamics — Seeding & Attraction (System Paper)"
+              "title": "Outline of Ownership & Structural Architecture"
             }
           },
           {
@@ -210,14 +210,15 @@
   },
   "active": "ba22db59e29d68b2",
   "lastOpenFiles": [
-    "Eutopia/pages/The City as a Value Engine.md",
+    "Eutopia/pages/Ownership & Structural Architecture.md",
+    "images/Pasted image 20260104010831.png",
+    "Eutopia/pages/FABRIC ~ Framework for Attuned Belonging, Reciprocity, and Interpersonal Connection.md",
     "Eutopia/pages/Population Dynamics — Seeding & Attraction (System Paper).md",
+    "images",
+    "Eutopia/pages/The City as a Value Engine.md",
     "Eutopia/pages/Scaling and Replication.md",
     "Eutopia/pages/Internal governance structure.md",
-    "Eutopia/pages/Ownership & Structural Architecture.md",
-    "Pasted image 20260104010831.png",
     "Eutopia/pages/RC ~ Regenerative Currency.md",
-    "Eutopia/pages/FABRIC ~ Framework for Attuned Belonging, Reciprocity, and Interpersonal Connection.md",
     "Eutopia/GAUSS — Global Autonomous Urban Systems & Society.md",
     "Eutopia/Untitled 1 asdsa.md",
     "Eutopia/pages",

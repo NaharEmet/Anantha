@@ -2,5 +2,8 @@
   "theme": "obsidian",
   "accentColor": "#5c6ef5",
   "cssTheme": "Notation 2",
-  "interfaceFontFamily": "Arial"
+  "interfaceFontFamily": "Arial",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "Fira Code",
+  "enabledCssSnippets": []
 }
