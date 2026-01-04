@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "src/site/notes/Index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 564.5
+    "width": 542.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +191,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ba22db59e29d68b2",
+  "active": "b00a7d850b710493",
   "lastOpenFiles": [
-    "src/site/notes/src/site/notes/Index.md",
-    "src/site/notes/Index.md",
     "src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
+    "src/site/notes/Index.md",
+    "src/site/notes/src/site/notes/Index.md",
     "src/site/notes/src/site/notes",
     "src/site/notes/src/site",
     "src/site/notes/src",
