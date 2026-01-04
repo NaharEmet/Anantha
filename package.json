@@ -7,7 +7,7 @@
 		"dev": "node esbuild.config.mjs",
 		"postdev": "node scripts/generateGardenSettings.mjs",
 		"dev1": "parcel main.ts",
-		"build": "node esbuild.config.mjs production",
+		"build": "npx @11ty/eleventy && node esbuild.config.mjs production",
 		"test": "jest",
 		"prepare": "husky install",
 		"lint": "eslint . --ext .ts --ext .svelte",
@@ -46,7 +46,8 @@
 		"svelte-preprocess": "^5.0.4",
 		"ts-jest": "^29.1.1",
 		"tslib": "^2.6.2",
-		"typescript": "^5.2.2"
+		"typescript": "^5.2.2",
+		"@11ty/eleventy": "^3.1.2"
 	},
 	"dependencies": {
 		"@octokit/core": "^5.0.0",
