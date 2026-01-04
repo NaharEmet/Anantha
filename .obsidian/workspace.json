@@ -187,8 +187,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "7da218da98bea727",
+  "active": "ba22db59e29d68b2",
   "lastOpenFiles": [
+    "pages/The City as a Value Engine.md",
     "versions.json",
     "tsconfig.json",
     "styles.css",
@@ -200,12 +201,10 @@
     "LICENSE.md",
     "jest.config.js",
     "esbuild.config.mjs",
-    "bun.lockb",
     "src/dg-testVault/006 Custom title.md",
     "img/new-note-demo.gif",
     "img/dg-demo.gif",
     "src/test/snapshot/snapshot.md",
-    "pages/The City as a Value Engine.md",
     "pages/Scaling and Replication.md",
     "pages/RC ~ Regenerative Currency.md",
     "pages/Population Dynamics — Seeding & Attraction (System Paper).md",
