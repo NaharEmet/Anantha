@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /GAUSS/
 dg-home: false
 tags:
 ---
