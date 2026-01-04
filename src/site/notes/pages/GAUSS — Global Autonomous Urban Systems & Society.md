@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/gauss-global-autonomous-urban-systems-and-society/"}
+{"dg-publish":true,"permalink":"/pages/gauss-global-autonomous-urban-systems-and-society/"}
 ---
-
 
 
 ## PART I — NECESSITY
