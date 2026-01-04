@@ -3,6 +3,7 @@ dg-home: true
 dg-publish: true
 tags:
   - gardenEntry
+permalink: /
 ---
 
 ## PART I — NECESSITY

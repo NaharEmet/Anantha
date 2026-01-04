@@ -4,8 +4,8 @@
   "githubUserName": "naharemet",
   "gardenBaseUrl": "https://eutopia-five.vercel.app/",
   "prHistory": [
-    "https://github.com/NaharEmet/Eutopia/pull/3",
-    "https://github.com/NaharEmet/Eutopia/pull/2"
+    "https://github.com/NaharEmet/Eutopia/pull/2",
+    "https://github.com/NaharEmet/Eutopia/pull/3"
   ],
   "baseTheme": "dark",
   "theme": "{\"name\":\"Abyssal\",\"author\":\"tazpellegrini\",\"repo\":\"tazpellegrini/abyssalobsidian\",\"screenshot\":\"abyssal-thumbnail.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/tazpellegrini/abyssalobsidian/HEAD/theme.css\"}",
