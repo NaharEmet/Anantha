@@ -1,9 +1,8 @@
 ---
 dg-publish: true
-permalink: /index/
-dg-home: true
+permalink: /GAUSS/
+dg-home: false
 tags:
-  - gardenEntry
 ---
 
 ## PART I — NECESSITY
