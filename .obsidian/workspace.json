@@ -11,14 +11,14 @@
             "id": "b00a7d850b710493",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "src/site/notes/index.md",
-                "bFile": "src/site/notes/index.md",
-                "aRef": ""
+                "file": "src/site/notes/src/site/notes/index.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: index"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -193,12 +193,14 @@
   },
   "active": "b00a7d850b710493",
   "lastOpenFiles": [
-    "src/site/notes/index.md",
+    "pages/RC ~ Regenerative Currency.md",
+    "src/site/notes/src/site/notes/index.md",
     "src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
-    "copilot/copilot-conversations/src_why_is_my_site_showing_an_empty_page@20260104_172009.md",
+    "src/site/notes/index.md",
     "src/site/notes/src/site/notes",
     "src/site/notes/src/site",
     "src/site/notes/src",
+    "copilot/copilot-conversations/src_why_is_my_site_showing_an_empty_page@20260104_172009.md",
     "src/site/notes",
     "GAUSS Team.md",
     "src/site/favicon.svg",
@@ -232,7 +234,6 @@
     "pages/Ownership & Structural Architecture.md",
     "images/Pasted image 20260104010831.png",
     "pages/Population Dynamics — Seeding & Attraction (System Paper).md",
-    "pages/RC ~ Regenerative Currency.md",
     "Eutopia/Untitled 1 asdsa.md",
     "Eutopia/Untitled.canvas",
     "Untitled/Untitled.canvas"
