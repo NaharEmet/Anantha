@@ -1,7 +1,8 @@
 ---
 dg-publish: true
-dg-home: false
+dg-home: true
 tags:
+  - gardenEntry
 ---
 
 ## PART I — NECESSITY

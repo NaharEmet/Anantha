@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 ## **Social Fabric for Modern Society**
 
 **FABRIC** is a moral–relational infrastructure designed to help people live together without pretending conflict can be eliminated or judgment avoided. It is not a surveillance system, a reputation score, or a compliance mechanism. FABRIC exists to ensure that when harm occurs, it can be **seen, understood, repaired, and forgotten**.

@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 GAUSS does not scale through expansion or consolidation.
 
 It scales through **structural advantage, replication, and choice**.

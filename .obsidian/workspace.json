@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ce9c589a7435d03",
+        "id": "7caabc37f9d09ae7",
         "type": "tabs",
         "children": [
           {
-            "id": "b00a7d850b710493",
+            "id": "d87946c6a36ad616",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/site/notes/Index.md",
-                "mode": "source",
+                "file": "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "GAUSS — Global Autonomous Urban Systems & Society"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.base",
+                "file": "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for GAUSS — Global Autonomous Urban Systems & Society"
             }
           },
           {
@@ -191,50 +191,54 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "b00a7d850b710493",
+  "active": "ba22db59e29d68b2",
   "lastOpenFiles": [
-    "src/site/notes/Index.md",
-    "src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
-    "src/site/notes/src/site/notes/Index.md",
-    "src/site/notes/src/site/notes",
-    "src/site/notes/src/site",
-    "src/site/notes/src",
-    "pages/RC ~ Regenerative Currency.md",
-    "copilot/copilot-conversations/src_why_is_my_site_showing_an_empty_page@20260104_172009.md",
-    "src/site/notes",
-    "GAUSS Team.md",
-    "src/site/favicon.svg",
-    "copilot/copilot-conversations/why_is_my_site_not_having_an_index_page_srcsite@20260104_155150.md",
-    "src/site/notes/src/index.md",
-    "src/site/img/default-note-icon.svg",
-    "src/site/img/outgoing.svg",
-    "src/site/img/tree-1.svg",
-    "src/site/img/tree-2.svg",
-    "src/site/img/tree-3.svg",
-    "vercel.json",
-    "src/site/styles/style.scss",
-    "src/site/styles/obsidian-base.scss",
-    "src/site/styles/digital-garden-base.scss",
-    "src/site/styles/custom-style.scss",
-    "src/site/styles",
-    "GAUSS — Global Autonomous Urban Systems & Society.md",
-    "index.md",
-    "4. Why Existing Alternatives Fail.md",
-    "copilot/copilot-conversations/sad@20260104_033620.md",
-    "copilot/copilot-conversations/i_feel_like_this_part_PART_IV_—_CORE_OPERATING@20260104_033541.md",
-    "pages/Internal governance structure.md",
-    "dsadsa.md",
-    "copilot/copilot-conversations/GAUSS_—_Global_Autonomous_Urban_Systems_&_Society_you_are@20260104_025005.md",
-    "copilot/memory/Recent Conversations.md",
-    "copilot/copilot-conversations/test@20260104_023837.md",
     "pages/FABRIC ~ Framework for Attuned Belonging, Reciprocity, and Interpersonal Connection.md",
-    "README.md",
     "pages/The City as a Value Engine.md",
     "pages/Scaling and Replication.md",
-    "pages/Ownership & Structural Architecture.md",
-    "images/Pasted image 20260104010831.png",
+    "pages/RC ~ Regenerative Currency.md",
     "pages/Population Dynamics — Seeding & Attraction (System Paper).md",
-    "Eutopia/Untitled 1 asdsa.md",
+    "pages/Ownership & Structural Architecture.md",
+    "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
+    "pages/Internal governance structure.md",
+    "pages/Index.md",
+    "copilot/copilot-conversations/why_is_my_site_not_having_an_index_page_srcsite@20260104_155150.md",
+    "Untitled.base",
+    "README.md",
+    "dist/notes/{{ page.fileSlug | slugify }}/index.html",
+    "dist/notes/{{ page.fileSlug | slugify }}",
+    "dist/manifest.webmanifest",
+    "dist/icon-512.png",
+    "dist/apple-touch-icon.png",
+    "dist/icon-192.png",
+    "dist/favicon.ico",
+    "dist/favicon.svg",
+    "dist/notes/Index/index.html",
+    "dist/notes/Index",
+    "dist/styles/custom-style.css",
+    "src/site/styles/custom-style.css",
+    "src/site/styles/_theme.087d286e.css",
+    "dist/img/tree-3.svg",
+    "dist/img/tree-2.svg",
+    "dist/img/tree-1.svg",
+    "dist/img/outgoing.svg",
+    "dist/img/default-note-icon.svg",
+    "node_modules/eleventy-plugin-gen-favicons/node_modules/@img/sharp-libvips-linux-x64/README.md",
+    "node_modules/@img/sharp-libvips-linuxmusl-x64/README.md",
+    "node_modules/@11ty/eleventy-img/node_modules/@img/sharp-libvips-linux-x64/README.md",
+    "node_modules/@img/sharp-libvips-linux-x64/README.md",
+    "node_modules/eleventy-plugin-gen-favicons/node_modules/@img/sharp-libvips-linuxmusl-x64/README.md",
+    "node_modules/@11ty/eleventy-img/node_modules/@img/sharp-libvips-linuxmusl-x64/README.md",
+    "node_modules/@11ty/eleventy-img/node_modules/@img/sharp-linux-x64/README.md",
+    "node_modules/@img/sharp-linuxmusl-x64/README.md",
+    "node_modules/eleventy-plugin-gen-favicons/node_modules/@img/sharp-linuxmusl-x64/README.md",
+    "node_modules/@11ty/eleventy-img/node_modules/@img/sharp-linuxmusl-x64/README.md",
+    "node_modules/@img/sharp-linux-x64/README.md",
+    "node_modules/eleventy-plugin-gen-favicons/node_modules/@img/sharp-linux-x64/README.md",
+    "node_modules/@11ty/eleventy-img/node_modules/sharp/README.md",
+    "node_modules/@img/colour/README.md",
+    "node_modules/@img/colour/LICENSE.md",
+    "node_modules/eleventy-plugin-gen-favicons/test/img/testing.png",
     "Eutopia/Untitled.canvas",
     "Untitled/Untitled.canvas"
   ]

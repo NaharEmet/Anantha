@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 This document defines **what is owned, by whom, and under what constraints** within the GAUSS ecosystem.
 
 It is designed to:

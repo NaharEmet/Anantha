@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 ## Core Premise
 
 GAUSS is designed with **zero expectation of individual intelligence, morality, or restraint**.

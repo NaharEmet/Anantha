@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 **Pricing Future Repair at the Moment of Action**
 

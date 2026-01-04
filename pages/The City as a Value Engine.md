@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 The city is not the product.
 
 The city is the **value-generating system**.
