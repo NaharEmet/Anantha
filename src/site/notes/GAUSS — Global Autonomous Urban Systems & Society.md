@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/gauss-global-autonomous-urban-systems-and-society/"}
 ---
 
-
-
 ## PART I — NECESSITY
 ### 1. Thesis
 As demonstrated in _Why Nations Fail_, long‑term prosperity is determined not by culture or intent, but by **systems, institutions, and incentives**. Human behavior adapts to structure.

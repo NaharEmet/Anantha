@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "src/site/notes/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -207,10 +207,16 @@
   },
   "active": "aab9bc6c75b6c741",
   "lastOpenFiles": [
-    "GAUSS — Global Autonomous Urban Systems & Society.md",
-    "4. Why Existing Alternatives Fail.md",
-    "index.md",
     "src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
+    "src/site/notes/index.md",
+    "GAUSS — Global Autonomous Urban Systems & Society.md",
+    "index.md",
+    "src/site/notes/src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
+    "src/site/notes/src/site/notes",
+    "src/site/notes/src/site",
+    "src/site/notes/src/index.md",
+    "src/site/notes/src",
+    "4. Why Existing Alternatives Fail.md",
     "src/site/notes",
     "src/site",
     "src",
@@ -235,9 +241,6 @@
     "images",
     "pages/RC ~ Regenerative Currency.md",
     "Eutopia/Untitled 1 asdsa.md",
-    "pages",
-    "Untitled.base",
-    "test.py",
     "Untitled/create a link.md",
     "Eutopia/Untitled.canvas",
     "Untitled/Untitled.canvas",
