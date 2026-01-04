@@ -209,3 +209,32 @@ Start by checking your file system for the existence of `src/site/notes/src/site
 
 If you don't find a physical file, then you'll need to examine your Eleventy configuration (`.eleventy.js`) to ensure it's correctly defining your input directories and not creating redundant paths.
 [Timestamp: 2026/01/04 15:56:06]
+
+**user**: why is my site empty {src} 
+[Context: Notes: src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md]
+[Timestamp: 2026/01/04 17:19:44]
+
+**ai**: Your site is appearing empty because your build process is failing.
+
+The build logs you provided earlier clearly show an Eleventy error:
+
+```
+[11ty] Output conflict: multiple input files are writing to `./dist/index.html`. Use distinct `permalink` values to resolve this conflict.
+[11ty]   1. ./src/site/notes/src/site/notes/index.md
+[11ty]   2. ./src/site/notes/index.md (via DuplicatePermalinkOutputError)
+```
+
+This means that your Eleventy static site generator is encountering a fatal error during the build. It's trying to create the `index.html` file (which would be your home page) from two different source files:
+1.  `./src/site/notes/src/site/notes/index.md`
+2.  `./src/site/notes/index.md`
+
+Because the build fails, no `index.html` (or any other content) is successfully generated and deployed to your `dist` folder, which is why your published site appears empty.
+
+**To fix this, you need to resolve the duplicate `index.md` file issue.**
+
+As I mentioned before, please check your file system for an accidental duplication:
+
+1.  **Look for `src/site/notes/src/site/notes/index.md`**: This path suggests you might have a folder named `src/site/notes` *inside* your `src/site/notes` directory, and that nested folder contains another `index.md`. This is the most common cause for this specific error. If you find it, delete the incorrectly nested `index.md` file (or the entire nested `src/site/notes` folder if it's not intended).
+
+Once you resolve this file conflict, your Eleventy build should complete successfully, and your `[[index]]` note (along with its links to `[[GAUSS — Global Autonomous Urban Systems & Society]]` and `[[RC ~ Regenerative Currency]]`) should then be visible on your published site.
+[Timestamp: 2026/01/04 17:19:50]
