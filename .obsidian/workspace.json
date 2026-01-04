@@ -16,23 +16,8 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "981278b4cc93f40a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/The City as a Value Engine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The City as a Value Engine"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,33 +187,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ba22db59e29d68b2",
+  "active": "7da218da98bea727",
   "lastOpenFiles": [
     "versions.json",
     "tsconfig.json",
     "styles.css",
-    "src/dg-testVault/E Embeds/Transclusions/files/T5 Even deeper.md",
-    "src/dg-testVault/E Embeds/Transclusions/files/T4 Deeper.md",
-    "src/dg-testVault/E Embeds/Transclusions/files/T3 Second transclusion.md",
-    "src/dg-testVault/E Embeds/Transclusions/files/T2 First transclusion.md",
-    "src/dg-testVault/Path Rewriting/Subfolder2/More specific path rewriting.md",
-    "src/dg-testVault/Path Rewriting/Subfolder/How deep do the rewrite rules go.md",
-    "src/dg-testVault/P Plugins/PE Excalidraw/PE2 excalidraw with image.md",
-    "src/dg-testVault/P Plugins/PE Excalidraw/PE1 Transcluded excalidraw.md",
-    "src/dg-testVault/P Plugins/PD Dataview/PD5.2 Dataview in transclusions.md",
-    "src/dg-testVault/P Plugins/PD Dataview/PD5.1 Dataview in transclusions.md",
-    "src/dg-testVault/P Plugins/PD Dataview/PD4 DataviewJs queries.md",
-    "src/dg-testVault/P Plugins/PD Dataview/PD3 Inline JS queries.md",
-    "src/dg-testVault/P Plugins/PD Dataview/PD2 Inline queries.md",
-    "src/dg-testVault/P Plugins/PD Dataview/PD1 Dataview.md",
-    "src/dg-testVault/P Plugins/PD Dataview/PD0 - note with summary.md",
-    "src/dg-testVault/E Embeds/Transclusions/files",
-    "src/dg-testVault/E Embeds/Transclusions/T6 transclusion inside codeblock.md",
-    "src/dg-testVault/E Embeds/Transclusions/T5 transclude custom filters.md",
-    "src/dg-testVault/E Embeds/Transclusions/T4 Transcluded header.md",
-    "src/dg-testVault/E Embeds/Transclusions/T3 Transcluded block.md",
-    "src/dg-testVault/E Embeds/Transclusions/T2 Too deep to transclude.md",
-    "src/dg-testVault/E Embeds/Transclusions/T1 BaseFile.md",
     "src/views/SettingsView/addFilterInput.ts",
     "src/views/SettingsView/SettingView.ts",
     "src/views/SettingsView/RewriteSettings.svelte",
@@ -236,20 +199,42 @@
     "src/views/SettingsView/ForestrySettings.svelte",
     "src/views/PublicationCenter/PublicationCenter.ts",
     "src/views/PublicationCenter/PublicationCenter.svelte",
+    "src/views/PublicationCenter/DiffView.svelte",
     "src/test/snapshot/snapshot.md",
-    "src/dg-testVault/Path Rewriting/004 Folder set to root.md",
-    "src/dg-testVault/L Links/02 Header with special character.md",
-    "src/dg-testVault/L Links/01 Link to header.md",
+    "pages/The City as a Value Engine.md",
+    "pages/Scaling and Replication.md",
+    "pages/RC ~ Regenerative Currency.md",
+    "pages/Population Dynamics — Seeding & Attraction (System Paper).md",
+    "pages/Ownership & Structural Architecture.md",
+    "pages/Internal governance structure.md",
+    "pages/Index.md",
+    "pages/GAUSS Team.md",
+    "pages/FABRIC ~ Framework for Attuned Belonging, Reciprocity, and Interpersonal Connection.md",
+    "img/new-note-demo.gif",
+    "img/dg-demo.gif",
+    "images/Pasted image 20260104010831.png",
+    "copilot/memory/Recent Conversations.md",
+    "copilot/copilot-conversations/why_is_my_site_not_having_an_index_page_srcsite@20260104_155150.md",
+    "copilot/copilot-conversations/test@20260104_023837.md",
+    "copilot/copilot-conversations/src_why_is_my_site_showing_an_empty_page@20260104_172009.md",
+    "copilot/copilot-conversations/sad@20260104_033620.md",
+    "copilot/copilot-conversations/i_feel_like_this_part_PART_IV_—_CORE_OPERATING@20260104_033541.md",
+    "copilot/copilot-conversations/GAUSS_—_Global_Autonomous_Urban_Systems_&_Society_you_are@20260104_025005.md",
+    "copilot/copilot-conversations/946.524_Cloning_github.comNaharEmetEutopia_(Branch_main,_Commit_1ab1a37)_193946.5@20260104_194048.md",
+    "README.md",
+    "LICENSE.md",
+    "GAUSS — Global Autonomous Urban Systems & Society.md",
+    "4. Why Existing Alternatives Fail.md",
+    "src/dg-testVault/E Embeds/Transclusions/files/T5 Even deeper.md",
+    "src/dg-testVault/E Embeds/Transclusions/files/T4 Deeper.md",
+    "src/dg-testVault/E Embeds/Transclusions/files/T3 Second transclusion.md",
     "src/dg-testVault/E Embeds/garden-gate.svg",
     "src/dg-testVault/A Assets/unused_image.png",
     "src/dg-testVault/A Assets/travolta.webp",
     "src/dg-testVault/A Assets/travolta.png",
-    "img/new-note-demo.gif",
-    "img/dg-demo.gif",
     "src/site/img/outgoing.svg",
     "src/site/favicon.svg",
     "src/site/img/user/images/Pasted image 20260104010831.png",
-    "dist/icon-512.png",
     "Eutopia/Untitled.canvas",
     "Untitled/Untitled.canvas"
   ]
