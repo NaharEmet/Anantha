@@ -20,7 +20,7 @@ tags:
 [Context: Notes: src/site/notes/index.md]
 [Timestamp: 2026/01/04 15:52:16]
 
-**ai**: I see an [[index]] note in the provided context. Its content is:
+**ai**: I see an [[Index]] note in the provided context. Its content is:
 
 ```markdown
 ---
