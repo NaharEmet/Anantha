@@ -1,9 +1,10 @@
 ---
 dg-publish: true
+permalink: /city-as-value-engine/
 ---
+# The City as a Value Engine
 
 The city is not the product.
-
 The city is the **value-generating system**.
 
 GAUSS does not attempt to extract more effort, productivity, or compliance from individuals.

@@ -1,5 +1,7 @@
 ---
 dg-publish: true
+permalink: /fabric/
+aliases:
 ---
 
 ## **Social Fabric for Modern Society**

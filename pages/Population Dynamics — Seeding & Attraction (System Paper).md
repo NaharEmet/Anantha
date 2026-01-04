@@ -1,5 +1,8 @@
 ---
 dg-publish: true
+permalink: /seeding-and-attraction/
+aliases:
+  - seeding
 ---
 
 **Why People Come — and Why That Matters**

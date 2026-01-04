@@ -1,9 +1,0 @@
-{
-  "showLineNumber": false,
-  "defaultViewMode": "preview",
-  "alwaysUpdateLinks": true,
-  "userIgnoreFilters": [
-    "copilot/",
-    "copilot/*"
-  ]
-}

@@ -1,7 +1,9 @@
 ---
 dg-publish: true
+permalink: /internal-governance-structure/
+aliases:
+  - Internal-governance-structure
 ---
-
 ## Core Premise
 
 GAUSS is designed with **zero expectation of individual intelligence, morality, or restraint**.
