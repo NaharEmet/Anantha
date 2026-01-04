@@ -202,11 +202,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "ba22db59e29d68b2",
   "lastOpenFiles": [
+    "src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
+    "src/site/notes",
+    "src/site",
+    "src",
     "copilot/copilot-conversations/sad@20260104_033620.md",
     "copilot/copilot-conversations/i_feel_like_this_part_PART_IV_—_CORE_OPERATING@20260104_033541.md",
     "GAUSS Team.md",
@@ -233,11 +238,8 @@
     "pages",
     "Untitled.base",
     "test.py",
-    "Eutopia.base",
     "Untitled/create a link.md",
     "Eutopia/Untitled.canvas",
-    "Eutopia/test.py",
-    "Eutopia",
     "Untitled/Untitled.canvas",
     "Untitled/GAUSS Project.md",
     "Untitled/Welcome.md"
