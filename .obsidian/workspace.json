@@ -11,14 +11,14 @@
             "id": "b00a7d850b710493",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
-                "mode": "source",
-                "source": false
+                "aFile": "src/site/notes/index.md",
+                "bFile": "src/site/notes/index.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "GAUSS — Global Autonomous Urban Systems & Society"
+              "icon": "diff",
+              "title": "Diff: index"
             }
           }
         ]
@@ -191,7 +191,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ba22db59e29d68b2",
+  "active": "b00a7d850b710493",
   "lastOpenFiles": [
     "src/site/notes/index.md",
     "src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
