@@ -16,8 +16,23 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "981278b4cc93f40a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GAUSS — Global Autonomous Urban Systems & Society"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for GAUSS — Global Autonomous Urban Systems & Society"
             }
           },
           {
@@ -186,8 +202,26 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ba22db59e29d68b2",
+  "active": "981278b4cc93f40a",
   "lastOpenFiles": [
+    "pages/FABRIC ~ Framework for Attuned Belonging, Reciprocity, and Interpersonal Connection.md",
+    "src/site/notes/src/site/notes/pages/pages/RC ~ Regenerative Currency.md",
+    "src/site/notes/src/site/notes/pages/pages/Index.md",
+    "src/site/notes/src/site/notes/pages/pages/GAUSS — Global Autonomous Urban Systems & Society.md",
+    "src/site/notes/src/site/notes/pages/pages/FABRIC ~ Framework for Attuned Belonging, Reciprocity, and Interpersonal Connection.md",
+    "src/site/notes/src/site/notes/pages/pages",
+    "src/site/notes/src/site/notes/pages/The City as a Value Engine.md",
+    "src/site/notes/src/site/notes/pages/Scaling and Replication.md",
+    "src/site/notes/src/site/notes/pages/RC ~ Regenerative Currency.md",
+    "src/site/notes/src/site/notes/pages/Population Dynamics — Seeding & Attraction (System Paper).md",
+    "src/site/notes/src/site/notes/pages/Ownership & Structural Architecture.md",
+    "src/site/notes/src/site/notes/pages/Internal governance structure.md",
+    "src/site/notes/src/site/notes/pages/FABRIC ~ Framework for Attuned Belonging, Reciprocity, and Interpersonal Connection.md",
+    "src/site/notes/src/site/notes/pages",
+    "src/site/notes/src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
+    "src/site/notes/src/site/notes",
+    "src/site/notes/src/site",
+    "src/site/notes/src",
     "src/site/notes/pages/pages/RC ~ Regenerative Currency.md",
     "src/site/notes/pages/pages/Index.md",
     "src/site/notes/pages/pages/GAUSS — Global Autonomous Urban Systems & Society.md",
@@ -206,25 +240,7 @@
     "src/site/img/user/images/Pasted image 20260104010831.png",
     "src/site/img/user/images",
     "src/site/img/user",
-    "src/site/img",
-    "src/site",
-    "src",
     "pages/pages/Index.md",
-    "pages/pages/FABRIC ~ Framework for Attuned Belonging, Reciprocity, and Interpersonal Connection.md",
-    "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
-    "conflict-files-obsidian-git.md",
-    "pages/pages/RC ~ Regenerative Currency.md",
-    "pages/pages/GAUSS — Global Autonomous Urban Systems & Society.md",
-    "pages/pages",
-    "pages/notes.json",
-    "pages/FABRIC ~ Framework for Attuned Belonging, Reciprocity, and Interpersonal Connection.md",
-    "pages/The City as a Value Engine.md",
-    "pages/Scaling and Replication.md",
-    "pages/RC ~ Regenerative Currency.md",
-    "pages/Population Dynamics — Seeding & Attraction (System Paper).md",
-    "pages/Ownership & Structural Architecture.md",
-    "pages/Internal governance structure.md",
-    "pages/Index.md",
     "dist/icon-512.png",
     "dist/apple-touch-icon.png",
     "dist/icon-192.png",
