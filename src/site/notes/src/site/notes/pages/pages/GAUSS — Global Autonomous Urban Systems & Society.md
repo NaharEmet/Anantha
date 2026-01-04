@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/pages/pages/gauss-global-autonomous-urban-systems-and-society/"}
+{"dg-publish":true,"permalink":"/src/site/notes/pages/pages/gauss-global-autonomous-urban-systems-and-society/"}
 ---
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/pages/fabric-framework-for-attuned-belonging-reciprocity-and-interpersonal-connection/"}
+{"dg-publish":true,"permalink":"/src/site/notes/pages/fabric-framework-for-attuned-belonging-reciprocity-and-interpersonal-connection/"}
 ---
 
 

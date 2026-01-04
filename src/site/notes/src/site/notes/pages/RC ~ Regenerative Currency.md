@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/pages/rc-regenerative-currency/"}
+{"dg-publish":true,"permalink":"/src/site/notes/pages/rc-regenerative-currency/"}
 ---
 
 

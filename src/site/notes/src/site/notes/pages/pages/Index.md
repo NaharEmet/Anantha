@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/pages/pages/index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/src/site/notes/pages/pages/index/","tags":["gardenEntry"]}
 ---
+
 
 
 
