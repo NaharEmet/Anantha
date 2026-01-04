@@ -205,10 +205,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ba22db59e29d68b2",
+  "active": "7da218da98bea727",
   "lastOpenFiles": [
-    "src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
     "src/site/notes/index.md",
+    "src/site/notes/src/site/notes/index.md",
+    "src/site/notes/src/site/notes",
+    "src/site/notes/src/site",
+    "src/site/notes/src",
+    "src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
     "copilot/copilot-conversations/why_is_my_site_not_having_an_index_page_srcsite@20260104_155150.md",
     "src/site/favicon.svg",
     "src/site/notes/src/index.md",
@@ -225,9 +229,6 @@
     "src/site/styles/custom-style.scss",
     "src/site/styles",
     "src/site/sitemap.njk",
-    "src/site/search-index.njk",
-    "src/site/notes/notes.json",
-    "src/site/notes/notes.11tydata.js",
     "GAUSS — Global Autonomous Urban Systems & Society.md",
     "index.md",
     "4. Why Existing Alternatives Fail.md",
@@ -250,7 +251,6 @@
     "Eutopia/Untitled 1 asdsa.md",
     "Untitled/create a link.md",
     "Eutopia/Untitled.canvas",
-    "Untitled/Untitled.canvas",
-    "Untitled/GAUSS Project.md"
+    "Untitled/Untitled.canvas"
   ]
 }
