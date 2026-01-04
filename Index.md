@@ -6,7 +6,6 @@ tags:
 permalink: /
 ---
 ## PART I — NECESSITY
-
 ### 1. Thesis
 
 As demonstrated in _Why Nations Fail_, long‑term prosperity is determined not by culture or intent, but by **systems, institutions, and incentives**. Human behavior adapts to structure.
@@ -385,7 +384,8 @@ Seeding is:
 
 As systems mature, structure replaces curation.
 culture becomes self sustaining, not a governance function.
-[[/pages/seeding-and-attraction/|seeding]]
+
+[[Population Dynamics — Seeding & Attraction (System Paper)]]
 
 ---
 
@@ -483,7 +483,7 @@ FABRIC exists to maintain **social coherence without coercion**.
 There is no enforcement authority.
 Constraint replaces force.
 
-[[pages/internal-governance-structure/|asd]]
+[[Internal governance structure|Internal-governance-structure]]
 
 ---
 
