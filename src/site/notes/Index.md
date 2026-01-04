@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-permalink: /src/site/notes/index/
+permalink: /index/
 tags:
   - gardenEntry
 dg-home: true
