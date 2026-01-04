@@ -1,14 +1,6 @@
 ---
-<<<<<<< HEAD:pages/GAUSS — Global Autonomous Urban Systems & Society.md
-dg-publish: true
-dg-home: true
-tags:
-  - gardenEntry
-=======
-{"dg-publish":true,"permalink":"/gauss-global-autonomous-urban-systems-and-society/"}
->>>>>>> origin/main:src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md
+{"dg-publish":true,"permalink":"/pages/gauss-global-autonomous-urban-systems-and-society/"}
 ---
-
 
 
 ## PART I — NECESSITY

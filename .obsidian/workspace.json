@@ -11,14 +11,14 @@
             "id": "d87946c6a36ad616",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
+                "bFile": "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "GAUSS — Global Autonomous Urban Systems & Society"
+              "icon": "diff",
+              "title": "Diff: GAUSS — Global Autonomous Urban Systems & Society"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GAUSS — Global Autonomous Urban Systems & Society"
+              "title": "Backlinks"
             }
           },
           {
@@ -191,15 +190,23 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ba22db59e29d68b2",
+  "active": "d87946c6a36ad616",
   "lastOpenFiles": [
+    "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
+    "conflict-files-obsidian-git.md",
+    "pages/pages/RC ~ Regenerative Currency.md",
+    "pages/pages/Index.md",
+    "pages/pages/GAUSS — Global Autonomous Urban Systems & Society.md",
+    "pages/pages/FABRIC ~ Framework for Attuned Belonging, Reciprocity, and Interpersonal Connection.md",
+    "pages/pages",
+    "pages/notes.json",
+    "pages/notes.11tydata.js",
     "pages/FABRIC ~ Framework for Attuned Belonging, Reciprocity, and Interpersonal Connection.md",
     "pages/The City as a Value Engine.md",
     "pages/Scaling and Replication.md",
     "pages/RC ~ Regenerative Currency.md",
     "pages/Population Dynamics — Seeding & Attraction (System Paper).md",
     "pages/Ownership & Structural Architecture.md",
-    "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
     "pages/Internal governance structure.md",
     "pages/Index.md",
     "copilot/copilot-conversations/why_is_my_site_not_having_an_index_page_srcsite@20260104_155150.md",
@@ -215,9 +222,6 @@
     "dist/favicon.svg",
     "dist/notes/Index/index.html",
     "dist/notes/Index",
-    "dist/styles/custom-style.css",
-    "src/site/styles/custom-style.css",
-    "src/site/styles/_theme.087d286e.css",
     "dist/img/tree-3.svg",
     "dist/img/tree-2.svg",
     "dist/img/tree-1.svg",
@@ -233,11 +237,6 @@
     "node_modules/@img/sharp-linuxmusl-x64/README.md",
     "node_modules/eleventy-plugin-gen-favicons/node_modules/@img/sharp-linuxmusl-x64/README.md",
     "node_modules/@11ty/eleventy-img/node_modules/@img/sharp-linuxmusl-x64/README.md",
-    "node_modules/@img/sharp-linux-x64/README.md",
-    "node_modules/eleventy-plugin-gen-favicons/node_modules/@img/sharp-linux-x64/README.md",
-    "node_modules/@11ty/eleventy-img/node_modules/sharp/README.md",
-    "node_modules/@img/colour/README.md",
-    "node_modules/@img/colour/LICENSE.md",
     "node_modules/eleventy-plugin-gen-favicons/test/img/testing.png",
     "Eutopia/Untitled.canvas",
     "Untitled/Untitled.canvas"
