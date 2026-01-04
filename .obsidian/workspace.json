@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -208,7 +208,8 @@
   "active": "aab9bc6c75b6c741",
   "lastOpenFiles": [
     "GAUSS — Global Autonomous Urban Systems & Society.md",
-    "src/index.md",
+    "4. Why Existing Alternatives Fail.md",
+    "index.md",
     "src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
     "src/site/notes",
     "src/site",
@@ -217,7 +218,6 @@
     "copilot/copilot-conversations/i_feel_like_this_part_PART_IV_—_CORE_OPERATING@20260104_033541.md",
     "GAUSS Team.md",
     "pages/Internal governance structure.md",
-    "4. Why Existing Alternatives Fail.md",
     "dsadsa.md",
     "copilot/copilot-conversations/GAUSS_—_Global_Autonomous_Urban_Systems_&_Society_you_are@20260104_025005.md",
     "copilot/memory/Recent Conversations.md",
