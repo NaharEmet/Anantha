@@ -1,5 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/gauss-global-autonomous-urban-systems-and-society/"}
+dg-publish: true
+permalink: /index/
+dg-home:
+tags:
+  - gardenEntry
 ---
 
 ## PART I — NECESSITY

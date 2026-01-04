@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aab9bc6c75b6c741",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/site/notes/index.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "b00a7d850b710493",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GAUSS Team.md",
+                "file": "src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GAUSS Team"
+              "title": "GAUSS — Global Autonomous Urban Systems & Society"
             }
           }
         ]
@@ -205,16 +191,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "7da218da98bea727",
+  "active": "b00a7d850b710493",
   "lastOpenFiles": [
     "src/site/notes/index.md",
+    "src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
+    "GAUSS Team.md",
+    "src/site/favicon.svg",
     "src/site/notes/src/site/notes/index.md",
     "src/site/notes/src/site/notes",
     "src/site/notes/src/site",
     "src/site/notes/src",
-    "src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
     "copilot/copilot-conversations/why_is_my_site_not_having_an_index_page_srcsite@20260104_155150.md",
-    "src/site/favicon.svg",
     "src/site/notes/src/index.md",
     "src/site/notes/src/site/notes/GAUSS — Global Autonomous Urban Systems & Society.md",
     "src/site/img/default-note-icon.svg",
@@ -234,7 +221,6 @@
     "4. Why Existing Alternatives Fail.md",
     "copilot/copilot-conversations/sad@20260104_033620.md",
     "copilot/copilot-conversations/i_feel_like_this_part_PART_IV_—_CORE_OPERATING@20260104_033541.md",
-    "GAUSS Team.md",
     "pages/Internal governance structure.md",
     "dsadsa.md",
     "copilot/copilot-conversations/GAUSS_—_Global_Autonomous_Urban_Systems_&_Society_you_are@20260104_025005.md",
@@ -249,7 +235,6 @@
     "pages/Population Dynamics — Seeding & Attraction (System Paper).md",
     "pages/RC ~ Regenerative Currency.md",
     "Eutopia/Untitled 1 asdsa.md",
-    "Untitled/create a link.md",
     "Eutopia/Untitled.canvas",
     "Untitled/Untitled.canvas"
   ]
