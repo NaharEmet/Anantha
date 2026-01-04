@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 permalink: /index/
-dg-home:
+dg-home: true
 tags:
   - gardenEntry
 ---
