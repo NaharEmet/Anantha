@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
+                "file": "pages/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GAUSS — Global Autonomous Urban Systems & Society"
+              "title": "Index"
             }
           }
         ],
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/GAUSS — Global Autonomous Urban Systems & Society.md",
+                "file": "pages/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GAUSS — Global Autonomous Urban Systems & Society"
+              "title": "Backlinks for Index"
             }
           },
           {
@@ -202,7 +202,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "981278b4cc93f40a",
+  "active": "7da218da98bea727",
   "lastOpenFiles": [
     "pages/FABRIC ~ Framework for Attuned Belonging, Reciprocity, and Interpersonal Connection.md",
     "src/site/notes/src/site/notes/pages/pages/RC ~ Regenerative Currency.md",
