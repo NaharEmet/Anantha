@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-permalink: /index/
+permalink: /
 tags:
   - gardenEntry
 dg-home: true
