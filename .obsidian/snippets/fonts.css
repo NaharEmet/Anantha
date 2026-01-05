@@ -1,0 +1,12 @@
+/*- source+live preview mode font -*/
+.markdown-source-view.mod-cm6 .cm-scroller {
+  font-family: 'Helvetica'; 
+
+
+}
+
+/*- reading mode font -*/
+.markdown-preview-view, .cm-scroller {
+  font-family: 'Helvetica'; 
+  
+} 
