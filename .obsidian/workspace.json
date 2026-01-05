@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "Gender Equality",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,11 +193,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ba22db59e29d68b2",
+  "active": "d87946c6a36ad616",
   "lastOpenFiles": [
+    "Wealth/Redefining Wealth.md",
+    "Anantha home.md",
     "Governance/Governance Framework.md",
     "Society/FABRIC.md",
-    "Anantha home.md",
+    "pages/Srevatsa/ANANTHA.md",
     "copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_194905.md",
     "Home.md",
     "README.md",
@@ -204,7 +207,6 @@
     "pages/Governance/GAUSS Team.md",
     "Society/Climate-Resilient and Green Urban Habitat.md",
     "Governance/The city as a system.md",
-    "Wealth/Redefining Wealth.md",
     "Wealth/Scaling and Replication.md",
     "Wealth/RC ~ Regenerative Currency.md",
     "Society/Population Dynamics — Seeding & Attraction (System Paper).md",
@@ -213,7 +215,6 @@
     "Society",
     "Governance",
     "Wealth",
-    "pages/Srevatsa/ANANTHA.md",
     "copilot/copilot-conversations/The_City_as_a_System_Anantha_functions_simultaneously_as_a@20260105_171030.md",
     "copilot/copilot-conversations/####_3.3.16._Climate-Resilient_Urban_Habitat_1._Climate_resilience_is_foundationa@20260105_164308.md",
     "copilot/copilot-conversations/are_you_working@20260105_164134.md",

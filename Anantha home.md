@@ -24,35 +24,58 @@ The city itself is the **primary value-generating system**, not land, labor, or 
 
 ---
 
-## Core philosophy
+## Core Philosophy
 
-> Human prosperity cannot be separated from planetary health.
+Anantha is founded on a single premise: **human prosperity cannot be separated from planetary health**.  
+The city is designed as a living system where ecological integrity, social well-being, and economic vitality reinforce one another.
 
-The design begins from three premises:
+This philosophy is expressed through four principles.
 
-- cities shape behavior through structure and incentives
-    
-- technology can absorb routine and extractive labor
-    
-- governance must live in **systems**, not individuals
-    
+---
 
-As production becomes increasingly automated, society itself must be re-architected to prevent stagnation, inequality, and ecological collapse.
+### Harmony Between People and Planet
+
+Human and natural systems are inseparable.  
+Urban form, infrastructure, and economic activity operate within ecological limits while actively restoring biodiversity, climate resilience, and long-term habitability.
+
+Nature functions as **core urban infrastructure**, not an externality.
+
+---
+
+### Cities Shape Behavior
+
+Cities are active systems that shape behavior through structure and incentives.  
+Anantha is designed so regenerative, cooperative, and efficient actions become the default—reducing reliance on individual compliance or enforcement.
+
+---
+
+### Technology Absorbs Routine Labor
+
+Automation and AI remove humans from repetitive and extractive work, redirecting effort toward care, creativity, stewardship, and governance.
+
+Technology amplifies human potential rather than replacing human purpose.
+
+---
+
+### Governance Is Systemic
+
+Resilience cannot depend on individuals.  
+Governance is embedded in systems—rules, incentives, and feedback loops—ensuring transparency, continuity, and long-term alignment.
 
 ---
 
 ### Redefining Wealth
 
 Wealth is not a stock of money.  
-It is the **emergent outcome of a well-designed urban system**.
+It is the **emergent outcome of a well-designed system**.
 
-###### Wealth is measured across interacting dimensions:
+###### We measure Wealth across interacting dimensions:
 
 - physical and mental health
     
 - time available for care, rest, and learning
     
-- food security and local sovereignty
+- food security and sovereignty
     
 - ecological regeneration capacity
     
@@ -73,15 +96,15 @@ Wealth increases when resources circulate, collaboration outperforms competition
 
 The system is built on a small set of non-negotiable principles:
 
--   Nature is infrastructure  — forests, water, food systems, and climate resilience are foundational, not decorative 
+- Nature is infrastructure  — forests, water, food systems, and climate resilience are foundational, not decorative 
     
 - **Community is capital** — social trust, care, and cooperation are explicitly supported and rewarded
     
-- [[Governance Framework| Governance is structural]] — power is bounded, visible, and reversible
+- Governance is structural — power is bounded, visible, and reversible
     
 - **Creativity is everyday life** — experimentation is embedded into urban form, policy, and culture
     
-- [[Climate-Resilient and Green Urban Habitat| Sustainability is the foundation]] — not a feature, not an add-on
+- **Sustainability is foundational** — not a feature, not an add-on
     
 
 
