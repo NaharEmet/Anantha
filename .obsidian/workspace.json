@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "sub contra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,8 +167,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           }
         ],
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 539.5
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,15 +192,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ba22db59e29d68b2",
+  "active": "d87946c6a36ad616",
   "lastOpenFiles": [
+    "pages/Internal governance structure - old.md",
     "Governance/Governance Framework.md",
-    "Society/FABRIC.md",
     "Anantha home.md",
+    "Society/FABRIC.md",
     "copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_194905.md",
     "Home.md",
     "README.md",
-    "pages/Internal governance structure - old.md",
     "pages/Governance/GAUSS Team.md",
     "Society/Climate-Resilient and Green Urban Habitat.md",
     "Governance/The city as a system.md",

@@ -2,25 +2,30 @@
 dg-home: true
 dg-publish: true
 ---
-# Anantha
-## Regenerative Urban System
+Anantha is a **city-scale operating system** built on care, intelligence, and balance—designed to prove that human prosperity and planetary health are not trade-offs, but co-dependencies.
 
-This is not a real-estate project.
+Where conventional cities optimize for extraction, consumption, and short-term yield, this system is designed to **heal rather than exhaust**—people, communities, and ecosystems.
 
-It is a **city-scale operating system** designed to demonstrate how human well-being, ecological regeneration, and technological intelligence can coexist—at scale, over time, and without relying on ideal human behavior.
+In this model:
 
-Where conventional cities optimize for extraction, consumption, and short-term growth, this system is designed to **heal rather than exhaust**—people, communities, and the planet.
-
----
-
-## What This Is
-
-- a living urban habitat  
-- a governance and economic experiment
-- a long-horizon innovation engine
-- a replicable system template
+- **Nature is infrastructure**
     
-The city itself is the **primary value-generating system**, not land, labor, or speculation.
+- **Community is capital**
+    
+- **Governance is transparent and earned**
+    
+- **Creativity is everyday life**
+    
+- **Sustainability is the foundation**
+    
+
+Wealth here is not measured only in financial output, but in **health, creativity, equity, and resilience**. Technology augments human goodwill and removes extractive labor—it does not replace care, judgment, or meaning.
+
+This city is built for **contribution over consumption**, **legacy over short-term gain**, and **cooperation over competition for finite resources**.
+
+It is not a finished product, but a **replicable urban operating system**—one that can be adapted across regions to restore ecosystems, share prosperity, and support human flourishing over generations.
+
+A city designed not just to function—but to heal.
 
 ---
 
@@ -52,7 +57,7 @@ It is the **emergent outcome of a well-designed urban system**.
     
 - time available for care, rest, and learning
     
-- food security and local sovereignty
+- food security and sovereignty
     
 - ecological regeneration capacity
     
@@ -88,6 +93,7 @@ The system is built on a small set of non-negotiable principles:
 
 ---
 
+#todo feels redundant maybe remove
 ## The City as a System
 
 The city functions simultaneously as:
@@ -118,15 +124,16 @@ Value is created at the **system level** by:
 
 ---
 
-## Governance by Structure, Not Authority
+## Good Governance through systems 
 
-This model does not assume individual intelligence, morality, or restraint.
+This model does not assume individual intelligence or benevolence.
 
 Instead:
 
 - governance lives in transparent structure
+- The best person to solve a problem is a person affected by it
     
-- incentives drive behavior
+- structured incentives drive behavior
     
 - AI provides context, options, and consequence mapping
     

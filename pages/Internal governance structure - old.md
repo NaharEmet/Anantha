@@ -102,7 +102,7 @@ Infrastructure responds to system state; it does not decide outcomes.
 
 ## Physical Safety
 
-### _(Security — Subcontracted)_
+### _(Security)_
 
 **Function**: Maintain immediate physical safety only.
 
