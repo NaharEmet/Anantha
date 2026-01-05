@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Anantha home"
             }
+          },
+          {
+            "id": "961b41729a601051",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anantha home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Anantha home"
+              "title": "Backlinks"
             }
           },
           {
@@ -114,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anantha home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Anantha home"
+              "title": "Outgoing links"
             }
           },
           {
@@ -143,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anantha home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Anantha home"
+              "title": "Outline"
             }
           },
           {
@@ -193,10 +205,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d87946c6a36ad616",
+  "active": "961b41729a601051",
   "lastOpenFiles": [
-    "Wealth/Redefining Wealth.md",
+    "conflict-files-obsidian-git.md",
     "Anantha home.md",
+    "Wealth/Redefining Wealth.md",
     "Governance/Governance Framework.md",
     "Society/FABRIC.md",
     "pages/Srevatsa/ANANTHA.md",
@@ -223,7 +236,6 @@
     "copilot/copilot-conversations/is_this_anywhere_in_my_home_####_3.3.10._A_City@20260105_163452.md",
     "src/site/notes/pages/The City as a Value Engine.md",
     "src/site/notes/pages/Scaling and Replication.md",
-    "src/site/notes/pages/RC ~ Regenerative Currency.md",
     "src/site/notes/pages",
     "src/site/notes",
     "src/site",
