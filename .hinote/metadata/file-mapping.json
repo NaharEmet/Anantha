@@ -1,0 +1,9 @@
+{
+  "version": "2.0",
+  "mapping": {
+    "home.md": "home.md.json",
+    "pages/Home.md": "pages_home.md.json",
+    "README.md": "readme.md.json"
+  },
+  "lastUpdated": 1767640656373
+}

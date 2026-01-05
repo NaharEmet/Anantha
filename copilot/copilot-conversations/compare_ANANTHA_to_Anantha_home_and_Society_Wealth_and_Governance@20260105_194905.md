@@ -1,6 +1,6 @@
 ---
 epoch: 1767622745770
-modelKey: "gemini-2.5-flash-lite|google"
+modelKey: "gemini-2.5-flash|google"
 topic: "Anantha vs. Home Missing Concepts"
 
 
@@ -8,7 +8,7 @@ tags:
   - copilot-conversation
 ---
 
-**user**: compare [[ANANTHA]] to [[Anantha home]] and {Society} {Wealth} and {Governance} create a list of concepts and ideas that are in the first file that are missing in the other files
+**user**: compare [[ANANTHA]] to [[pages/Home]] and {Society} {Wealth} and {Governance} create a list of concepts and ideas that are in the first file that are missing in the other files
 [Context: Notes: pages/Srevatsa/ANANTHA.md, Anantha home.md]
 [Timestamp: 2026/01/05 19:49:05]
 

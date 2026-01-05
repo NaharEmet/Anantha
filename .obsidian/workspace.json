@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anantha home.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anantha home"
-            }
-          },
-          {
-            "id": "961b41729a601051",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anantha home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Anantha home"
             }
           },
           {
@@ -128,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Anantha home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Anantha home"
             }
           },
           {
@@ -156,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Anantha home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Anantha home"
             }
           },
           {
@@ -183,6 +170,16 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "0db70fb78707d5ea",
+            "type": "leaf",
+            "state": {
+              "type": "hinote-view",
+              "state": {},
+              "icon": "highlighter",
+              "title": "HiNote"
+            }
           }
         ],
         "currentTab": 4
@@ -202,24 +199,29 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "hi-note:HiNote": false
     }
   },
-  "active": "961b41729a601051",
+  "active": "d87946c6a36ad616",
   "lastOpenFiles": [
+    "home.md",
+    "pages/Home.md",
+    "copilot/copilot-conversations/==intelligence==_i_want_to_repalce_this_word_in_the_first@20260106_003440.md",
+    "copilot/copilot-conversations/is_the_word_manefesto_a_good_first_header_and_what@20260106_003004.md",
+    "copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_234007.md",
+    "copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_233949.md",
+    "Governance/The city as a system.md",
     "conflict-files-obsidian-git.md",
-    "Anantha home.md",
     "Wealth/Redefining Wealth.md",
     "Governance/Governance Framework.md",
     "Society/FABRIC.md",
     "pages/Srevatsa/ANANTHA.md",
     "copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_194905.md",
-    "Home.md",
     "README.md",
     "pages/Internal governance structure - old.md",
     "pages/Governance/GAUSS Team.md",
     "Society/Climate-Resilient and Green Urban Habitat.md",
-    "Governance/The city as a system.md",
     "Wealth/Scaling and Replication.md",
     "Wealth/RC ~ Regenerative Currency.md",
     "Society/Population Dynamics — Seeding & Attraction (System Paper).md",
@@ -232,10 +234,6 @@
     "copilot/copilot-conversations/####_3.3.16._Climate-Resilient_Urban_Habitat_1._Climate_resilience_is_foundationa@20260105_164308.md",
     "copilot/copilot-conversations/are_you_working@20260105_164134.md",
     "copilot/copilot-conversations/####_3.3.16._Climate-Resilient_Urban_Habitat_1._Climate_resilience_is_foundationa@20260105_163936.md",
-    "copilot/copilot-conversations/i_feel_like_this_needs_to_be_added_to_home@20260105_163700.md",
-    "copilot/copilot-conversations/is_this_anywhere_in_my_home_####_3.3.10._A_City@20260105_163452.md",
-    "src/site/notes/pages/The City as a Value Engine.md",
-    "src/site/notes/pages/Scaling and Replication.md",
     "src/site/notes/pages",
     "src/site/notes",
     "src/site",
