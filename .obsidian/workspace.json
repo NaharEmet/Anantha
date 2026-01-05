@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "execution/What do we need.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "What do we need"
             }
           }
         ]
@@ -205,6 +205,9 @@
   },
   "active": "d87946c6a36ad616",
   "lastOpenFiles": [
+    "README.md",
+    "execution/What do we need.md",
+    "execution",
     "home.md",
     "pages/Home.md",
     "copilot/copilot-conversations/==intelligence==_i_want_to_repalce_this_word_in_the_first@20260106_003440.md",
@@ -218,7 +221,6 @@
     "Society/FABRIC.md",
     "pages/Srevatsa/ANANTHA.md",
     "copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_194905.md",
-    "README.md",
     "pages/Internal governance structure - old.md",
     "pages/Governance/GAUSS Team.md",
     "Society/Climate-Resilient and Green Urban Habitat.md",
@@ -233,14 +235,12 @@
     "copilot/copilot-conversations/The_City_as_a_System_Anantha_functions_simultaneously_as_a@20260105_171030.md",
     "copilot/copilot-conversations/####_3.3.16._Climate-Resilient_Urban_Habitat_1._Climate_resilience_is_foundationa@20260105_164308.md",
     "copilot/copilot-conversations/are_you_working@20260105_164134.md",
-    "copilot/copilot-conversations/####_3.3.16._Climate-Resilient_Urban_Habitat_1._Climate_resilience_is_foundationa@20260105_163936.md",
     "src/site/notes/pages",
     "src/site/notes",
     "src/site",
     "src",
     "copilot/memory",
     "copilot/copilot-conversations",
-    "copilot",
     "img/new-note-demo.gif",
     "img/dg-demo.gif",
     "images/Pasted image 20260104010831.png",
