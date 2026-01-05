@@ -5,7 +5,7 @@ tags:
 dg-publish: true
 ---
 
-# Anantha - Redefining Wealth: A Multi-Dimensional Framework
+# Redefining Wealth: A Multi-Dimensional Framework
 
 In Anantha, wealth is understood as a holistic outcome rather than mere financial accumulation. Urban success is measured through multiple dimensions:
 

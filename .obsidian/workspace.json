@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Anantha - Redefining Wealth.md",
+                "file": "Anantha home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anantha - Redefining Wealth"
+              "title": "Anantha home"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Index.md",
+                "file": "Anantha home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index"
+              "title": "Backlinks for Anantha home"
             }
           },
           {
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Anantha home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Anantha home"
             }
           },
           {
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Anantha - Redefining Wealth.md",
+                "file": "Anantha home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Anantha - Redefining Wealth"
+              "title": "Outline of Anantha home"
             }
           },
           {
@@ -193,44 +194,44 @@
   },
   "active": "ba22db59e29d68b2",
   "lastOpenFiles": [
+    "Governance/Governance Framework.md",
+    "Society/FABRIC.md",
+    "Anantha home.md",
+    "copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_194905.md",
+    "Home.md",
+    "README.md",
+    "pages/Internal governance structure - old.md",
+    "pages/Governance/GAUSS Team.md",
+    "Society/Climate-Resilient and Green Urban Habitat.md",
+    "Governance/The city as a system.md",
+    "Wealth/Redefining Wealth.md",
+    "Wealth/Scaling and Replication.md",
+    "Wealth/RC ~ Regenerative Currency.md",
+    "Society/Population Dynamics — Seeding & Attraction (System Paper).md",
+    "Governance/Ownership & Structural Architecture.md",
+    "Wealth/The City as a Value Engine.md",
+    "Society",
+    "Governance",
+    "Wealth",
+    "pages/Srevatsa/ANANTHA.md",
+    "copilot/copilot-conversations/The_City_as_a_System_Anantha_functions_simultaneously_as_a@20260105_171030.md",
+    "copilot/copilot-conversations/####_3.3.16._Climate-Resilient_Urban_Habitat_1._Climate_resilience_is_foundationa@20260105_164308.md",
+    "copilot/copilot-conversations/are_you_working@20260105_164134.md",
+    "copilot/copilot-conversations/####_3.3.16._Climate-Resilient_Urban_Habitat_1._Climate_resilience_is_foundationa@20260105_163936.md",
+    "copilot/copilot-conversations/i_feel_like_this_needs_to_be_added_to_home@20260105_163700.md",
+    "copilot/copilot-conversations/is_this_anywhere_in_my_home_####_3.3.10._A_City@20260105_163452.md",
     "src/site/notes/pages/The City as a Value Engine.md",
     "src/site/notes/pages/Scaling and Replication.md",
     "src/site/notes/pages/RC ~ Regenerative Currency.md",
-    "src/site/notes/pages/Population Dynamics — Seeding & Attraction (System Paper).md",
-    "src/site/notes/pages/Ownership & Structural Architecture.md",
-    "src/site/notes/pages/Internal governance structure.md",
-    "src/site/notes/pages/FABRIC.md",
     "src/site/notes/pages",
-    "src/site/notes/Home.md",
     "src/site/notes",
     "src/site",
     "src",
-    "pages/GAUSS Team.md",
-    "pages/Scaling and Replication.md",
-    "Home.md",
-    "Srevatsa/ANANTHA.md",
-    "pages/Anantha - Redefining Wealth.md",
-    "copilot/copilot-conversations/####_FUTURE-READY_URBAN_HABITAT_##_1._ANANTHA_MANIFESTO_1._Anantha@20260105_160225.md",
-    "pages/FABRIC.md",
-    "pages/The City as a Value Engine.md",
-    "copilot/copilot-conversations/Index_pages_compare_the_ananatha_doc_and_the_other_docs@20260105_151905.md",
-    "copilot/memory/Recent Conversations.md",
     "copilot/memory",
-    "copilot/copilot-conversations/format_this_document_into_md@20260105_151600.md",
     "copilot/copilot-conversations",
     "copilot",
-    "vercel.json",
-    "versions.json",
-    "tsconfig.json",
-    "LICENSE.md",
-    "src/dg-testVault/006 Custom title.md",
     "img/new-note-demo.gif",
     "img/dg-demo.gif",
-    "src/test/snapshot/snapshot.md",
-    "pages/RC ~ Regenerative Currency.md",
-    "pages/Population Dynamics — Seeding & Attraction (System Paper).md",
-    "pages/Ownership & Structural Architecture.md",
-    "pages/Internal governance structure.md",
     "images/Pasted image 20260104010831.png",
     "src/dg-testVault/E Embeds/garden-gate.svg",
     "src/dg-testVault/A Assets/unused_image.png",

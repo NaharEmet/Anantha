@@ -25,7 +25,7 @@ Here are the key areas of misalignment and comparison:
     *   Believes "technology must serve human goodwill, not replace it."
     *   Implies a belief in fostering positive human behavior through incentives and transparent governance.
     *   "Healthy competition to become the most valuable citizen, not through accumulation, but through contribution."
-*   **GAUSS (from [[Home]] and [[Internal governance structure]]):**
+*   **GAUSS (from [[Home]] and [[Internal governance structure - old]]):**
     *   Designed with "zero expectation of individual intelligence, morality, or restraint."
     *   Governance "lives in structure, transparency, and constraint," *not* in people.
     *   A good democracy is a "system output of informed participation," not a human assumption.
@@ -37,7 +37,7 @@ Here are the key areas of misalignment and comparison:
     *   AI supports "climate-responsive urban planning and building design, predictive maintenance, optimisation of energy, water, and waste systems, precision construction, real-time monitoring."
     *   Technology acts as an "enabler of human intention—enhancing transparency, trust, efficiency, and inclusivity."
     *   "Digital systems are designed to amplify cooperation, empathy, and informed decision-making rather than surveillance or exclusion."
-*   **GAUSS (from [[Internal governance structure]]):**
+*   **GAUSS (from [[Internal governance structure - old]]):**
     *   Every participant is paired with an "AI agent" that "provides context and precedents, discusses options, explains consequences, flags inconsistencies, proposes actions and repairs."
     *   Humans "approve or reject proposals; they do not design governance manually."
     *   AI is more deeply integrated into the *decision-making process itself* for governance, acting as a co-pilot for every participant, rather than primarily an infrastructure management tool.
@@ -72,7 +72,7 @@ Here are the key areas of misalignment and comparison:
 
 *   **ANANTHA:**
     *   The Civic Value Index "determines access to incentives, opportunities, leadership roles, and shared resources." This is a direct, performance-based incentive/disincentive system.
-*   **GAUSS (from [[Internal governance structure]]):**
+*   **GAUSS (from [[Internal governance structure - old]]):**
     *   "There is no coercive enforcement layer."
     *   "Visibility, constraint, and procedural execution replace force."
     *   FABRIC has "no punitive authority and no execution power."
@@ -105,7 +105,7 @@ In summary, while both Anantha and GAUSS aim for a regenerative, intelligent, an
 [Context: Notes: Srevatsa/ANANTHA.md, Index.md]
 [Timestamp: 2026/01/05 15:52:17]
 
-**ai**: Here's an update to point 4 of the [[Home]] note, incorporating the systemic failures of conventional urban developments highlighted in the [[Srevatsa/ANANTHA]] document:
+**ai**: Here's an update to point 4 of the [[Home]] note, incorporating the systemic failures of conventional urban developments highlighted in the [[ANANTHA]] document:
 
 ```markdown
 ### 4. Why Existing Alternatives Fail
@@ -207,7 +207,7 @@ To fully integrate these concepts, you might also consider updating the linked n
 [Context: Notes: Srevatsa/ANANTHA.md, pages/The City as a Value Engine.md, Index.md]
 [Timestamp: 2026/01/05 15:54:43]
 
-**ai**: Here's the updated content for your [[The City as a Value Engine]] note, incorporating the economic model and multi-dimensional definition of wealth from the [[Srevatsa/ANANTHA]] document, while maintaining GAUSS's structural design philosophy:
+**ai**: Here's the updated content for your [[The City as a Value Engine]] note, incorporating the economic model and multi-dimensional definition of wealth from the [[ANANTHA]] document, while maintaining GAUSS's structural design philosophy:
 
 ```markdown
 ---

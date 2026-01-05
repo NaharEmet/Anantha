@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 permalink: /internal-governance-structure/
 aliases:
   - Internal-governance-structure
