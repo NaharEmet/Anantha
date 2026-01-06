@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # How TO Create Multi-Dimensional Wealth  
 ## How Anantha Produces Its Definition of Prosperity
 
