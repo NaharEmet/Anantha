@@ -4,7 +4,7 @@ dg-publish: true
 ---
 # Anantha
 ## A Blueprint for Future Urbanism
-a **city-scale operating system** built on care, collective wisdom, and regeneration—designed to prove that human prosperity and planetary health are not trade-offs, but co-dependencies.
+a **city-scale system** built on care, collective wisdom, and regeneration—designed to prove that human prosperity and planetary health are not trade-offs, but co-dependencies.
 
 Where conventional cities optimize for extraction, consumption, and short-term yield, this system is designed to **heal rather than exhaust**—people, communities, and ecosystems.
 ######  In this model

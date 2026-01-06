@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
-                "mode": "source",
+                "file": "Governance/The city as a system.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "The city as a system"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gender Equality",
+                "query": "sub contra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,18 +167,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
-            "id": "0db70fb78707d5ea",
-            "type": "leaf",
-            "state": {
-              "type": "hinote-view",
-              "state": {},
-              "icon": "highlighter",
-              "title": "HiNote"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           }
         ],
@@ -186,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 539.5
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,31 +189,31 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "hi-note:HiNote": false
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "d87946c6a36ad616",
   "lastOpenFiles": [
-    "execution/What do we need.md",
-    "README.md",
-    "execution",
     "home.md",
+    "execution/stage 0/What Anatha needs.md",
+    "execution/stage 0",
+    "Anantha home.md",
     "pages/Home.md",
-    "copilot/copilot-conversations/==intelligence==_i_want_to_repalce_this_word_in_the_first@20260106_003440.md",
+    "execution",
     "copilot/copilot-conversations/is_the_word_manefesto_a_good_first_header_and_what@20260106_003004.md",
     "copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_234007.md",
     "copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_233949.md",
-    "Governance/The city as a system.md",
-    "conflict-files-obsidian-git.md",
-    "Wealth/Redefining Wealth.md",
+    "copilot/copilot-conversations/==intelligence==_i_want_to_repalce_this_word_in_the_first@20260106_003440.md",
+    "pages/Internal governance structure - old.md",
     "Governance/Governance Framework.md",
     "Society/FABRIC.md",
-    "pages/Srevatsa/ANANTHA.md",
     "copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_194905.md",
-    "pages/Internal governance structure - old.md",
+    "Home.md",
+    "README.md",
     "pages/Governance/GAUSS Team.md",
     "Society/Climate-Resilient and Green Urban Habitat.md",
+    "Governance/The city as a system.md",
+    "Wealth/Redefining Wealth.md",
     "Wealth/Scaling and Replication.md",
     "Wealth/RC ~ Regenerative Currency.md",
     "Society/Population Dynamics — Seeding & Attraction (System Paper).md",
@@ -232,15 +222,13 @@
     "Society",
     "Governance",
     "Wealth",
+    "pages/Srevatsa/ANANTHA.md",
     "copilot/copilot-conversations/The_City_as_a_System_Anantha_functions_simultaneously_as_a@20260105_171030.md",
-    "copilot/copilot-conversations/####_3.3.16._Climate-Resilient_Urban_Habitat_1._Climate_resilience_is_foundationa@20260105_164308.md",
-    "copilot/copilot-conversations/are_you_working@20260105_164134.md",
     "src/site/notes/pages",
     "src/site/notes",
     "src/site",
     "src",
     "copilot/memory",
-    "copilot/copilot-conversations",
     "img/new-note-demo.gif",
     "img/dg-demo.gif",
     "images/Pasted image 20260104010831.png",
