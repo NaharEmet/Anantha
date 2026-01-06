@@ -3,12 +3,12 @@ dg-home: true
 dg-publish: true
 ---
 # Anantha
-###### _leaving the world better than we find it_
 ## A Blueprint for Future Urbanism
 a **city-scale system** built on care, collective wisdom, and regeneration—designed to prove that human prosperity and planetary health are not trade-offs, but co-dependencies.
 
 Where conventional cities optimize for extraction, consumption, and short-term yield, this system is designed to **heal rather than exhaust**—people, communities, and ecosystems.
-######  In this model
+
+In this model
 - **Nature is infrastructure**
 - **Community is capital**
 - **Governance is transparent and earned**

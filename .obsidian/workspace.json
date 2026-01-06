@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xfiles/Notes.md",
+                "file": "Beginning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Beginning"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "eb39d4f25d15825f",
   "lastOpenFiles": [
-    "Beginning.md",
     "Xfiles/Notes.md",
+    "Beginning.md",
     "Wealth/Defining Wealth.md",
     "2026-01-07.md",
     "Wealth/systems-of-wealth.md",
