@@ -8,7 +8,7 @@ tags:
   - copilot-conversation
 ---
 
-**user**: compare [[ANANTHA]] to [[pages/Home]] and {Society} {Wealth} and {Governance} create a list of concepts and ideas that are in the first file that are missing in the other files
+**user**: compare [[ANANTHA]] to [[Xfiles/Source/Home]] and {Society} {Wealth} and {Governance} create a list of concepts and ideas that are in the first file that are missing in the other files
 [Context: Notes: Anantha home.md, pages/Srevatsa/ANANTHA.md]
 [Timestamp: 2026/01/05 23:39:49]
 

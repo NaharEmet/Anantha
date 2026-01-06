@@ -35,15 +35,15 @@ aligning livelihoods with regeneration
 
 **ai**: Yes, the following notes are available that discuss governance structures:
 
-*   [[Internal governance structure - old.md]]
+*   [[Internal governance structure - old]]
 *   [[Governance Framework.md]]
 [Timestamp: 2026/01/05 17:10:45]
 
-**user**: read all of the pages including [[pages/Home]] and compile all of the information that could go into that paper
+**user**: read all of the pages including [[Xfiles/Source/Home]] and compile all of the information that could go into that paper
 [Context: Notes: Home.md, Anantha home.md]
 [Timestamp: 2026/01/05 17:11:16]
 
-**ai**: Here's a compilation of information from the provided notes that could go into a paper on "The City as a System," drawing from [[Anantha]], [[pages/Home]], and other related notes:
+**ai**: Here's a compilation of information from the provided notes that could go into a paper on "The City as a System," drawing from [[ANANTHA]], [[Xfiles/Source/Home]], and other related notes:
 
 ## The City as a System: Anantha's Operating Framework
 

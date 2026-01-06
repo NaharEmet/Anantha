@@ -3,6 +3,7 @@ dg-home: true
 dg-publish: true
 ---
 # Anantha
+###### _leaving the world better than we find it_
 ## A Blueprint for Future Urbanism
 a **city-scale system** built on care, collective wisdom, and regeneration—designed to prove that human prosperity and planetary health are not trade-offs, but co-dependencies.
 
@@ -126,7 +127,7 @@ Wealth increases when resources circulate, collaboration outperforms competition
 
 **Wealth is not owned. It is maintained.**
 
-[[Redefining Wealth]]
+[[Defining Wealth]]
 
 ---
 

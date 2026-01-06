@@ -30,7 +30,7 @@
   "openAIProxyBaseUrl": "",
   "openAIEmbeddingProxyBaseUrl": "",
   "stream": true,
-  "defaultSaveFolder": "copilot/copilot-conversations",
+  "defaultSaveFolder": "_Extra/copilot/copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": true,
   "generateAIChatTitleOnSave": true,
@@ -382,5 +382,5 @@
   "maxRecentConversations": 30,
   "enableSavedMemory": true,
   "quickCommandIncludeNoteContext": true,
-  "autoIncludeTextSelection": false
+  "autoIncludeTextSelection": true
 }
