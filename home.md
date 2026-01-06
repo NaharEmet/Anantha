@@ -7,7 +7,7 @@ dg-publish: true
 a **city-scale operating system** built on care, collective wisdom, and regeneration—designed to prove that human prosperity and planetary health are not trade-offs, but co-dependencies.
 
 Where conventional cities optimize for extraction, consumption, and short-term yield, this system is designed to **heal rather than exhaust**—people, communities, and ecosystems.
-###### In this model:
+######  In this model
 - **Nature is infrastructure**
 - **Community is capital**
 - **Governance is transparent and earned**
@@ -42,7 +42,7 @@ Anantha is designed as a layered, interacting system rather than a collection of
 ##### Each layer constrains and reinforces the others.
 
 - **Ecological Base Layer**  
-  Land, water, biodiversity, climate resilience, and food systems form the non-negotiable foundation. All higher layers operate within ecological thresholds.
+  Land, water, biodiversity, climate resilience, and food systems form the foundation. All layers operate within ecological thresholds.
 
 - **Social & Care Layer**  
   Health, education, care work, cultural life, and social trust are treated as productive infrastructure rather than externalities.
@@ -88,20 +88,19 @@ Anantha is designed so regenerative, cooperative, and efficient actions become t
 
 ### Technology Absorbs Routine Labor
 
-Automation and AI remove humans from repetitive and extractive work, redirecting effort toward care, creativity, stewardship, and governance.
+Automation and AI remove humans from repetitive and manual work, redirecting effort toward care, creativity, stewardship, and governance.
 
 Technology amplifies human potential rather than replacing human purpose.
 
 ---
 ### Circular Economy
 
-Waste is eliminated by design. Materials, energy, water, and nutrients circulate within closed-loop systems.
-Key principles include: 
-- Design for reuse, repair, and disassembly
-- Local resource loops - 
-- Energy-positive buildings - 
-- Zero-waste food and material systems 
-The city itself becomes a regenerative metabolism rather than a linear consumer of resources.
+Anantha operates as a closed-loop system. Materials, energy, water, and nutrients circulate in regenerative cycles rather than being consumed and discarded.
+
+Waste is eliminated at the design level. Resources are structured for reuse, repair, and reintegration, with local circulation and energy-positive infrastructure.
+
+The city does not function as a linear consumer of inputs.  
+It behaves as a living metabolism that restores what it uses.
 
 ---
 ### Governance Is Systemic
