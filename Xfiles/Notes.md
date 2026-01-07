@@ -94,6 +94,7 @@ creates company that creates the city
 	
 ## to do
 talk to the foresters people how do we rewire 
+find the people in power that will support this project
 
 
 
