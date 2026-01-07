@@ -57,9 +57,17 @@ funding
 non profit owns the forest
 creates company that creates the city
 
+### step 1
+- find the forests 
+- and create a plan to reforst them 
+- create a resorce map of the 
+##### what we know
+- where are the forsts 
+- where are the mines 
+- where are the degraded forests
+
 		
 ## 3 companies 
-
 - forest 
 	- non profit
 - governance 
@@ -67,4 +75,15 @@ creates company that creates the city
 - construction
 	- investor
 	
+present state of reforestation india goverment 
 
+### regenerative 
+- 500 acres max 5000
+- carbon credits will be given 
+- state protection 
+- create legal structure to own the land
+- give us 20% and get it back as carbon credits
+### city
+- 
+
+### governance
