@@ -12,6 +12,7 @@ re greening the planet
 	need protection
 
 land title for security 
+
 carbon credits
 
 march talk to wealth funds
@@ -27,15 +28,22 @@ create the incentive city for people with condemend land to give their land
 
 
 #### 3 tipes of mines 
-scaped 
-	usable
-granatite
-	only good for water
-3rd mine deeper 
-	unusable 
-	fantastic because rocks 
+###### scaped 
+- usable
+###### granatite
+- only good for water
+###### 3rd mine deeper  
+- 30 ft
+- limestone
+- unusable 
+- fantastic because rocks 
 
+#### land transfered into trust 
+- give them carbon credits 
+- company cant continue to own land 
 
+2 problems 
+- 
 
 	
 
