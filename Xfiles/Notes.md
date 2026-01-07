@@ -26,6 +26,14 @@ create the incentive city for people with condemend land to give their land
 - create micro forest 
 
 
+#### 3 tipes of mines 
+scaped 
+	usable
+granatite
+	only good for water
+3rd mine deeper 
+	unusable 
+	fantastic because rocks 
 
 
 
