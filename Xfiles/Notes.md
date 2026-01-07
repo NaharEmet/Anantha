@@ -3,9 +3,12 @@ Links and emphasize are the same color. It is confusing.
 3 papers 
 
 end goal
+	what we would want
 middle ground
 	practical but doable 
+
 start
+	whats the first step
 
 ## where are fund available
 re greening the planet 
@@ -64,6 +67,10 @@ creates company that creates the city
 - find out the cost of regeneration
 
 ## sreevatsa
+- meeting what to talk about
+	- why we need cities 
+	- that we have access 
+	- how to raise funding 
 - find the land
 	- preferably where we can build the city
 - forest proposal 
@@ -71,11 +78,17 @@ creates company that creates the city
 	- goverment degraded forests 
 	- where is the goverment thinking of building a city 
 	- hill area forest
-
+- generate maps 
+	- forests 
+	- and forests that can be cities 
 
 ## chandra 
 - find the money 
 - find out how much 
+	
+## to do
+talk to the foresters people how do we rewire 
+
 
 
 
