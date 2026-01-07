@@ -62,7 +62,22 @@ creates company that creates the city
 - and create a plan to reforest them 
 - create a resource map 
 - find out the cost of regeneration
-- 
+
+## sreevatsa
+- find the land
+	- preferably where we can build the city
+- forest proposal 
+	- sites 
+	- goverment degraded forests 
+	- where is the goverment thinking of building a city 
+	- hill area forest
+
+
+## chandra 
+- find the money 
+- find out how much 
+
+
 
 ### step 2
 - think about cities 
