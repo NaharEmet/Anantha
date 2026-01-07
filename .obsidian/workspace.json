@@ -180,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "hi-note:HiNote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -192,8 +193,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d87946c6a36ad616",
+  "active": "ba22db59e29d68b2",
   "lastOpenFiles": [
+    "execution/stage 0/notes.md",
+    "Governance/The city as a system.md",
     "home.md",
     "execution/stage 0/What Anatha needs.md",
     "execution/stage 0",
@@ -212,7 +215,6 @@
     "README.md",
     "pages/Governance/GAUSS Team.md",
     "Society/Climate-Resilient and Green Urban Habitat.md",
-    "Governance/The city as a system.md",
     "Wealth/Redefining Wealth.md",
     "Wealth/Scaling and Replication.md",
     "Wealth/RC ~ Regenerative Currency.md",
