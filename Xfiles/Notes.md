@@ -58,5 +58,7 @@ non profit owns the forest
 creates company that creates the city
 
 	
-
+## 3 companies 
+	forest 
+	governanc
 
