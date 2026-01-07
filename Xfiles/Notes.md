@@ -4,12 +4,19 @@ Links and emphasize are the same color. It is confusing.
 
 end goal
 middle ground
-	practicle but doable 
+	practical but doable 
 start
 
 ## where are fund available
-regreening the planet 
+re greening the planet 
 	need protection
+
+land title for security 
+carbon credits
+
+
+
+
 	
 
 
