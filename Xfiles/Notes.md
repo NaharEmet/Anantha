@@ -43,7 +43,17 @@ create the incentive city for people with condemend land to give their land
 - company cant continue to own land 
 
 2 problems 
-- 
+
+
+## constraints 
+- 3 degree temoerature rise
+	- root temp over 40 tree dies 
+
+will goverment support 
+where to build city
+what does the city look like 
+funding 
+
 
 	
 
