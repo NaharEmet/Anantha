@@ -59,8 +59,14 @@ creates company that creates the city
 
 ### step 1
 - find the forests 
-- and create a plan to reforst them 
-- create a resorce map of the 
+- and create a plan to reforest them 
+- create a resource map 
+- find out the cost of regeneration
+- 
+
+### step 2
+- think about cities 
+
 ##### what we know
 - where are the forsts 
 - where are the mines 
