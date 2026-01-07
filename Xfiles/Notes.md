@@ -67,18 +67,24 @@ creates company that creates the city
 - find out the cost of regeneration
 
 ## sreevatsa
-- meeting what to talk about
+- ##### meeting what to talk about
 	- why we need cities 
 	- that we have access 
 	- how to raise funding 
-- find the land
+	- how do we generate wealth 
+	- how do we support such a think 
+	- are there things that we arent thinking of
+	- give auroville context
+		- ask to collaborate
+	- follow up meeting on the 24th of jan
+- ##### find the land
 	- preferably where we can build the city
-- forest proposal 
+- ##### forest proposal 
 	- sites 
 	- goverment degraded forests 
 	- where is the goverment thinking of building a city 
 	- hill area forest
-- generate maps 
+- ##### generate maps 
 	- forests 
 	- and forests that can be cities 
 
