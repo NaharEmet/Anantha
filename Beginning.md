@@ -136,12 +136,12 @@ Wealth increases when resources circulate, collaboration outperforms competition
 our governance model does not assume individual intelligence or benevolence.
 
 governance design principles
-- transparent structure
-- structured incentives drive behavior
-- Forward-deployed governance
-- AI provides context, options, and consequence mapping
-- no entity may both decide and enforce
-- no decision may be hidden
+- **transparent structure**
+- **structured incentives drive behavior****
+- **Forward-deployed governance**
+- **AI provides context, options, and consequence mapping**
+- **no entity may both decide and enforce**
+- **no decision may be hidden**
 
 Repair replaces punishment.  
 Visibility replaces force.
