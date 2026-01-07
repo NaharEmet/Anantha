@@ -48,12 +48,14 @@ create the incentive city for people with condemend land to give their land
 ## constraints 
 - 3 degree temoerature rise
 	- root temp over 40 tree dies 
-
+### steps
 will goverment support 
 where to build city
 what does the city look like 
 funding 
 
+non profit owns the forest
+creates company that creates the city
 
 	
 
