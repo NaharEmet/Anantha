@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governance/The city as a system.md",
-                "mode": "preview",
+                "file": "Beginning.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The city as a system"
+              "title": "Beginning"
+            }
+          },
+          {
+            "id": "8e39b8fd34d1d7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xfiles/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "f85515ef8d314cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xfiles/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,44 +222,45 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ba22db59e29d68b2",
+  "active": "f85515ef8d314cd2",
   "lastOpenFiles": [
-    "execution/stage 0/notes.md",
-    "Governance/The city as a system.md",
-    "home.md",
-    "execution/stage 0/What Anatha needs.md",
-    "execution/stage 0",
-    "Anantha home.md",
-    "pages/Home.md",
-    "execution",
-    "copilot/copilot-conversations/is_the_word_manefesto_a_good_first_header_and_what@20260106_003004.md",
-    "copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_234007.md",
-    "copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_233949.md",
-    "copilot/copilot-conversations/==intelligence==_i_want_to_repalce_this_word_in_the_first@20260106_003440.md",
-    "pages/Internal governance structure - old.md",
-    "Governance/Governance Framework.md",
+    "conflict-files-obsidian-git.md",
+    "Xfiles/Notes.md",
+    "Beginning.md",
     "Society/FABRIC.md",
-    "copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_194905.md",
-    "Home.md",
-    "README.md",
-    "pages/Governance/GAUSS Team.md",
-    "Society/Climate-Resilient and Green Urban Habitat.md",
-    "Wealth/Redefining Wealth.md",
-    "Wealth/Scaling and Replication.md",
-    "Wealth/RC ~ Regenerative Currency.md",
-    "Society/Population Dynamics — Seeding & Attraction (System Paper).md",
-    "Governance/Ownership & Structural Architecture.md",
-    "Wealth/The City as a Value Engine.md",
+    "Governance/The city as a system.md",
+    "Xfiles/copilot/memory/Recent Conversations.md",
+    "Xfiles/copilot/copilot-conversations/is_this_anywhere_in_my_home_####_3.3.10._A_City@20260105_163452.md",
+    "Xfiles/copilot/copilot-conversations/is_the_word_manefesto_a_good_first_header_and_what@20260106_003004.md",
+    "Xfiles/copilot/copilot-conversations/i_feel_like_this_needs_to_be_added_to_home@20260105_163700.md",
+    "Xfiles/copilot/copilot-conversations/format_this_document_into_md@20260105_151600.md",
+    "Xfiles/copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_234007.md",
+    "Xfiles/copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_233949.md",
+    "Xfiles/copilot/copilot-conversations/compare_ANANTHA_to_Anantha_home_and_Society_Wealth_and_Governance@20260105_194905.md",
+    "Xfiles/copilot/copilot-conversations/are_you_working@20260105_164134.md",
+    "Xfiles/copilot/copilot-conversations/The_City_as_a_System_Anantha_functions_simultaneously_as_a@20260105_171030.md",
+    "Xfiles/copilot/copilot-conversations/Index_pages_compare_the_ananatha_doc_and_the_other_docs@20260105_151905.md",
+    "Xfiles/copilot/copilot-conversations/==intelligence==_i_want_to_repalce_this_word_in_the_first@20260106_003440.md",
+    "Xfiles/copilot/copilot-conversations/####_FUTURE-READY_URBAN_HABITAT_##_1._ANANTHA_MANIFESTO_1._Anantha@20260105_160225.md",
+    "Xfiles/copilot/copilot-conversations/####_3.3.16._Climate-Resilient_Urban_Habitat_1._Climate_resilience_is_foundationa@20260105_164308.md",
+    "Xfiles/copilot/copilot-conversations/####_3.3.16._Climate-Resilient_Urban_Habitat_1._Climate_resilience_is_foundationa@20260105_163936.md",
+    "Xfiles/Source/Srevatsa/ANANTHA.md",
+    "Xfiles/images/Anantha logo.svg",
+    "Xfiles/copilot/memory",
+    "Xfiles/copilot/copilot-conversations",
+    "Xfiles/Source/Srevatsa",
+    "Xfiles/Source/Internal governance structure - old.md",
+    "Xfiles/Source/Home.md",
+    "Xfiles/images",
+    "Xfiles/copilot",
+    "Xfiles/Source",
+    "Xfiles",
+    "Wealth/systems-of-wealth.md",
+    "Wealth/Defining Wealth.md",
+    "execution/stage 0/notes.md",
+    "execution/stage 0",
+    "execution",
     "Society",
-    "Governance",
-    "Wealth",
-    "pages/Srevatsa/ANANTHA.md",
-    "copilot/copilot-conversations/The_City_as_a_System_Anantha_functions_simultaneously_as_a@20260105_171030.md",
-    "src/site/notes/pages",
-    "src/site/notes",
-    "src/site",
-    "src",
-    "copilot/memory",
     "img/new-note-demo.gif",
     "img/dg-demo.gif",
     "images/Pasted image 20260104010831.png",
@@ -240,7 +270,6 @@
     "src/dg-testVault/A Assets/travolta.png",
     "src/site/img/outgoing.svg",
     "src/site/favicon.svg",
-    "src/site/img/user/images/Pasted image 20260104010831.png",
     "Eutopia/Untitled.canvas",
     "Untitled/Untitled.canvas"
   ]

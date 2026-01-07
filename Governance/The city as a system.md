@@ -221,7 +221,7 @@ Anantha creates value by structurally:
 
 These changes produce **compounding gains** in well-being, innovation, and resilience.
 
-[[Redefining Wealth]]
+[[Defining Wealth]]
 
 ---
 

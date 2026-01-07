@@ -8,7 +8,7 @@ tags:
   - copilot-conversation
 ---
 
-**user**: [[pages/Home]] {pages} compare the ananatha doc and the other docs find all places where there is missaligment and compare them 
+**user**: [[Xfiles/Source/Home]] {pages} compare the ananatha doc and the other docs find all places where there is missaligment and compare them 
 [Context: Notes: Index.md, Srevatsa/ANANTHA.md]
 [Timestamp: 2026/01/05 15:19:05]
 
@@ -25,7 +25,7 @@ Here are the key areas of misalignment and comparison:
     *   Believes "technology must serve human goodwill, not replace it."
     *   Implies a belief in fostering positive human behavior through incentives and transparent governance.
     *   "Healthy competition to become the most valuable citizen, not through accumulation, but through contribution."
-*   **GAUSS (from [[pages/Home]] and [[Internal governance structure - old]]):**
+*   **GAUSS (from [[Xfiles/Source/Home]] and [[Internal governance structure - old]]):**
     *   Designed with "zero expectation of individual intelligence, morality, or restraint."
     *   Governance "lives in structure, transparency, and constraint," *not* in people.
     *   A good democracy is a "system output of informed participation," not a human assumption.
@@ -62,7 +62,7 @@ Here are the key areas of misalignment and comparison:
     *   Fosters a "Bio-Cultural Partnership–Based Economic Model" aligned with regeneration, cultural preservation, community-led enterprises, and green innovation.
     *   "Rewarding Care for People and Planet" is a core principle, formally recognizing and rewarding caring labor.
     *   Embraces a "Circular Economy as an Urban Ethos."
-*   **GAUSS (from [[pages/Home]], [[RC ~ Regenerative Currency]], [[The City as a Value Engine]]):**
+*   **GAUSS (from [[Xfiles/Source/Home]], [[RC ~ Regenerative Currency]], [[The City as a Value Engine]]):**
     *   Focuses on a "post-labor world" where "essential needs are guaranteed independent of employment."
     *   "Economic sufficiency as a baseline" (structurally low cost of living, reduced dependence on precarious employment).
     *   Introduces "Regenerative Currency (RC)" as a "second accounting layer" that prices "future repair and maintenance costs" at the time of transaction. RC is a "maintenance system," not a moral system or a replacement for fiat currency.
@@ -105,7 +105,7 @@ In summary, while both Anantha and GAUSS aim for a regenerative, intelligent, an
 [Context: Notes: Srevatsa/ANANTHA.md, Index.md]
 [Timestamp: 2026/01/05 15:52:17]
 
-**ai**: Here's an update to point 4 of the [[pages/Home]] note, incorporating the systemic failures of conventional urban developments highlighted in the [[ANANTHA]] document:
+**ai**: Here's an update to point 4 of the [[Xfiles/Source/Home]] note, incorporating the systemic failures of conventional urban developments highlighted in the [[ANANTHA]] document:
 
 ```markdown
 ### 4. Why Existing Alternatives Fail
@@ -137,7 +137,7 @@ GAUSS is designed to operate explicitly **after novelty has faded, ideology calc
 [Context: Notes: Srevatsa/ANANTHA.md, Index.md]
 [Timestamp: 2026/01/05 15:53:17]
 
-**ai**: The core premise, or "GAUSS point," as outlined in the [[pages/Home]] note, is:
+**ai**: The core premise, or "GAUSS point," as outlined in the [[Xfiles/Source/Home]] note, is:
 
 > If technology carries the burden of production, society itself must be re-architected for the oncoming age to prevent stagnation, social and economic collapse.
 
@@ -153,9 +153,9 @@ update gauss to match with anatha
 [Context: Notes: Srevatsa/ANANTHA.md, Index.md]
 [Timestamp: 2026/01/05 15:53:37]
 
-**ai**: To update GAUSS to reflect Anantha's "Economic Model and Definition of Wealth," we will modify the "8. The city as a Value Engine" section in your [[pages/Home]] note. This will incorporate Anantha's multi-dimensional definition of wealth and its emphasis on rewarding care and bio-cultural partnerships.
+**ai**: To update GAUSS to reflect Anantha's "Economic Model and Definition of Wealth," we will modify the "8. The city as a Value Engine" section in your [[Xfiles/Source/Home]] note. This will incorporate Anantha's multi-dimensional definition of wealth and its emphasis on rewarding care and bio-cultural partnerships.
 
-Here's the updated content for the relevant section in your [[pages/Home]] note:
+Here's the updated content for the relevant section in your [[Xfiles/Source/Home]] note:
 
 ```markdown
 ## PART III — THE CITY AS A SYSTEM

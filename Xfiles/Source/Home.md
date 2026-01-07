@@ -78,7 +78,7 @@ It operates as a **circular economy** that minimizes loss and future burden.
 
 **Wealth, therefore, is not owned.**  
 It is **maintained**.
-[[Redefining Wealth]]
+[[Defining Wealth]]
 
 #### 3.3.10. A City Where Creativity Thrives 
 1. Urban form, policies, and institutions are designed to allow experimentation and expression. Flexible zoning, adaptive reuse, cultural corridors, and public art ensure that creativity becomes a daily urban experience rather than a niche activity. 
