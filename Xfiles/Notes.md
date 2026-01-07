@@ -59,6 +59,7 @@ creates company that creates the city
 
 		
 ## 3 companies 
+
 - forest 
 	- non profit
 - governance 
