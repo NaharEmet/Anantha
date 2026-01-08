@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xfiles/notes/Rajanya 26.1.8.md",
+                "file": "KPIs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rajanya 26.1.8"
+              "title": "KPIs"
             }
           }
         ]
@@ -203,10 +203,12 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "7da218da98bea727",
+  "active": "eb39d4f25d15825f",
   "lastOpenFiles": [
-    "Xfiles/notes/chanra sreevatsa nahar 26.1.7.md",
     "Xfiles/notes/Rajanya 26.1.8.md",
+    "KPIs.md",
+    "Untitled",
+    "Xfiles/notes/chanra sreevatsa nahar 26.1.7.md",
     "Beginning.md",
     "Xfiles/notes",
     "Xfiles/Notes.md",
@@ -236,13 +238,11 @@
     "Xfiles/Source/Internal governance structure - old.md",
     "pages/Governance/GAUSS Team.md",
     "Society/Climate-Resilient and Green Urban Habitat.md",
-    "Wealth/Scaling and Replication.md",
     "Society",
     "Governance",
     "Wealth",
     "src/site/notes/pages",
     "src/site/notes",
-    "src/site",
     "img/new-note-demo.gif",
     "img/dg-demo.gif",
     "images/Pasted image 20260104010831.png",
