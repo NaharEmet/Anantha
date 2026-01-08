@@ -1,5 +1,4 @@
-./Xfiles
-./env
-./vscode
-./.obsidian
+Xfiles/
+.vscode/
+.obsidian/
 .env
