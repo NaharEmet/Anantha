@@ -9,7 +9,7 @@ a **city-scale system** built on care, collective wisdom, and regeneration—des
 Where conventional cities optimize for extraction, consumption, and short-term yield, this system is designed to **heal rather than exhaust**—people, communities, and ecosystems.
 
 In this model
-- **Nature is infrastructure**
+	- **Nature is infrastructure**
 - **Community is capital**
 - **Governance is transparent and earned**
 - **Creativity is everyday life**
