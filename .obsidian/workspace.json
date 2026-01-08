@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginning.md",
+                "file": "Xfiles/notes/Rajanya 26.1.8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beginning"
+              "title": "Rajanya 26.1.8"
             }
           }
         ]
@@ -203,12 +203,13 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "ba22db59e29d68b2",
+  "active": "7da218da98bea727",
   "lastOpenFiles": [
     "Xfiles/notes/chanra sreevatsa nahar 26.1.7.md",
+    "Xfiles/notes/Rajanya 26.1.8.md",
+    "Beginning.md",
     "Xfiles/notes",
     "Xfiles/Notes.md",
-    "Beginning.md",
     "Wealth/Defining Wealth.md",
     "2026-01-07.md",
     "Wealth/systems-of-wealth.md",
@@ -236,7 +237,6 @@
     "pages/Governance/GAUSS Team.md",
     "Society/Climate-Resilient and Green Urban Habitat.md",
     "Wealth/Scaling and Replication.md",
-    "Wealth/RC ~ Regenerative Currency.md",
     "Society",
     "Governance",
     "Wealth",
