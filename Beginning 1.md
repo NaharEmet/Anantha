@@ -28,11 +28,7 @@ A city designed not just to function—but to heal.
 ## Design Principles
 
 ###### The system is built on a small set of non-negotiable principles
-<<<<<<< HEAD
-- **Nature is infrastructure** — forests, water, food systems, and climate resilience are foundational, not decorative 
-=======
 - **Nature is infrastructure**  — forests, water, food systems, and climate resilience are foundational, not decorative 
->>>>>>> origin/main
 - **Community is capital** — social trust, care, and cooperation are explicitly supported and rewarded
 - **Governance is a system** — power is bounded, visible, and reversible
 - **Creativity is everyday life** — experimentation is embedded into urban form, policy, and culture
@@ -65,7 +61,6 @@ Together, these layers form a living urban operating system designed to remain r
 
 ---
 
-[[The city as a system]]
 ## Core Philosophy
 
 Anantha is founded on a single premise: **human prosperity cannot be separated from planetary health**.  
@@ -131,7 +126,6 @@ Wealth increases when resources circulate, collaboration outperforms competition
 
 **Wealth is not owned. It is maintained.**
 
-[[Defining Wealth]]
 
 ---
 
@@ -150,7 +144,6 @@ governance design principles
 Repair replaces punishment.  
 Visibility replaces force.
 
-[[Governance Framework]]
 
 ---
 
