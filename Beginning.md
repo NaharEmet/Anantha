@@ -9,7 +9,7 @@ a **city-scale system** built on care, collective wisdom, and regeneration—des
 Where conventional cities optimize for extraction, consumption, and short-term yield, this system is designed to **heal rather than exhaust**—people, communities, and ecosystems.
 
 In this model
-	- **Nature is infrastructure**
+- **Nature is infrastructure**
 - **Community is capital**
 - **Governance is transparent and earned**
 - **Creativity is everyday life**
@@ -28,7 +28,7 @@ A city designed not just to function—but to heal.
 ## Design Principles
 
 ###### The system is built on a small set of non-negotiable principles
-- Nature is infrastructure  — forests, water, food systems, and climate resilience are foundational, not decorative 
+- **Nature is infrastructure** — forests, water, food systems, and climate resilience are foundational, not decorative 
 - **Community is capital** — social trust, care, and cooperation are explicitly supported and rewarded
 - ****Governance is a system**** — power is bounded, visible, and reversible
 - **Creativity is everyday life** — experimentation is embedded into urban form, policy, and culture
