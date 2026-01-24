@@ -13,7 +13,7 @@ Most bunker strategies optimize for one outcome: *not dying*. Almost none addres
 
 ---
 
-## 2. Reframing the Problem: Survival vs. Continuity
+## 2. Re-framing the Problem: Survival vs. Continuity
 
 True preparedness isn’t about hiding. It’s about continuity—of society, of dignity, of quality of life.
 
@@ -60,9 +60,9 @@ The city evolves into a highly efficient economic hub. It produces valuable good
 
 Long-term stability comes from connection, not isolation.
 
-Multiple independent cities digitally linked through resilient fiber and satellite networks. Each city is strategically located with access to natural resources, local industry, and transportation infrastructure—airports, ports, and logistics corridors.
+Multiple independent cities digitally linked through resilient fiber and satellite networks. Each city strategically located with access to natural resources, industry, and transportation infrastructure—airports, ports, and logistics corridors.
 
-If global systems fracture, these cities reconnect with one another, establish trade, and form a distributed, modern economy—resilient by design.
+If global systems fracture, these cities reconnect with one another, establish trade, and form a distributed, modern economy.
 
 ---
 
