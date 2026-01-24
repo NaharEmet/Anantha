@@ -1,11 +1,12 @@
 ---
 epoch: 1769286471712
-modelKey: "copilot-plus-flash|copilot-plus"
-
-
-
+modelKey: gemini-2.5-flash|google
 tags:
   - copilot-conversation
+topic: |-
+  {
+    title Create Pitch Document,
+    summary The use
 ---
 
 **user**: i want to create a document that explains how i want to pitch this
