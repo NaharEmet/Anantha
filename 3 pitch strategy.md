@@ -31,7 +31,7 @@ Each city would:
     
 - Produce its own food and energy
     
-- Have reliable water, healthcare, security, and governance
+- Have reliable water, healthcare, security, it infrastructure and governance
     
 - Support local manufacturing and businesses
     
@@ -84,18 +84,18 @@ Either way, the investment is profitable.
 
 ## Strength through connection
 
-the plan is to build multiple cities and connect them together via internet capa
-Each city would have:
+Building multiple cities and connecting them together via internet tables or satellite internet will provide the ultimate stability 
+Each cities would have:
 
 - Access to natural resources
     
-- Local industry
+- Local industry to process the resources 
     
-- A small airport
+- A small airport and water port or access to water
     
 
-After a crises When possible, cities would reconnect through trade and travel.  
-Together, they form a network capable of supporting a modern economy.
+After a crises cities would reconnect through the network and establish trade ties.  
+Together, they would form a network capable of supporting a modern economy.
 
 ---
 
