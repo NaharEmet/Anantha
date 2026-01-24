@@ -23,12 +23,12 @@ If the goal is to preserve a life worth living, the solution cannot be undergrou
 
 ## 3. The Alternative: Independent, Self-Sustaining Cities
 
-Instead of bunkers, small, independent, highly productive cities designed to keep functioning even if the rest of the world doesn’t.
+Instead of bunkers, small, independent, highly productive cities designed to keep functioning even when the rest of the world stops.
 
-These cities are self-sufficient in food and energy. Core infrastructure—water, healthcare, security, communications, governance, and IT—is designed to operate locally. There is a real economy, real work, and real purpose.
+These cities are self-sufficient in food and energy. Core infrastructure—water, healthcare, security, communications, governance, and IT infrastructure designed to operate independently. There is a real economy, real work, and real purpose.
 
 > **They are not meant for hiding.  
-> They are meant for living well under stress.**
+> They are meant for living and thriving.**
 
 ---
 
@@ -36,7 +36,7 @@ These cities are self-sufficient in food and energy. Core infrastructure—water
 
 Infrastructure alone does not create resilience. People do.
 
-These cities are populated intentionally with entrepreneurs, engineers, operators, builders, farmers, and system thinkers—individuals who know how to create, maintain, and repair complex systems under pressure.
+These cities populated intentionally with entrepreneurs, engineers, operators, builders, farmers, and system thinkers—individuals who know how to create, maintain, and repair complex systems under pressure.
 
 This composition is what prevents decay. It keeps society functional without authoritarian control and productive without fragility.
 
@@ -60,7 +60,7 @@ The city evolves into a highly efficient economic hub. It produces valuable good
 
 Long-term stability comes from connection, not isolation.
 
-Multiple independent cities are developed and digitally linked through resilient fiber and satellite networks. Each city is strategically located with access to natural resources, local industry, and transportation infrastructure—airports, ports, and logistics corridors.
+Multiple independent cities digitally linked through resilient fiber and satellite networks. Each city is strategically located with access to natural resources, local industry, and transportation infrastructure—airports, ports, and logistics corridors.
 
 If global systems fracture, these cities reconnect with one another, establish trade, and form a distributed, modern economy—resilient by design.
 
