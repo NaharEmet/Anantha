@@ -49,7 +49,7 @@ The cities would be populated by:
     
 - Engineers and operators
     
-- Builders and 
+- Builders and farmers
     
 
 People who can keep society functioning when conditions are difficult.
@@ -69,7 +69,7 @@ People who can keep society functioning when conditions are difficult.
 
 ### If no major crisis happens:
 
-- The city becomes a highly efficient economic center
+- The city remains a highly efficient economic center
     
 - It produces valuable goods and services
     
@@ -78,12 +78,13 @@ People who can keep society functioning when conditions are difficult.
 - It generates strong long-term returns
     
 
-Either way, the investment makes sense.
+Either way, the investment is profitable.
 
 ---
 
 ## Strength through connection
 
+the plan is to build multiple cities and connect them together via internet capa
 Each city would have:
 
 - Access to natural resources
@@ -93,7 +94,7 @@ Each city would have:
 - A small airport
     
 
-When possible, cities reconnect through trade and travel.  
+After a crises When possible, cities would reconnect through trade and travel.  
 Together, they form a network capable of supporting a modern economy.
 
 ---
