@@ -6,10 +6,10 @@ A quiet trend is spreading among the world’s wealthiest. Bunkers are being bui
 
 In reality, it’s a narrow definition of risk.
 
-Most bunker strategies optimize for one outcome: *not dying*. Almost none address what comes next—how life feels after the crisis has passed. Isolation, paranoia, social collapse, and scarcity replace comfort, trust, and meaning. In a world like that, wealth quickly loses its power.
+Most bunker strategies optimize for one outcome: *not dying*. Almost none address what comes next—how life feels after the crisis has passed. Isolation, paranoia, social collapse, and scarcity replace trust and comfort. In a world like that, wealth quickly loses its power.
 
 > **The real danger isn’t dying in a crisis.  
-> The real danger is surviving into a life you don’t want to live.**
+> The danger is surviving into a world you don’t want to live in.**
 
 ---
 
@@ -17,15 +17,13 @@ Most bunker strategies optimize for one outcome: *not dying*. Almost none addres
 
 True preparedness isn’t about hiding. It’s about continuity—of society, of dignity, of quality of life.
 
-If the goal is to preserve a way of living worth sustaining, the solution cannot be underground. It must be structural, social, and economic.
-
-This reframing leads to a different answer entirely.
+If the goal is to preserve a life worth living, the solution cannot be underground. It must be structural, social, and economic.
 
 ---
 
 ## 3. The Alternative: Independent, Self-Sustaining Cities
 
-Instead of bunkers, we propose small, independent, highly productive cities designed to keep functioning even if the rest of the world doesn’t.
+Instead of bunkers, small, independent, highly productive cities designed to keep functioning even if the rest of the world doesn’t.
 
 These cities are self-sufficient in food and energy. Core infrastructure—water, healthcare, security, communications, governance, and IT—is designed to operate locally. There is a real economy, real work, and real purpose.
 
