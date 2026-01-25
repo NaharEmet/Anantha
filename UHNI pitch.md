@@ -6,7 +6,7 @@ A quiet trend is spreading among the world’s wealthiest. Bunkers are being bui
 
 In reality, it’s a narrow definition of risk.
 
-Most bunker strategies optimize for one outcome: *not dying*. Almost none address what comes next—how life feels after the crisis has passed. Isolation, paranoia, social collapse, and scarcity replace trust and comfort. In a world like that, wealth quickly loses its power.
+Most bunker strategies optimize for one outcome: *surviving*. Almost none address what comes next—how life feels after the crisis has passed. Isolation, paranoia, social collapse, and scarcity replace trust and comfort. In a world like that, wealth quickly loses its power.
 
 > **The real danger isn’t dying in a crisis.  
 > The danger is surviving into a world you don’t want to live in.**
