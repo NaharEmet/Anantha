@@ -92,11 +92,11 @@ Measured via land use and biodiversity indicators.
 
 - **Governance efficiency**
     
-    - Faster decision cycles
+    - Faster decision cycles 2 weeks for simple no dicision should take longer than 6 months
         
-    - High participation rates
+    - 60%+ participation rates
         
-    - Short conflict-resolution timelines
+    - Short conflict-resolution timelines 50% within 1 month
         
 - **Local employment**
     
@@ -127,6 +127,3 @@ Measured via land use and biodiversity indicators.
 ## Why This Matters
 
 This framework replaces abstract growth metrics with **outcome-driven performance indicators** that reflect how people actually live, work, and thrive — while remaining economically productive and ecologically restorative.
-
-> **The goal isn’t survival.  
-> The goal is a life worth surviving into.**
