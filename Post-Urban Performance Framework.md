@@ -89,20 +89,3 @@ Measured via land use and biodiversity indicators.
 
 ### Food Sovereignty
 - Local control over calories, seeds, and inputs
-
----
-
-## Measurement Approach (Lightweight but Credible)
-
-- **Well-being:** WHO-5 / PHQ-9 surveys + anonymized health data  
-- **Innovation:** patents, new products, venture creation, peer benchmarks  
-- **Mobility:** time-use surveys and transport energy logs  
-- **Ecology:** indicator species counts, canopy cover, soil carbon  
-
-*Most indicators are measured annually, with select infrastructure and mobility metrics tracked quarterly.*
-
----
-
-## Why This Matters
-
-This framework replaces abstract growth metrics with **outcome-driven performance indicators** that reflect how people actually live, work, and thrive — while remaining economically productive and ecologically restorative.
