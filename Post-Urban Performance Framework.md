@@ -15,52 +15,60 @@ This framework defines **measurable performance indicators** for a new class of 
 
 *Metrics are evaluated over a multi-year horizon (3–5 years), unless otherwise specified.*
 
-## Bangalore reference point 
+## Bangalore Reference Point
 
-| Domain | Key Metric | Baseline Value / Source |
-|--------|------------|------------------------|
-| Population | Metro population | ~15.2 M ([Wikipedia](https://en.wikipedia.org/wiki/Metropolitan_area?utm_source=chatgpt.com)) |
-| Economy | Metro GDP | ~$130 B ([Wikipedia](https://en.wikipedia.org/wiki/List_of_metropolitan_areas_by_GDP?utm_source=chatgpt.com)) |
-| Energy | Total per capita | ~4.1 GJ/year ([Data Portal for Cities](https://dataportalforcities.org/south-asia/india/state-karnataka/bangalore?utm_source=chatgpt.com)) |
-| GHG Emissions | Total city CO₂e | ~1,613,853 t ([Data Portal for Cities](https://dataportalforcities.org/south-asia/india/state-karnataka/bangalore?utm_source=chatgpt.com)) |
-| Mobility | Rush-hour speed | 13.9 km/h ([Times of India](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-was-2nd-most-congested-city-in-the-world-in-2025-rush-hour-speed-at-13-9kmph/articleshow/127048613.cms?utm_source=chatgpt.com)) |
-| Mobility | Annual hours lost | 168 hrs/year ([Times of India](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-was-2nd-most-congested-city-in-the-world-in-2025-rush-hour-speed-at-13-9kmph/articleshow/127048613.cms?utm_source=chatgpt.com)) |
-| Transport | Vehicle growth | +90% (2015–25) ([Times of India](https://timesofindia.indiatimes.com/city/bengaluru/1-5k-vehicles-added-a-day-in-bengaluru-but-road-network-stuck-at-2015/articleshow/127183174.cms?utm_source=chatgpt.com)) |
-| Air Quality | PM2.5 annual avg | 20–40 µg/m³ ([IQAir](https://www.iqair.com/india/karnataka/bengaluru?utm_source=chatgpt.com)) |
-| Health | Pollution-related deaths proxy | >17,000/yr (Delhi proxy) ([Le Monde](https://www.lemonde.fr/en/environment/article/2025/11/13/delhi-is-no-longer-livable-deadly-pollution-in-indian-capital-claims-more-than-17-000-lives-each-year_6747432_114.html?utm_source=chatgpt.com)) |
-| Health | Beds per 1k population | <1.3 ([Brickwork Ratings](https://www.brickworkratings.com/Research/Private%20Hospitals%20report_10Nov2025.pdf?utm_source=chatgpt.com)) |
-| Emissions Cost | Productivity & health cost | US$95–150 B/year ([Clean Air Fund](https://www.cleanairfund.org/resource/air-pollution-in-)
-
-
-### 1. Human Flourishing
-
-Measured via validated surveys and healthcare proxies.
-
-- **50% reduction** in reported stress and depression
-- **30% reduction** in hospital visits per capita  
-- **30% reduction** in sick days vs Bangalore workforce  
-- Increased overall well-being (life satisfaction, autonomy, social trust)
+| Domain         | Key Metric                                                                      | Baseline Value / Source                                                                                                                                                                                                                       |
+| -------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Population     | Metro population                                                                | ~15.2 M ([Wikipedia](https://en.wikipedia.org/wiki/Metropolitan_area?utm_source=chatgpt.com))                                                                                                                                                 |
+| Economy        | Metro GDP                                                                       | ~$130 B ([Wikipedia](https://en.wikipedia.org/wiki/List_of_metropolitan_areas_by_GDP?utm_source=chatgpt.com))                                                                                                                                 |
+| Energy         | Total per capita (all sources: electricity, transport, food delivery, services) | ~4.1 GJ/year ([Data Portal for Cities](https://dataportalforcities.org/south-asia/india/state-karnataka/bangalore?utm_source=chatgpt.com))                                                                                                    |
+| GHG Emissions  | Total city CO₂e                                                                 | ~1,613,853 t ([Data Portal for Cities](https://dataportalforcities.org/south-asia/india/state-karnataka/bangalore?utm_source=chatgpt.com))                                                                                                    |
+| Mobility       | Rush-hour speed                                                                 | 13.9 km/h ([Times of India](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-was-2nd-most-congested-city-in-the-world-in-2025-rush-hour-speed-at-13-9kmph/articleshow/127048613.cms?utm_source=chatgpt.com))                      |
+| Mobility       | Annual hours lost                                                               | 168 hrs/person/year ([Times of India](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-was-2nd-most-congested-city-in-the-world-in-2025-rush-hour-speed-at-13-9kmph/articleshow/127048613.cms?utm_source=chatgpt.com))            |
+| Transport      | Vehicle growth                                                                  | +90% (2015–25) ([Times of India](https://timesofindia.indiatimes.com/city/bengaluru/1-5k-vehicles-added-a-day-in-bengaluru-but-road-network-stuck-at-2015/articleshow/127183174.cms?utm_source=chatgpt.com))                                  |
+| Air Quality    | PM2.5 annual avg                                                                | 20–40 µg/m³ ([IQAir](https://www.iqair.com/india/karnataka/bengaluru?utm_source=chatgpt.com))                                                                                                                                                 |
+| Health         | Pollution-related deaths proxy                                                  | >17,000/yr (Delhi proxy) ([Le Monde](https://www.lemonde.fr/en/environment/article/2025/11/13/delhi-is-no-longer-livable-deadly-pollution-in-indian-capital-claims-more-than-17-000-lives-each-year_6747432_114.html?utm_source=chatgpt.com)) |
+| Health         | Beds per 1k population                                                          | <1.3 ([Brickwork Ratings](https://www.brickworkratings.com/Research/Private%20Hospitals%20report_10Nov2025.pdf?utm_source=chatgpt.com))                                                                                                       |
+| Emissions Cost | Productivity & health cost                                                      | 3% of India’s total GDP/year ([Clean Air Fund](https://www.cleanairfund.org/resource/air-pollution-in-india-and-the-impact-on-business/))                                                                                                     |
+[[KPI references]]
 
 ---
 
-### 2. Economic & Creative Output
+## 1. Human Flourishing
+
+Measured via validated surveys and healthcare proxies.
+
+- **50% reduction** in reported stress and depression  
+- **30% reduction** in hospital visits per capita  
+- **30% reduction** in sick days vs Bangalore workforce  
+- Increased overall well-being (life satisfaction, autonomy, social trust)  
+- **Equity & Inclusion Targets**: gender parity in governance and employment, accessibility for differently-abled individuals, affordable housing ratio
+
+---
+
+## 2. Economic & Creative Output
 
 Measured via innovation and collaboration proxies.
 
 - **30% increase** in company-level innovation output  
   _(new products, IP, ventures launched, revenue from new lines)_  
 - Increased creative output per capita  
-- Higher collaboration density across teams and organizations
+- Higher collaboration density across teams and organizations  
+- **Digital & Knowledge Infrastructure**:  
+  - **100% of population** with reliable high-speed internet  
+  - **3 startups per 1,000 population**  
+  - Patents / open R&D projects per year (tracking innovation density)
 
 ---
 
-### 3. Ecological Regeneration
+## 3. Ecological Regeneration
 
 Measured via land use and biodiversity indicators.
 
 - **30% of total land** allocated to regenerative forestry  
 - Restoration of native ecosystems and species  
-- Net-positive ecosystem services (soil health, water retention, biodiversity)
+- Net-positive ecosystem services (soil health, water retention, biodiversity)  
+- **Biodiversity KPIs**: local biodiversity index, number of native species restored or maintained
 
 ---
 
@@ -78,31 +86,36 @@ Measured via land use and biodiversity indicators.
 ### Food & Health Systems
 
 - **≥50% of food produced locally**  
-- Improved nutritional quality and food sovereignty  
-- Shift from reactive to preventive healthcare utilization
-- reduced stress on health workers
+- **Nutrition Quality**: % of population meeting WHO dietary guidelines  
+- Shift from reactive to preventive healthcare utilization  
+- Reduced stress on health workers
 
 ---
 
 ### Energy & Resources
 
 - **30% reduction** in per-capita energy use vs urban baseline  
-- **50%** local renewable energy  
-- **90%** of grey and black water treated and used for agriculture
+- **50% local renewable energy**  
+- **90% of grey and black water treated and used for agriculture**  
+- **Include all energy sources**: household electricity, transport fuel, food delivery, services, and commercial energy
 
 ---
 
 ## Governance & Resilience Metrics
 
 ### Governance Efficiency
+
 - Routine decisions resolved within **2 weeks**  
 - No decision cycle exceeding **6 months**  
-- **≥60%** participation in governance processes  
-- **≥50%** of conflicts resolved within **1 month**
+- **≥60% participation** in governance processes  
+- **≥50% of conflicts resolved within 1 month**
 
 ### Local Employment
+
 - All employment within the community or remote  
 - High skills and role diversity
 
 ### Food Sovereignty
-- Local control over calories, seeds, and inputs
+
+- **≥60% of calories produced locally**  
+- Robust supply chain resilience
