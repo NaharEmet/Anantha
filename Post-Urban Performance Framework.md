@@ -15,6 +15,23 @@ This framework defines **measurable performance indicators** for a new class of 
 
 *Metrics are evaluated over a multi-year horizon (3–5 years), unless otherwise specified.*
 
+## Bangalore reference point 
+
+| Domain | Key Metric | Baseline Value / Source |
+|--------|------------|------------------------|
+| Population | Metro population | ~15.2 M ([Wikipedia](https://en.wikipedia.org/wiki/Metropolitan_area?utm_source=chatgpt.com)) |
+| Economy | Metro GDP | ~$130 B ([Wikipedia](https://en.wikipedia.org/wiki/List_of_metropolitan_areas_by_GDP?utm_source=chatgpt.com)) |
+| Energy | Total per capita | ~4.1 GJ/year ([Data Portal for Cities](https://dataportalforcities.org/south-asia/india/state-karnataka/bangalore?utm_source=chatgpt.com)) |
+| GHG Emissions | Total city CO₂e | ~1,613,853 t ([Data Portal for Cities](https://dataportalforcities.org/south-asia/india/state-karnataka/bangalore?utm_source=chatgpt.com)) |
+| Mobility | Rush-hour speed | 13.9 km/h ([Times of India](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-was-2nd-most-congested-city-in-the-world-in-2025-rush-hour-speed-at-13-9kmph/articleshow/127048613.cms?utm_source=chatgpt.com)) |
+| Mobility | Annual hours lost | 168 hrs/year ([Times of India](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-was-2nd-most-congested-city-in-the-world-in-2025-rush-hour-speed-at-13-9kmph/articleshow/127048613.cms?utm_source=chatgpt.com)) |
+| Transport | Vehicle growth | +90% (2015–25) ([Times of India](https://timesofindia.indiatimes.com/city/bengaluru/1-5k-vehicles-added-a-day-in-bengaluru-but-road-network-stuck-at-2015/articleshow/127183174.cms?utm_source=chatgpt.com)) |
+| Air Quality | PM2.5 annual avg | 20–40 µg/m³ ([IQAir](https://www.iqair.com/india/karnataka/bengaluru?utm_source=chatgpt.com)) |
+| Health | Pollution-related deaths proxy | >17,000/yr (Delhi proxy) ([Le Monde](https://www.lemonde.fr/en/environment/article/2025/11/13/delhi-is-no-longer-livable-deadly-pollution-in-indian-capital-claims-more-than-17-000-lives-each-year_6747432_114.html?utm_source=chatgpt.com)) |
+| Health | Beds per 1k population | <1.3 ([Brickwork Ratings](https://www.brickworkratings.com/Research/Private%20Hospitals%20report_10Nov2025.pdf?utm_source=chatgpt.com)) |
+| Emissions Cost | Productivity & health cost | US$95–150 B/year ([Clean Air Fund](https://www.cleanairfund.org/resource/air-pollution-in-)
+
+
 ### 1. Human Flourishing
 
 Measured via validated surveys and healthcare proxies.
