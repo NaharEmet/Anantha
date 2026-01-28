@@ -19,7 +19,7 @@ This framework defines **measurable performance indicators** for a new class of 
 
 Measured via validated surveys and healthcare proxies.
 
-- **50% reduction** in reported stress and depression  
+- **50% reduction** in reported stress and depression
 - **30% reduction** in hospital visits per capita  
 - **30% reduction** in sick days vs Bangalore workforce  
 - Increased overall well-being (life satisfaction, autonomy, social trust)
