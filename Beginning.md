@@ -28,11 +28,7 @@ A city designed not just to function—but to heal.
 ## Design Principles
 
 ###### The system is built on a small set of non-negotiable principles
-<<<<<<< HEAD
-- **Nature is infrastructure** — forests, water, food systems, and climate resilience are foundational, not decorative 
-=======
-- **Nature is infrastructure**  — forests, water, food systems, and climate resilience are foundational, not decorative 
->>>>>>> origin/main
+- **Nature is infrastructure**  — forests, water, food systems, and climate resilience are foundational, not decorative
 - **Community is capital** — social trust, care, and cooperation are explicitly supported and rewarded
 - **Governance is a system** — power is bounded, visible, and reversible
 - **Creativity is everyday life** — experimentation is embedded into urban form, policy, and culture
