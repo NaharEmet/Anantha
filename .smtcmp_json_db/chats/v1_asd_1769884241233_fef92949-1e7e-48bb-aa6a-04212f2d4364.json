@@ -1,0 +1,220 @@
+{
+  "id": "fef92949-1e7e-48bb-aa6a-04212f2d4364",
+  "title": "asd",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "asd",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nasd\n\n"
+        }
+      ],
+      "id": "1210f873-a45a-43bf-877e-8a10d3698d5c",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Wealth/Defining Wealth.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "asd",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nasd\n\n"
+        }
+      ],
+      "id": "caa94d6b-9172-482c-a28b-400f37851e30",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Wealth/Defining Wealth.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "asd",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nasd\n\n"
+        }
+      ],
+      "id": "81eb5366-a2ac-4bdb-89e2-e0bb7db63f3b",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Wealth/Defining Wealth.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "asd",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nasd\n\n"
+        }
+      ],
+      "id": "ebd14302-64e2-454f-9249-0d944fddc2d5",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Wealth/Defining Wealth.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "I have removed the trailing placeholder text from the end of the file.\n\n<smtcmp_block filename=\"Wealth/Defining Wealth.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n→ **[Read: The Systems That Create Multi-Dimensional Wealth](systems-of-wealth.md)**\n</smtcmp_block>",
+      "id": "1f2c22ce-c42b-463f-add5-24229e1bcb1b",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-3-flash-preview",
+          "model": "gemini-3-flash-preview"
+        },
+        "usage": {
+          "prompt_tokens": 923,
+          "completion_tokens": 70,
+          "total_tokens": 1393
+        }
+      },
+      "providerMetadata": {
+        "gemini": {
+          "thoughtSignature": "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"
+        }
+      }
+    }
+  ],
+  "createdAt": 1769884198894,
+  "updatedAt": 1769884241233,
+  "schemaVersion": 1
+}
