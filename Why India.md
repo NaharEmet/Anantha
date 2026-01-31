@@ -15,7 +15,7 @@ India faces acute climate vulnerability:
 
 India must find a way to protect its rapidly expanding urban population, current urban growth has come with large-scale deforestation that severely aggravates both water insecurity and the **Urban Heat Island** effect. Major urban centers like Delhi and Phalodi have already breached the  **50°C** threshold, with average summer temperatures across much of the country consistently exceeding **45°C**. with global warming is projected to add another 2°C to the baseline, the heat-retaining nature of concrete cities will likely push peak temperatures well beyond **52°C** within the next 30 years.
 
-This extreme heat is pushing India toward the lethal temperatures, the absolute physiological limit where the human body can no longer cool itself through perspiration, leading to fatal heatstroke within hours regardless of water intake. With 30% of the population projected to face these unsurvivable conditions by 2050, India’s diverse geography has become a critical laboratory for radical innovation. From "Sponge Cities" designed to combat water stress to massive cool-roof initiatives, the country is now forced to pioneer the adaptation strategies the rest of the world will eventually need to survive a warming planet.
+This extreme heat is pushing India toward deadly temperatures,. With 30% of the population projected to face life threatening conditions by 2050, India’s diverse geography has become a critical laboratory for radical innovation. From "Sponge Cities" designed to combat water stress to massive cool-roof initiatives, the country is now forced to pioneer the adaptation strategies the rest of the world will eventually need to survive a warming planet.
 
 ## 3. The Employment Crisis and AI Automation
 India faces a dual employment challenge:
@@ -31,7 +31,7 @@ Indian governance faces systemic challenges:
 - Corruption perception index ranking: 85/180
 - Citizen trust in government: <20% in major cities
 
-**Why India is ideal:** The depth of governance failure creates demand for radical alternatives. India's strong IT sector provides the technical foundation for transparent, automated governance systems.
+**Why India is ideal:** The depth of government distrust creates demand for radical alternatives. India's strong IT sector provides the technical foundation for transparent, automated governance systems.
 
 ## 5. Technological Leapfrogging Capability
 India possesses unique technological advantages:
