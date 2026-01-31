@@ -1,0 +1,163 @@
+{
+  "id": "16bcf8b9-5e7a-4e29-a1e8-89372a3ac0ab",
+  "title": "test",
+  "messages": [
+    {
+      "role": "user",
+      "applyStatus": 0,
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "test",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "<task>\ntest\n</task>\n\n<environment_details>\n# Current File\nWealth/Defining Wealth.md\n\n# Current Workspace\nEutopia (entire vault)\n\n# Assistant & User State\n## Current Time\n1/31/2026, 11:57:30 PM (Asia/Calcutta, UTC+5.5:00)\n\n## Current Mode\n<slug>ask</slug>\n<name>Ask</name>\n</environment_details>"
+        }
+      ],
+      "id": "3f5e0bb3-b98f-4f94-b1b4-5a7d6b4b7952",
+      "mentionables": []
+    },
+    {
+      "role": "assistant",
+      "applyStatus": 0,
+      "content": "",
+      "reasoningContent": "",
+      "id": "26aa5acf-2bff-4787-b2f9-4d05ed0a8f05",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "applyStatus": 0,
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "asd",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "<feedback>\nasd\n</feedback>\n\n<environment_details>\n# Current File\nWealth/Defining Wealth.md\n\n# Current Workspace\nEutopia (entire vault)\n\n# Assistant & User State\n## Current Time\n1/31/2026, 11:57:42 PM (Asia/Calcutta, UTC+5.5:00)\n\n## Current Mode\n<slug>ask</slug>\n<name>Ask</name>\n</environment_details>"
+        }
+      ],
+      "id": "1be1f287-5e70-41bf-afbc-26e331343602",
+      "mentionables": []
+    },
+    {
+      "role": "assistant",
+      "applyStatus": 0,
+      "content": "",
+      "reasoningContent": "",
+      "id": "5ea06b30-4e82-4866-a480-dfe7972f320b",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "applyStatus": 0,
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "asd",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "<feedback>\nasd\n</feedback>\n\n<environment_details>\n# Current File\nWealth/Defining Wealth.md\n\n# Current Workspace\nEutopia (entire vault)\n\n# Assistant & User State\n## Current Time\n1/31/2026, 11:57:52 PM (Asia/Calcutta, UTC+5.5:00)\n\n## Current Mode\n<slug>ask</slug>\n<name>Ask</name>\n</environment_details>"
+        }
+      ],
+      "id": "ec32f86b-e461-42e8-bd15-1e201c132535",
+      "mentionables": []
+    },
+    {
+      "role": "assistant",
+      "applyStatus": 0,
+      "content": "",
+      "reasoningContent": "",
+      "id": "355e4f85-82b7-4dbb-824e-d91d138814fa",
+      "metadata": {}
+    }
+  ],
+  "createdAt": 1769884051211,
+  "updatedAt": 1769884089815,
+  "schemaVersion": 2,
+  "workspace": "vault"
+}
