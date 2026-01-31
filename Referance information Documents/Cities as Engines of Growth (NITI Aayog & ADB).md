@@ -1,3 +1,4 @@
+[Cities as Engines of Growth](https://www.niti.gov.in/sites/default/files/2022-05/Mod_CEOG_Executive_Summary_18052022.pdf)
 ### 1. Strategic Context & Economic Targets
 
 - **India's Aspiration**: To become a **$5 trillion economy by 2026** and **$40 trillion by 2047**.
