@@ -2,9 +2,9 @@
 India is uniquely positioned to pilot a new model of urban development due to its specific combination of challenges and capabilities. The country faces unprecedented pressures that make traditional urban models unsustainable, while simultaneously possessing the technological and demographic resources to leapfrog outdated systems.
 
 ## 1. The Urbanization Pressure Cooker
-India is projected to add over 400 million urban dwellers by 2050, the largest urban migration in human history. Current "tier-1" cities like Mumbai, Delhi, and Bangalore are already collapsing under this pressure, with infrastructure lag costing the economy an estimated 2-3% of GDP annually.
+India is currently navigating the most significant urban migration in human history, with projections indicating the country will add approximately **416 million urban dwellers between 2018 and 2050** (Athar et al., 2022). This rapid shift means that by 2050, over 50% of India's population is expected to reside in cities. However, this growth is primarily concentrated in a few "Tier-1" hubs that are already under severe strain.
 
-**Why India is ideal:** The sheer scale of stress creates both necessity and opportunity. Rather than patching broken systems, India can pilot entirely new urban operating models at scale.
+The resulting "infrastructure lag" has created a substantial economic burden. Recent estimates suggest that India requires an investment of **$840 billion over the next 15 years** to bridge the urban infrastructure gap (Athar et al., 2022). Currently, inefficiencies such as extreme traffic congestion, logistics bottlenecks, and inadequate public services are estimated to cost the economy between **2% and 3% of GDP annually** (Patel & Bhattacharya, 2010). In cities like Bengaluru and Delhi, the loss of productivity due to time spent in traffic alone accounts for billions of dollars in "deadweight loss" each year.
 
 ## 2. Climate Risk as an Existential Threat
 India faces acute climate vulnerability:
