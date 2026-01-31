@@ -1,4 +1,3 @@
-# Why India? 
 
 India is uniquely positioned to pilot a new model of urban development due to its specific combination of challenges and capabilities. The country faces unprecedented pressures that make traditional urban models unsustainable, while simultaneously possessing the technological and demographic resources to leapfrog outdated systems.
 
