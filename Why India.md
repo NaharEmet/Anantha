@@ -4,7 +4,7 @@ India is uniquely positioned to pilot a new model of urban development due to it
 ## 1. The Urbanization Pressure Cooker
 India is projected to add over 400 million urban dwellers by 2050, the largest urban migration in human history. Current "tier-1" cities like Mumbai, Delhi, and Bangalore are already collapsing under this pressure, with infrastructure lag costing the economy an estimated 2-3% of GDP annually.
 
-**Why India is ideal:** The sheer scale of failure creates both necessity and opportunity. Rather than patching broken systems, India can pilot entirely new urban operating models at scale.
+**Why India is ideal:** The sheer scale of stress creates both necessity and opportunity. Rather than patching broken systems, India can pilot entirely new urban operating models at scale.
 
 ## 2. Climate Risk as an Existential Threat
 India faces acute climate vulnerability:
