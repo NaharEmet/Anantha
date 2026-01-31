@@ -13,7 +13,7 @@ India faces acute climate vulnerability:
 - 600 million people face high to extreme water stress
 - 6 of the world's 10 most polluted cities are in India
 
-India must find a way to protect and house its population urban growth in india has resulted in large scale deforestation this has agrivated both water insecurity and urban heat island effects a large part of india already expiriances summer temperatures above 45c with global warming expecting to add another 2c this will bring urban temperature 
+India must find a way to protect and house its population urban growth in india has resulted in large scale deforestation this has agrivated both water insecurity and urban heat island effects a large part of india already expiriances summer temperatures above 45c with global warming expecting to add another 2c this will bring urban temperatures to over 50c within the next 30 years  
 ## 3. The Employment Crisis and AI Automation
 India faces a dual employment challenge:
 - 12 million youth enter the workforce annually, but only 5.5 million formal jobs are created
