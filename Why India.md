@@ -13,7 +13,10 @@ India faces acute climate vulnerability:
 - 600 million people face high to extreme water stress
 - 6 of the world's 10 most polluted cities are in India
 
-India must find a way to protect and house its population urban growth in india has resulted in large scale deforestation this has agrivated both water insecurity and urban heat island effects a large part of india already expiriances summer temperatures above 45c with global warming expecting to add another 2c this will bring urban temperatures to over 50c within the next 30 years  
+India must find a way to protect its rapidly expanding urban population, current urban growth has come with large-scale deforestation that severely aggravates both water insecurity and the **Urban Heat Island** effect. Major urban centers like Delhi and Phalodi have already breached the  **50°C** threshold, with average summer temperatures across much of the country consistently exceeding **45°C**. with global warming is projected to add another 2°C to the baseline, the heat-retaining nature of concrete cities will likely push peak temperatures well beyond **52°C** within the next 30 years.
+
+This extreme heat is pushing India toward the lethal temperatures, the absolute physiological limit where the human body can no longer cool itself through perspiration, leading to fatal heatstroke within hours regardless of water intake. With 30% of the population projected to face these unsurvivable conditions by 2050, India’s diverse geography has become a critical laboratory for radical innovation. From "Sponge Cities" designed to combat water stress to massive cool-roof initiatives, the country is now forced to pioneer the adaptation strategies the rest of the world will eventually need to survive a warming planet.
+
 ## 3. The Employment Crisis and AI Automation
 India faces a dual employment challenge:
 - 12 million youth enter the workforce annually, but only 5.5 million formal jobs are created
