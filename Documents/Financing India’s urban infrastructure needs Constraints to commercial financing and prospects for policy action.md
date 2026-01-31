@@ -1,51 +1,5 @@
-Financing India’s urban
-infrastructure needs
-Constraints to commercial financing
-and prospects for policy action
-
-Sohaib Athar, Roland White, Harsh Goyal
 
 
-
-
-                                                 Supported by
-
-  Financing India’s urban infrastructure needs                  1
-© 2022 International Bank for Reconstruction and Development / The World Bank
-
-1818 H Street NW, Washington, DC 20433, USA
-
-Telephone: 202-473-1000; Internet: www.worldbank.org
-
-
-
-This work is a product of the staff of The World Bank with external contributions. The findings,
-interpretations, and conclusions expressed in this work do not necessarily reflect the views of The World
-Bank, its Board of Executive Directors, or the governments they represent. The World Bank does not
-guarantee the accuracy of the data included in this work. The boundaries, colors, denominations, and
-other information shown on any map in this work do not imply any judgment on the part of The World
-Bank concerning the legal status of any territory or the endorsement or acceptance of such boundaries.
-Nothing herein shall constitute or be considered to be a limitation upon or waiver of the privileges and
-immunities of The World Bank, all of which are specifically reserved.
-
-RIGHTS AND PERMISSIONS
-
-The material in this work is subject to copyright. Because The World Bank encourages dissemination of its
-knowledge, this work may be reproduced, in whole or in part, for noncommercial purposes as long as full
-attribution to this work is given, under the following conditions:
-
-Attribution - Please cite the work as follows: Sohaib Athar, Roland White and Harsh Goyal. 2022. “Financing
-India’s urban infrastructure needs: Constraints to commercial financing and prospects for policy action.”
-Washington, D.C.: World Bank.
-
-Translations - If you create a translation of this work, please add the following disclaimer along with the
-attribution: This translation was not created by The World Bank and should not be considered an official
-World Bank translation. The World Bank shall not be liable for any content or error in this translation.
-
-Adaptations - If you create an adaptation of this work, please add the following disclaimer along with the
-attribution: This is an adaptation of an original work by The World Bank. Views and opinions expressed in
-the adaptation are the sole responsibility of the author or authors of the adaptation and are not endorsed
-by The World Bank.
 
 Financing India’s urban infrastructure needs                                                              7
 Executive Summary
