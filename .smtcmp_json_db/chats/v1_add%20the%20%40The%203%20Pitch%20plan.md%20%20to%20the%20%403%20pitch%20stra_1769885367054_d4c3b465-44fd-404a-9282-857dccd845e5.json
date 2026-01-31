@@ -184,9 +184,79 @@
           }
         }
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "test",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ntest\n\n"
+        }
+      ],
+      "id": "454414de-8d94-45f6-8afb-f5c26539368d",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "3 pitch strategy.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Test received. How can I help you further with your files or your pitch strategy?",
+      "id": "e57f5580-03f2-475a-9478-d7de523bcf6f",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-3-flash-preview",
+          "model": "gemini-3-flash-preview"
+        },
+        "usage": {
+          "prompt_tokens": 1854,
+          "completion_tokens": 17,
+          "total_tokens": 2036
+        }
+      },
+      "providerMetadata": {
+        "gemini": {
+          "thoughtSignature": "EpIHCo8HAXLI2nzn/U+27Ghnq7dVKDPUHx1YQRfl0wlkqBSyqrMFKVfZBQO05DSc7MdmJSgxj8/kOvvYbqK7M2HMmNdAg0V8olPzoDKnvVD70ch57LAgD5p9j8GGYXWK6e7cptvDChZAzSNc7dmFQbihomtjyRw4OBYKoUlkLXQ2835DWv/krbsw3s09WIM9p11JsOBTuyG3jW+LlcC6CxKJu5ayBy3u1aTZlQjuGEgUaZpt199gBj32Rd5ot/yOKn9XYAbsjsj9plkHEl/cShRETBkgp7IFqRdmuVeE+uAZle8pJ4NOpeu2ZjWolMtH3TpOCJquBTEtmAVYT1BpzxrUsYbGoBtZE+D61dJugVQIY14MdZRQbwm1OQl8tsXssc9aFB9wTOc9nb4AXQ9M+mmH7VOqlkL25mzKx8+i1Y+rj9xBex2V18uwsCv2Z9kFB/vXAXf9Hrv8oYt8arojTZ6/vHubvel4PDv415y9s5DjgGED0D/xhRSWWwke1/oTUnaJdA/KkE3FfkVj/8BOkVZ0l8uvRjrBGuFIYaQvjvglWKUe53JnMH2dKADkDu7bsaC3c/Imwp+YhM5GOvSkmJgBnaK8XmjFa3WkS2t2CfpXgM4kcL9MbkaSrVtNo5/4gMkKCL5ntBnkE5IuRUYaMcNa+Gp9+EghkzpjLdazltZlYf8rCcWI0yOxrAds2FiL6tBxER95b9I81VS45AWsGVNZu8x6buYPAXP0qI13gt+tzpXzxd6bfbTevxVH8IXAPL2lZ5mkDjBS3ikq7Br+Blzbl6UGBWgC/rBgaHTSUTUjEpPlPh3nVuLRG7pyz7De3UzJ6MHbxjRSxGKhYSLKPsFaU3b1UXqY/zmqDzYTA9u7V/wbKO+Uv0RocVOrCW7qal0iqLIc4/kmwN65BSi0lEalenkCQJ3KkdGS4TD869H6nUkzzIsOcav+XIw7ZZ88hyjR0+AsbJi112i0w/MZMw27BwC8J7/il+aPK2Zhgaqpn1QrYSB0rbG8Unptc73Gtew82KKc54woqgIQZuf9BYgQEv6SMB6RsClvPAK1RHlBQ7otAqDki0tO959X/cUTUdk7seJdm3xU3BoTeX6v7+05681xeMHIEVJBnMcUl+x4OGnvLVlbMCVLpyekmne9jXK6wia7xS3FtqXzRu90bpefQApyG9pHoCQmwdEAvJKU1VJ7qNhZo1zSPjXmfawnOtzgqsc="
+        }
+      }
     }
   ],
   "createdAt": 1769885248328,
-  "updatedAt": 1769885285489,
+  "updatedAt": 1769885367054,
   "schemaVersion": 1
 }
