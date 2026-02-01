@@ -25,13 +25,17 @@ India faces a dual employment challenge:
 
 the strategy has been train the youth and send them abrod to the us this is quickly becoming no longer viable with the us canada and germany stopping to give visas and facing deep internall isseus with mass layoffs 
 
-india has a strong startup eco system thats rapidly developing one of the big issues it faces is the lack of capacity to bring in forign experts to bring in knowladge because of the low quality of life in the cities making it hard for and the unclear complex and restrictive visa policies 
+india has a strong startup eco system thats rapidly developing one of the big issues it faces is the lack of capacity to bring in forign experts to bring in knowladge because of the low quality of life in the cities and the unclear complex and restrictive visa policies 
+
+if india setup a easy path for visas and provided a world class startup city the speed of inovation and tallent aquisition of india would be sped up dramatically
 
 ## 4. Governance Innovation Necessity
 Indian governance faces systemic challenges:
 - Average project completion delay: 2-3 years
 - Corruption perception index ranking: 85/180
 - Citizen trust in government: <20% in major cities
+- in india bribes are a part of buisness this is a major hurdle for both entrepanuer and especially forign ones that are not used to this 
+- governance and licences there have been major pushes to clean this up but the indian goverment is fundementally still a british colonial goverment ment to extract resorces. india needs to make a major push to reform the city level governance to make it less dependant on making a show and more focused on performance quick resolution and transparency major strides are buing done but its emensly difficult to stire a ship of 1.4 billion people it would be much ea 
 
 **Why India is ideal:** The depth of government distrust creates demand for radical alternatives. India's strong IT sector provides the technical foundation for transparent, automated governance systems.
 
