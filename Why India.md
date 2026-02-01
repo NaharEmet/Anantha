@@ -23,7 +23,9 @@ India faces a dual employment challenge:
 - AI and automation threaten to eliminate 69% of current entry-level IT jobs
 - The informal sector employs 90% of workers but provides no social security
 
-**Why India is ideal:** The scale of employment disruption makes India the perfect laboratory for testing alternative economic models that don't rely on traditional "job" creation.
+the strategy has been train the youth and send them abrod to the us this is quickly becoming no longer viable with the us canada and germany stopping to give visas and facing deep internall isseus with mass layoffs 
+
+india has a strong startup eco system thats rapidly developing one of the big issues it faces is the lack of capacity to bring in forign experts to bring in knowladge because of the low quality of life in the cities making it hard for and the unclear complex and restrictive visa policies 
 
 ## 4. Governance Innovation Necessity
 Indian governance faces systemic challenges:
