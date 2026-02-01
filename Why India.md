@@ -35,7 +35,7 @@ Indian governance faces systemic challenges:
 - Corruption perception index ranking: 85/180
 - Citizen trust in government: <20% in major cities
 - in india bribes are a part of buisness this is a major hurdle for both entrepanuer and especially forign ones that are not used to this 
-- governance and licences there have been major pushes to clean this up but the indian goverment is fundementally still a british colonial goverment ment to extract resorces. india needs to make a major push to reform the city level governance to make it less dependant on making a show and more focused on performance quick resolution and transparency major strides are buing done but its emensly difficult to stire a ship of 1.4 billion people it would be much ea 
+- governance and licences there have been major pushes to clean this up but the indian goverment is fundementally still a british colonial goverment ment to extract resorces. india needs to make a major push to reform the city level governance to make it less dependant on making a show and more focused on performance quick resolution and transparency major strides are buing done but its emensly difficult to stire a ship of 1.4 billion. 
 
 **Why India is ideal:** The depth of government distrust creates demand for radical alternatives. India's strong IT sector provides the technical foundation for transparent, automated governance systems.
 
@@ -53,8 +53,9 @@ India's demographic profile creates unique opportunities:
 - 65% of population under 35
 - High social interdependence and community orientation
 
-high rate of return of population from the us 
-
+high rate of return of population from the us and the rest of the west 
+india has a large educated population that has lived in the west and is familliar with what a western quality of life is like they are looking all over the contrey and the rest of the world for where to go. it is paramount to give them a world class city in india to ensure that they stay in india and inovate if this is not done india will keep bleeding its best to the west.
+the youth of india as westernised at an incredible rate bringing that westernisation with traditional (pre collonial india ) values and rebuilding a strong civic and national sense is paramount
 
 **Why India is ideal:** Young, tech-savvy population is more receptive to new social and economic models. Strong community structures provide foundation for alternative governance systems.
 
@@ -66,3 +67,5 @@ The convergence of crises creates a narrow window:
 - Global attention on India as the next major growth market
 
 **Why India is ideal:** The intersection of urgency, capability, and attention makes India the only place where such radical urban experimentation can succeed at scale.
+
+india aspires to be a world leader india cannot compete with china in the manufactuting race india has already shown that ecological and social responsibility is a priority for the nation and somehting that it wants to be a global champion of at present the indian cities are a test
