@@ -36,7 +36,7 @@ Indian governance faces systemic challenges:
 ## 5. Technological Leapfrogging Capability
 India possesses unique technological advantages:
 - 750 million smartphone users, growing 10% annually
-- World's largest biometric ID system (Aadhaar) with 1.3 billion users
+- World's largest bio-metric ID system (Aadhaar) with 1.3 billion users
 - Thriving startup ecosystem with 100+ unicorns
 
 **Why India is ideal:** High digital penetration and tech capability allow skipping intermediate development stages that other countries must pass through.
@@ -46,6 +46,9 @@ India's demographic profile creates unique opportunities:
 - Median age: 28.7 years (vs 38.5 in China, 38.1 in US)
 - 65% of population under 35
 - High social interdependence and community orientation
+
+high rate of return of population from the us 
+
 
 **Why India is ideal:** Young, tech-savvy population is more receptive to new social and economic models. Strong community structures provide foundation for alternative governance systems.
 
