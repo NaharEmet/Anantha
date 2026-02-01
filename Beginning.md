@@ -187,21 +187,21 @@ Anantha delivers measurable value across multiple dimensions:
 **Economic Impact**
 
 - Creates 10,000+ direct jobs in first phase
-- Generates ₹10,000+ crore in annual tax revenue
+- Generates ₹1,000+ crore in annual tax revenue
 - Reduces public infrastructure costs by 40% through circular systems
 - Attracts ₹5,000+ crore in private investment into startups
 
 **Social Impact**
 
-- Provides housing for 10,000+ residents
-- Creates 10,000+ new educational and research positions
-- Establishes healthcare systems serving 500,000+ people
+- Provides a first world city lifestyle for 10,000+ residents
+- Creates 1,000+ new educational and research positions
 - Reduces commute times by 60% through integrated planning
+- Reduces motorized commute by 90%
 
 **Environmental Impact**
 
 - Achieves 80% reduction in carbon emissions vs conventional cities
-- Creates 10,000+ acres of restored ecosystem
+- Creates 1,000+ acres of restored indigenous ecosystem
 - Achieves water self-sufficiency through closed-loop systems
 - Eliminates 90% of solid waste through circular design
 
@@ -210,6 +210,7 @@ Anantha delivers measurable value across multiple dimensions:
 Anantha serves as a living laboratory for urban governance innovation:
 
 - Tests new regulatory frameworks for rapid development
+- Creates a pathway for regional developers to join the cit
 - Demonstrates integrated governance models
 - Provides data-driven insights for national policy
 - Creates scalable blueprint for Tier-2 and Tier-3 cities
