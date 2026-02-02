@@ -210,7 +210,7 @@ Anantha delivers measurable value across multiple dimensions:
 Anantha serves as a living laboratory for urban governance innovation:
 
 - Tests new regulatory frameworks for rapid development
-- Creates a pathway for regional developers to join the cit
+- Creates a insensitive for regional developers to join the city to provide growth   
 - Demonstrates integrated governance models
 - Provides data-driven insights for national policy
 - Creates scalable blueprint for Tier-2 and Tier-3 cities
