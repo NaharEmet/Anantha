@@ -6,7 +6,8 @@ how many people per project?
 
 # questions
 how do i see the machine llm human future 
-what do i care about 
-oslo interations with goverments
+what do i care about and why  
+oslo interactions with governments
 where do we build and why 
-sequenc
+sequencing and timeline
+
