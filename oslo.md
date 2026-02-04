@@ -6,7 +6,7 @@ how many people per project?
 
 
 ## preface
-for me one of the great things about email is that it lets us take the required amount of time to contemplate and answer the very difficult and novel questions that we are discussing and it helps us create a data corpus that we can later feed into an llm stracture and use to start writting the required do
+for me one of the great things about email is that it lets us take the required amount of time to contemplate and answer the very difficult and novel questions that we are discussing and it helps us create a data corpus that we can later feed into an llm stracture and use to start writting the required documents 
 # questions
 #### how do you envision the Oslo project operating?
 to me it sounded like you where thinking of taking funds and using them to scale other project almost like a vc fund for development projects
@@ -21,9 +21,10 @@ one stoy from my last company where we took cleaning ladies and they worked in a
 even if we dont give money once they get it they will just join the shitshow this is one of the reasons that im quite skeptile about the value of helping global south populations develop extraction systems or constracting infrastracture without governance and deep systemic changes.
 this to me is why i think that LLMs provide us with an opportuniny to both develop and guide a population at the same time if we dont guide the population and direct them then the american social media and the local film industry will be their teachers
 ## what do i care about and why  
+the thing that i care about the most in this project and is the idea that i have spent the last 6 years exploring is howto  structure organisations in novel ways and increase their performance 
 
-## oslo interactions with governments
-goverments are finiky entities. they have mostly the power to say no and the thing that they are the most concerned with is looking good to their constituents and superiors. 
+## Oslo Interactions with Governments
+Goverments are finicky entities. They have mostly the power to say no and the thing that they are the most concerned with is looking good to their constituents and superiors. 
 we need to approch goverments as an easy project to support that can make them look very good to their supperios if we succed and prove to them that we will not make them look bad or create stress with their constituents.
 
 ## where do we build and why 
