@@ -11,7 +11,8 @@ for me one of the great things about email is that it lets us take the required 
 #### how do you envision the Oslo project operating?
 to me it sounded like you where thinking of taking funds and using them to scale other project almost like a vc fund for development projects
 
-you mentioned 10 villages to form a network im not quite sure what you meant by this
+you mentioned 10 villages to form a network im not quite sure what you meant by this.
+I want to understand better 
 ## how do i see the machine llm human future 
 
 
@@ -24,14 +25,13 @@ this to me is why i think that LLMs provide us with an opportuniny to both devel
 the thing that i care about the most in this project and is the idea that i have spent the last 6 years exploring is howto  structure organisations in novel ways and increase their performance 
 
 ## Oslo Interactions with Governments
-Goverments are finicky entities. They have mostly the power to say no and the thing that they are the most concerned with is looking good to their constituents and superiors. 
-we need to approch goverments as an easy project to support that can make them look very good to their supperios if we succed and prove to them that we will not make them look bad or create stress with their constituents.
+Governments are finicky entities. They have mostly the power to say no and the thing that they are the most concerned with is looking good to their constituents and superiors. 
+we need to approach governments as an easy project to support that can make them look very good to their superiors if we succeed and prove to them that we will not make them look bad or create stress with their constituents.
 
 ## where do we build and why 
 this depends greatly on what project we are envissioning if its a research site for collaboration or a site where we are testing out alternative systems with people that we are bringing in then it must be in a place with no local population we cannot hope to integrate people this will lead to stress and conflict.
 if we are building a project where we are trying to develop a local population with grass roots action then selecting a place where we have a goverment thats easily controlable and good willed is very important we will meet a lot of governments that will suck up to us to get money and work but will turn on us later. selecting villages that are small with a proactive young population with a lot of motivation and goodwill will be the difference between success and a painfull fallout. we must ensure that any project that we pick up and invest into we retain sufficient leverage with the administrative body and a lot of goodwill with the youth.
 
-we cannot build a project where there is a local population this will lead 
 
 ## sequencing and timeline
 
