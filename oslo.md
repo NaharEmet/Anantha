@@ -4,17 +4,22 @@ where we build and why
 how many people per project?
 
 
+
+## preface
+for me one of the great things about email is that it lets us take the required amount of time to contemplate and answer the very difficult and novel questions that we are discussing and it helps us create a data corpus that we can later feed into an llm stracture and use to start writting the required do
 # questions
 #### how do you envision the Oslo project operating?
 to me it sounded like you where thinking of taking funds and using them to scale other project almost like a vc fund for development projects
+
+you mentioned 10 villages to form a network im not quite sure what you meant by this
 ## how do i see the machine llm human future 
 
 
 
 one of the issues with helping a population in the global south move up economically is you end up increasing their consumption.
 one stoy from my last company where we took cleaning ladies and they worked in a comercial kitcen for a higher pay is that one of the first thing that they did was buy bikes with a lone of 25%+ interest rate from the village lone shark. 
-even if we dont give money once they get it they will just join the shitshow this is one of the reasons that im quite skeptile about the value of helping global south populations develop or constracting infrastracture without governance and deep systems and even if the first gen doesnt the kids will as we have seen in auroville in the case of the local population for example most of them dont want to work and they rather smoke weed this   
-
+even if we dont give money once they get it they will just join the shitshow this is one of the reasons that im quite skeptile about the value of helping global south populations develop extraction systems or constracting infrastracture without governance and deep systemic changes.
+this to me is why i think that LLMs provide us with an opportuniny to both develop and guide a population at the same time if we dont guide the population and direct them then the american social media and the local film industry will be their teachers
 ## what do i care about and why  
 
 ## oslo interactions with governments
