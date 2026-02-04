@@ -11,7 +11,9 @@ to me it sounded like you where thinking of taking funds and using them to scale
 
 
 
-one of the issues with the 
+one of the issues with helping a population in the global south move up economically is you end up increasing their consumption.
+one stoy from my last company where we took cleaning ladies and they worked in a comercial kitcen for a higher pay is that one of the first thing that they did was buy bikes with a lone of 25%+ interest rate from the village lone shark. 
+even if we dont give money once they get it they will just join the shitshow this is one of the reasons that im quite skeptile about the value of helping global south populations develop or constracting infrastracture without governance and deep systems and even if the first gen doesnt the kids will as we have seen in auroville in the case of the local population for example most of them dont want to work and they rather smoke weed this   
 
 ## what do i care about and why  
 
