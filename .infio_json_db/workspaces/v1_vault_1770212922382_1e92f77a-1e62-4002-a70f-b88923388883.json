@@ -15,6 +15,14 @@
     {
       "id": "eba8cff8-9c17-4571-ad14-1238bbc7d0ce",
       "title": "That can definitely be arranged. Several houses in"
+    },
+    {
+      "id": "2da815b6-c3b5-4606-8397-b6b3f2ec04b0",
+      "title": "@Main "
+    },
+    {
+      "id": "7ea48bcd-ef72-4831-a1d2-f63927692aaf",
+      "title": "@Main this is a project what do you think of it"
     }
   ],
   "metadata": {
@@ -22,6 +30,6 @@
     "description": "all vault as workspace"
   },
   "createdAt": 1769884929321,
-  "updatedAt": 1770056166731,
+  "updatedAt": 1770212922382,
   "schemaVersion": 1
 }
