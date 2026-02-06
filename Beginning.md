@@ -159,7 +159,7 @@ India—and the world—are entering a decisive phase of urban transition.
 - rising infrastructure and healthcare life-cycle costs
 - fragmented governance and declining institutional trust
 - approval delays, regulatory uncertainty, and execution risk
-    
+
 
 At the same time, capital is increasingly sensitive to **long-term resilience, ESG alignment, and downside protection**.
 
@@ -167,66 +167,25 @@ Conventional developments continue to optimize for speed and near-term yield, sy
 
 This system responds by embedding resilience, circularity, and governance transparency **at the design stage**, lowering lifecycle risk while enabling durable, long-horizon value creation.
 
-## Strategic Alignment with India's Vision
+## Strategic Alignment
 
-Anantha is designed to directly support and accelerate India's national priorities while addressing the critical gaps that have hindered progress in existing urban development initiatives.
+Anantha accelerates India’s national priorities by proving that sustainable urbanism is a driver of economic and sovereign strength.
 
-### Direct Support for Government Missions
+### National Impact & Integration
+The system provides a high-performance environment for existing government missions:
+- **Smart Cities & Digital India:** Anantha serves as the "Operating System," leveraging digital infrastructure for transparent, automated governance.
+- **Swachh Bharat & Green Missions:** Circular systems eliminate waste at the source and achieve water self-sufficiency, moving beyond mere "cleanup" to systemic prevention.
+- **Economic Growth (Make in India):** By reducing infrastructure costs by ~40% and commute times by ~60%, the city creates an ultra-efficient hub for advanced manufacturing and research.
 
-Anantha's framework aligns with and enhances multiple government initiatives:
+### Governance Innovation & Risk Mitigation
+Anantha functions as a **living laboratory** for policy:
+- **Scalable Blueprint:** Provides a testable model for Tier-2 and Tier-3 cities to leapfrog traditional urban decay.
+- **De-risking Development:** Transparent systems and climate-resilient design eliminate the typical risks of corruption, infrastructure delays, and disaster recovery costs.
 
-- **Smart Cities Mission**: Delivers on the promise of intelligent urban planning through integrated governance systems
-- **Swachh Bharat Abhiyan**: Embeds circular economy principles that eliminate waste at the source
-- **Make in India**: Creates advanced manufacturing clusters focused on sustainable technologies
-- **Digital India**: Leverages existing digital infrastructure while pushing innovation boundaries
+---
 
-### Quantifiable Benefits for the State
-
-Anantha delivers measurable value across multiple dimensions:
-
-**Economic Impact**
-
-- Creates 10,000+ direct jobs in first phase
-- Generates ₹1,000+ crore in annual tax revenue
-- Reduces public infrastructure costs by 40% through circular systems
-- Attracts ₹5,000+ crore in private investment into startups
-
-**Social Impact**
-
-- Provides a first world city lifestyle for 10,000+ residents
-- Creates 1,000+ new educational and research positions
-- Reduces commute times by 60% through integrated planning
-- Reduces motorized commute by 90%
-
-**Environmental Impact**
-
-- Achieves 80% reduction in carbon emissions vs conventional cities
-- Creates 1,000+ acres of restored indigenous ecosystem
-- Achieves water self-sufficiency through closed-loop systems
-- Eliminates 90% of solid waste through circular design
-
-### Policy Innovation and Replicability
-
-Anantha serves as a living laboratory for urban governance innovation:
-
-- Tests new regulatory frameworks for rapid development
-- Creates a insensitive for regional developers to join the city to provide growth   
-- Demonstrates integrated governance models
-- Provides data-driven insights for national policy
-- Creates scalable blueprint for Tier-2 and Tier-3 cities
-
-### Risk Mitigation for Government Projects
-
-Anantha's design addresses key government project risks:
-
-- Transparent governance eliminates corruption risks
-- Climate-resilient design reduces disaster recovery costs
-- Integrated planning prevents infrastructure delays
-- Performance-based contracts ensure accountability
-
-This strategic alignment ensures that Anantha is not just an ideal city, but a practical solution to India's most pressing urban challenges.
-
-
+## What Comes Next
+<!-- ... existing content ... -->
 ---
 
 ## What Comes Next
