@@ -2,8 +2,10 @@
 dg-home: true
 dg-publish: true
 ---
-# Anantha
+# *Anantha*
+
 ## A Blueprint for Future Urbanism
+
 a **city-scale system** built on care, collective wisdom, and regeneration—designed to prove that human prosperity and planetary health are not trade-offs, but co-dependencies.
 
 Where conventional cities optimize for extraction, consumption, and short-term yield, this system is designed to **heal rather than exhaust**—people, communities, and ecosystems.
@@ -23,6 +25,18 @@ It is not a finished product, but a **replicable urban operating system**—one 
 
 A city designed not just to function—but to heal.
 
+
+---
+
+## Design Principles & Philosophy
+
+Anantha is a living system where ecological integrity, social well-being, and economic vitality reinforce one another.
+
+- **Nature is Infrastructure:** Not an externality, but the foundation for food, water, and climate resilience.
+- **Community is Capital:** Social trust and care are explicitly supported and rewarded.
+- **Systemic Governance:** Power is bounded and transparent; rules and incentives drive defaults.
+- **Technology as an Augment:** AI and automation absorb routine labor to prioritize human creativity and stewardship.
+- **Circular Metabolism:** A closed-loop system where waste is eliminated at the design level.
 
 ---
 
@@ -49,19 +63,11 @@ Anantha is designed as a layered, interacting system rather than a collection of
 
 Together, these layers form a living urban operating system designed to remain resilient under stress, scale across regions, and adapt over time.
 
----
 
 [[The city as a system]]
-## Design Principles & Philosophy
 
-Anantha is a living system where ecological integrity, social well-being, and economic vitality reinforce one another.
-
-- **Nature is Infrastructure:** Not an externality, but the foundation for food, water, and climate resilience.
-- **Community is Capital:** Social trust and care are explicitly supported and rewarded.
-- **Systemic Governance:** Power is bounded and transparent; rules and incentives drive defaults.
-- **Technology as an Augment:** AI and automation absorb routine labor to prioritize human creativity and stewardship.
-- **Circular Metabolism:** A closed-loop system where waste is eliminated at the design level.
 ---
+
 
 ## Redefining Wealth
 
