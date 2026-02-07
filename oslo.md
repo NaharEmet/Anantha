@@ -10,12 +10,12 @@ for me one of the great things about email is that it lets us take the required 
 # questions
 
 #### how do you envision the Oslo project operating?
-to me it sounded like you where thinking of taking funds and using them to scale other project almost like a vc fund for development projects
+to me it sounded like you where thinking of taking funds and using them to scale other project almost like a VC fund for development projects
 
-you mentioned 10 villages to form a network im not quite sure what you meant by this.
-I want to understand better 
+you mentioned 10 villages to form a network i am not quite sure what you meant by this.
+I want to understand better. 
 
-## how do i see the machine llm human future 
+## how do i see the machine & AI human future 
 
 one of the issues with helping a population in the global south move up economically is you end up increasing their consumption.
 one story from my last company where we took cleaning ladies and they worked in a commercial kitchen for a higher pay is that one of the first thing that they did was buy bikes with a lone of 25%+ interest rate from the village lone shark. 
