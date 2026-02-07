@@ -3,10 +3,8 @@ where we build and why
 10 places
 how many people per project?
 
-
-
 ## preface
-for me one of the great things about email is that it lets us take the required amount of time to contemplate and answer the very difficult and novel questions that we are discussing and it helps us create a data corpus that we can later feed into an llm stracture and use to start writting the required documents 
+for me one of the great things about email is that it lets us take the required amount of time to contemplate and answer the very difficult and novel questions that we are discussing and it helps us create a data corpus that we can later feed into an llm structure and use to start writing the required documents 
 # questions
 #### how do you envision the Oslo project operating?
 to me it sounded like you where thinking of taking funds and using them to scale other project almost like a vc fund for development projects
@@ -19,7 +17,7 @@ I want to understand better
 
 one of the issues with helping a population in the global south move up economically is you end up increasing their consumption.
 one stoy from my last company where we took cleaning ladies and they worked in a comercial kitcen for a higher pay is that one of the first thing that they did was buy bikes with a lone of 25%+ interest rate from the village lone shark. 
-even if we dont give money once they get it they will just join the shitshow this is one of the reasons that im quite skeptile about the value of helping global south populations develop extraction systems or constracting infrastracture without governance and deep systemic changes.
+even if we dont give money once they get it they will just join the shitshow this is one of the reasons that im quite skeptile about the value of helping global south populations develop extraction systems or constracting infrastructure without governance and deep systemic changes.
 this to me is why i think that LLMs provide us with an opportuniny to both develop and guide a population at the same time if we dont guide the population and direct them then the american social media and the local film industry will be their teachers
 ## what do i care about and why  
 the thing that i care about the most in this project and is the idea that i have spent the last 6 years exploring is howto  structure organisations in novel ways and increase their performance 
