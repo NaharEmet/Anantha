@@ -27,8 +27,9 @@ This is why I’m skeptical of development efforts that focus on income, infrast
 
 This is where I think LLMs offer a new approach: the possibility to _develop and guide at the same time_. If we don’t consciously; guide learning, adjust values, and shape decision-making at the both the individual and collective level, then nearby cities, local film industries, and American social media will do it for us.
 
-on the more meta level i think that we are heading into an unemployment crises the howl system is built for extracting human labor. a small minority being employed with very high saleries and the rest of society on foodstamps will lead to social unreast. 
-one  interesting angle for us could be to focuse on the post scarcity world and to build systems for it. every smart goverment must be seing the incoming employment crisis and they are finding out with trials that UBI is not functional without secondary support systems.
+On a more meta level, i think we’re moving toward an unemployment crisis. The whole system is built around extracting human labor, and that assumption is starting to break. A future where a small minority is employed at very high salaries while the rest of society survives on food stamps is almost guaranteed to create social unrest.
+
+One interesting angle for us might be to focus on a post-scarcity world and start building systems designed for it. Most competent governments can probably see the employment shock coming, and early trials already suggest that UBI on its own isn’t functional without secondary support systems around it. we could offer a low risk way for them to start preparing for this future.
 
 ---
 
