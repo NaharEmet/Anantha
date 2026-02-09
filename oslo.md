@@ -25,10 +25,10 @@ this to me is why i think that LLMs provide us with an opportunity to both devel
 
 ## what do i care about and why  
 
-the thing that i care about the most in this project and is the idea that i have spent the last 6 years exploring is how to structure organisations to increase their performance. we need to design a more efficient collaborative system that creates a world that is both out of the shitshow and yet provides a higher quality of life for its participents.
-this is a project that is personal for me firstly due to watching auroville fall ive seen small glimpses of such systems working in auroville but not for long this is what i feel can be my greatest contribution to this world and its some
+the thing that i care about the most in this project and is the idea that i have spent the last 6 years exploring is how organisations can be restructured. for me its quite clear that this is the first step to solving the global crises. ive seen small glimpses of such systems working in auroville but never for long and never with the capacity to scale. 
 
 ## Oslo Interactions with Governments
+"the most important job of a middle management is covering their ass" ~ someone  
 
 Governments are finicky entities. They  mostly have the power to say no and the thing that they are the most concerned with is looking good to their constituents and superiors. 
 we need to approach governments as an easy project to support that can make them look very good to their superiors if we succeed and prove to them that we will not make them look bad or create stress with their constituents.
@@ -37,8 +37,6 @@ we need to approach governments as an easy project to support that can make them
 
 this depends greatly on what project we are envisioning if its a research site for collaboration or a site where we are testing out alternative systems with people that we are bringing in then it must be in a place with no local population we cannot hope to integrate people this will lead to stress and conflict.
 if we are building a project where we are trying to develop a local population with grass roots action then selecting a place where we have a government thats easily controllable and good willed is very important we will meet a lot of governments that will suck up to us to get money and work but will turn on us later. selecting villages that are small with a proactive young population with a lot of motivation and goodwill will be the difference between success and a painful fallout. we must ensure that any project that we pick up and invest into we retain sufficient leverage with the administrative body and a lot of goodwill with the youth.
-
-## sequencing and timeline
 
 
 
