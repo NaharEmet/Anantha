@@ -8,7 +8,16 @@ You also mentioned the idea of 10 villages forming a network. I’m not entirely
 
 ---
 
-### How I see the machine & AI–human future
+### What I care about most, and why
+
+The thing I care about most in this project is something I’ve been exploring for the last six years: **how do we structure and build collaborative non hierarchical organizations **.
+
+I’m increasingly convinced that this is the first real lever for addressing the global crises. I’ve seen brief glimpses of such systems working in Auroville, but never for long, and never with the capacity to scale without collapsing or being captured.
+
+what interests me is discovering organizational forms that can survive contact with reality.
+
+
+### AI–human future
 
 One of the core challenges with helping a population move up economically is that it increases consumption.
 
@@ -16,17 +25,8 @@ In my last company, we took cleaning staff and trained them for higher-paid jobs
 
 This is why I’m skeptical of development efforts that focus on income, infrastructure, or extraction capacity without governance and deep systemic change. Without guidance, people don’t exit the system, they get absorbed more deeply into it.
 
-This is where I think LLMs offer something genuinely new: the possibility to _develop and guide at the individual level at the same time_. If we don’t consciously guide learning, values, and decision-making at the individual level, then cities, local film industries, and American social media will do it for us — very efficiently.
+This is where I think LLMs offer a new approach: the possibility to _develop and guide at the same time_. If we don’t consciously; guide learning, adjust values, and shape decision-making at the both the individual and collective level, then nearby cities, local film industries, and American social media will do it for us.
 
----
-
-### What I care about most, and why
-
-The thing I care about most in this project is something I’ve been exploring for the last six years: **how organizations can be fundamentally restructured**.
-
-I’m increasingly convinced that this is the first real lever for addressing global crises. I’ve seen brief glimpses of such systems working in Auroville, but never for long, and never with the capacity to scale without collapsing or being captured.
-
-what interests me is discovering organizational forms that can survive contact with reality.
 
 ---
 
