@@ -16,7 +16,7 @@ In my last company, we took cleaning staff and trained them for higher-paid jobs
 
 This is why I’m skeptical of development efforts that focus on income, infrastructure, or extraction capacity without governance and deep systemic change. Without guidance, people don’t exit the system, they get absorbed more deeply into it.
 
-This is where I think LLMs offer something genuinely new: the possibility to _develop and guide at the same time_. If we don’t consciously guide learning, values, and decision-making, then cities, local film industries, and American social media will do it for us — very efficiently.
+This is where I think LLMs offer something genuinely new: the possibility to _develop and guide at the individual level at the same time_. If we don’t consciously guide learning, values, and decision-making at the individual level, then cities, local film industries, and American social media will do it for us — very efficiently.
 
 ---
 
