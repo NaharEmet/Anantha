@@ -32,11 +32,11 @@ what interests me is discovering organizational forms that can survive contact w
 
 ### Oslo interactions with governments
 
-Someone once said that the most important job of middle management is covering their ass. Governments, in many ways, operate the same way.
+the most important job of middle management is covering their ass. Governments are made up almost entirely of middle management.
 
-They are finicky entities. They mostly have the power to say no, and their primary concern is looking good to constituents and superiors while avoiding risk.
+most people in government have the power to say no and not much else, and their primary concern is looking good to constituents and superiors while avoiding risk.
 
-We need to approach governments as offering them an _easy win_: a project that is safe to support, makes them look good if it succeeds, and doesn’t create stress or backlash if it doesn’t. Demonstrating that we won’t embarrass them or destabilize their local context is essential.
+We need to approach governments, offering them an _easy win_: a project that is safe to support, makes them look good if it succeeds, and doesn’t create stress or backlash if it doesn’t. Demonstrating that we won’t embarrass them or destabilize their local context is essential.
 
 ---
 
@@ -57,17 +57,6 @@ If the goal is grassroots development with an existing population, then site sel
 - A government that is not just friendly, but predictable and influenceable
     
 
-We will encounter many governments that are welcoming early on and turn hostile later. The difference between success and a painful fallout will be whether we retain sufficient leverage with the administrative body and deep goodwill with the local youth.
+We will encounter many governments that are welcoming early on and turn hostile later. The difference between success and a painful fallout will be whether we retain sufficient leverage with the administrative body and deep goodwill with the local youth and a majority of the population.
 
 Without both, the risks compound quickly.
-
----
-
-If you want, next we can:
-
-- Tighten this further for a more executive / investor-facing version
-    
-- Or break it into a shared internal memo + an external-facing narrative
-    
-
-Just say the word.
