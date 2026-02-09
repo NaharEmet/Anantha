@@ -1,43 +1,77 @@
+One of the things I value about email is that it gives us the time and space to think carefully about questions that are complex layered and new. It also leaves behind a written trail that we can later structure and refine and even feed into an LLM to extract information from.
 
-# questions received 
-sites
-where we build and why 
-10 places
-how many people per project?
+### How do you envision the Oslo project operating?
 
-## preface
+I want to make sure I understandoo your thinking correctly here, and I may be projecting some of my own assumptions.
 
-for me one of the great things about email is that it lets us take the required amount of time to contemplate and answer the very difficult and novel questions that we are discussing and it helps us create a data corpus that we can later feed into an llm structure and use to start writing the required documents 
-# questions
+From our conversation, it sounded to me as if Oslo might function somewhat like a development-focused fund — where capital is deployed across multiple projects, and where successful projects help support or scale others over time. Not a VC in the traditional sense, but a similar structure applied to development, experimentation, and long-term systems building rather than pure financial return.
 
-#### how do you envision the Oslo project operating?
-to me it sounded like you where thinking of taking funds and using them to scale other project almost like a VC fund for development projects
+You also mentioned the idea of 10 villages forming a network. I’m not entirely clear on how you’re imagining this in practice — whether these are parallel experiments, sequential phases, or a more tightly coordinated system.
 
-you mentioned 10 villages to form a network i am not quite sure what you meant by this.
-I want to understand better. 
+I’d appreciate hearing how _you_ currently see Oslo operating day to day, and what role you imagine it playing relative to the individual sites.
 
-## how do i see the machine & AI human future 
+---
 
-one of the issues with helping a population move up economically is you end up increasing their consumption.
-one story from my last company where we took cleaning ladies and trained and gave them jobs in a commercial kitchen for a higher pay is that one of the first thing that they did was buy bikes with a loan with a 25%+ interest rate from the village lone shark. 
-even if we don't give money directly once they increase their purchasing power they will join the shit show. this is one of the reasons that i am quite skeptic about the value of helping populations develop extraction systems or constructing infrastructure without governance and deep systemic changes.
-this to me is why i think that LLMs provide us with an opportunity to both develop and guide a population at the same time if we don't guide the population and direct them the cities, local film industry american social media and the  will be their teachers
+### How I see the machine & AI–human future
 
-## what do i care about and why  
+One of the core challenges with helping a population move up economically is that it almost always increases consumption.
 
-the thing that i care about the most in this project and is the idea that i have spent the last 6 years exploring is how organisations can be restructured. for me its quite clear that this is the first step to solving the global crises. ive seen small glimpses of such systems working in auroville but never for long and never with the capacity to scale. 
+In my last company, we took cleaning staff and trained them for higher-paid jobs in a commercial kitchen. One of the first things several of them did was buy bicycles using loans at 25%+ interest from local loan sharks. Even without direct cash transfers, increased purchasing power pulls people straight into predatory systems.
 
-## Oslo Interactions with Governments
-"the most important job of a middle management is covering their ass" ~ someone  
+This is why I’m skeptical of development efforts that focus on income, infrastructure, or extraction capacity without governance and deep systemic change. Without guidance, people don’t exit the system — they get absorbed more deeply into it.
 
-Governments are finicky entities. They  mostly have the power to say no and the thing that they are the most concerned with is looking good to their constituents and superiors. 
-we need to approach governments as an easy project to support that can make them look very good to their superiors if we succeed and prove to them that we will not make them look bad or create stress with their constituents.
+This is where I think LLMs offer something genuinely new: the possibility to _develop and guide at the same time_. If we don’t consciously guide learning, values, and decision-making, then cities, local film industries, and American social media will do it for us — very efficiently.
 
-## where do we build and why 
+---
 
-this depends greatly on what project we are envisioning if its a research site for collaboration or a site where we are testing out alternative systems with people that we are bringing in then it must be in a place with no local population we cannot hope to integrate people this will lead to stress and conflict.
-if we are building a project where we are trying to develop a local population with grass roots action then selecting a place where we have a government thats easily controllable and good willed is very important we will meet a lot of governments that will suck up to us to get money and work but will turn on us later. selecting villages that are small with a proactive young population with a lot of motivation and goodwill will be the difference between success and a painful fallout. we must ensure that any project that we pick up and invest into we retain sufficient leverage with the administrative body and a lot of goodwill with the youth.
+### What I care about most, and why
 
+The thing I care about most in this project is something I’ve been exploring for the last six years: **how organizations can be fundamentally restructured**.
 
+I’m increasingly convinced that this is the first real lever for addressing global crises. I’ve seen brief glimpses of such systems working — including in places like Auroville — but never for long, and never with the capacity to scale without collapsing or being captured.
 
+For me, this work is primarily about discovering organizational forms that can survive contact with reality.
 
+---
+
+### Oslo interactions with governments
+
+Someone once said that the most important job of middle management is covering their ass. Governments, in many ways, operate the same way.
+
+They are finicky entities. They mostly have the power to say no, and their primary concern is looking good to constituents and superiors while avoiding risk.
+
+We need to approach governments as offering them an _easy win_: a project that is safe to support, makes them look good if it succeeds, and doesn’t create stress or backlash if it doesn’t. Demonstrating that we won’t embarrass them or destabilize their local context is essential.
+
+---
+
+### Where we build, and why
+
+This depends heavily on what kind of project we’re talking about.
+
+If the site is primarily a research or experimental collaboration space — where we’re testing alternative systems with people we bring in — then it should be in a place with no local population. Integration adds unavoidable tension and conflict that will derail early-stage experimentation.
+
+If the goal is grassroots development with an existing population, then site selection becomes critical. We need:
+
+- Small villages
+    
+- A proactive and motivated youth population
+    
+- Demonstrated goodwill
+    
+- A government that is not just friendly, but predictable and influenceable
+    
+
+We will encounter many governments that are welcoming early on and turn hostile later. The difference between success and a painful fallout will be whether we retain sufficient leverage with the administrative body and deep goodwill with the local youth.
+
+Without both, the risks compound quickly.
+
+---
+
+If you want, next we can:
+
+- Tighten this further for a more executive / investor-facing version
+    
+- Or break it into a shared internal memo + an external-facing narrative
+    
+
+Just say the word.
