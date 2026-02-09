@@ -1,5 +1,5 @@
 
-
+# questions received 
 sites
 where we build and why 
 10 places
@@ -18,14 +18,15 @@ I want to understand better.
 
 ## how do i see the machine & AI human future 
 
-one of the issues with helping a population in the global south move up economically is you end up increasing their consumption.
-one story from my last company where we took cleaning ladies and they worked in a commercial kitchen for a higher pay is that one of the first thing that they did was buy bikes with a lone of 25%+ interest rate from the village lone shark. 
-even if we don't give money once they get it they will just join the shit show this is one of the reasons that i am quite skeptic about the value of helping global south populations develop extraction systems or constructing infrastructure without governance and deep systemic changes.
-this to me is why i think that LLMs provide us with an opportunity to both develop and guide a population at the same time if we don't guide the population and direct them then the american social media and the local film industry will be their teachers
+one of the issues with helping a population move up economically is you end up increasing their consumption.
+one story from my last company where we took cleaning ladies and trained and gave them jobs in a commercial kitchen for a higher pay is that one of the first thing that they did was buy bikes with a loan with a 25%+ interest rate from the village lone shark. 
+even if we don't give money directly once they increase their purchasing power they will join the shit show. this is one of the reasons that i am quite skeptic about the value of helping populations develop extraction systems or constructing infrastructure without governance and deep systemic changes.
+this to me is why i think that LLMs provide us with an opportunity to both develop and guide a population at the same time if we don't guide the population and direct them the cities, local film industry american social media and the  will be their teachers
 
 ## what do i care about and why  
 
-the thing that i care about the most in this project and is the idea that i have spent the last 6 years exploring is howto  structure organisations in novel ways and increase their performance 
+the thing that i care about the most in this project and is the idea that i have spent the last 6 years exploring is how to structure organisations to increase their performance. we need to design a more efficient collaborative system that creates a world that is both out of the shitshow and yet provides a higher quality of life for its participents.
+this is a project that is personal for me firstly due to watching auroville fall ive seen small glimpses of such systems working in auroville but not for long this is what i feel can be my greatest contribution to this world and its some
 
 ## Oslo Interactions with Governments
 
