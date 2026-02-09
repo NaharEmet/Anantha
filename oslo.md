@@ -2,23 +2,19 @@ One of the things I value about email is that it gives us the time and space to 
 
 ### How do you envision the Oslo project operating?
 
-I want to make sure I understandoo your thinking correctly here, and I may be projecting some of my own assumptions.
+From our conversation, it sounded to me as if  you sow the Oslo project operating somewhat like a green development fund, where capital is deployed into several successful projects to scale them.
 
-From our conversation, it sounded to me as if Oslo might function somewhat like a development-focused fund — where capital is deployed across multiple projects, and where successful projects help support or scale others over time. Not a VC in the traditional sense, but a similar structure applied to development, experimentation, and long-term systems building rather than pure financial return.
-
-You also mentioned the idea of 10 villages forming a network. I’m not entirely clear on how you’re imagining this in practice — whether these are parallel experiments, sequential phases, or a more tightly coordinated system.
-
-I’d appreciate hearing how _you_ currently see Oslo operating day to day, and what role you imagine it playing relative to the individual sites.
+You also mentioned the idea of 10 villages forming a network. I’m not entirely clear on how you’re imagining this in practice, whether these are parallel experiments, sequential phases, or a more tightly coordinated system.
 
 ---
 
 ### How I see the machine & AI–human future
 
-One of the core challenges with helping a population move up economically is that it almost always increases consumption.
+One of the core challenges with helping a population move up economically is that it increases consumption.
 
-In my last company, we took cleaning staff and trained them for higher-paid jobs in a commercial kitchen. One of the first things several of them did was buy bicycles using loans at 25%+ interest from local loan sharks. Even without direct cash transfers, increased purchasing power pulls people straight into predatory systems.
+In my last company, we took cleaning staff and trained them for higher-paid jobs in a commercial kitchen. One of the first things several of them did was buy motorbikes using loans at 25%+ interest from local loan sharks. Even without direct cash transfers, increased purchasing power pulls people into the shit show.
 
-This is why I’m skeptical of development efforts that focus on income, infrastructure, or extraction capacity without governance and deep systemic change. Without guidance, people don’t exit the system — they get absorbed more deeply into it.
+This is why I’m skeptical of development efforts that focus on income, infrastructure, or extraction capacity without governance and deep systemic change. Without guidance, people don’t exit the system, they get absorbed more deeply into it.
 
 This is where I think LLMs offer something genuinely new: the possibility to _develop and guide at the same time_. If we don’t consciously guide learning, values, and decision-making, then cities, local film industries, and American social media will do it for us — very efficiently.
 
@@ -28,9 +24,9 @@ This is where I think LLMs offer something genuinely new: the possibility to _de
 
 The thing I care about most in this project is something I’ve been exploring for the last six years: **how organizations can be fundamentally restructured**.
 
-I’m increasingly convinced that this is the first real lever for addressing global crises. I’ve seen brief glimpses of such systems working — including in places like Auroville — but never for long, and never with the capacity to scale without collapsing or being captured.
+I’m increasingly convinced that this is the first real lever for addressing global crises. I’ve seen brief glimpses of such systems working in Auroville, but never for long, and never with the capacity to scale without collapsing or being captured.
 
-For me, this work is primarily about discovering organizational forms that can survive contact with reality.
+what interests me is discovering organizational forms that can survive contact with reality.
 
 ---
 
