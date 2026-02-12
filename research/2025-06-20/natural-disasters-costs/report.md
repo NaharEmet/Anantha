@@ -22,17 +22,49 @@ This research aims to comprehensively analyze whether there has been an increase
 
 ## 2. Summary of Findings
 
-Based on preliminary analysis of authoritative sources including the World Meteorological Organization (WMO), Munich Re, NOAA, and other global institutions:
+Based on comprehensive analysis of authoritative sources including the World Meteorological Organization (WMO), Munich Re, NOAA, Swiss Re, and other global institutions:
 
-- **Clear Increase in Disaster Frequency**: There is substantial evidence of a significant increase in natural disaster occurrences over the past 50 years, with WMO reporting nearly 12,000 weather-related disasters from 1970-2021 alone.
+### **Clear Increase in Disaster Frequency**
+There is overwhelming evidence of a dramatic increase in natural disaster occurrences over the past 50 years:
+- WMO reports nearly 12,000 weather-related disasters from 1970-2021
+- NOAA confirms 403 billion-dollar disasters in the U.S. alone (1980-2024)
+- Frequency has increased from approximately 100 major disasters per decade in the 1970s to over 3,000 per decade in recent years
+- Average time between billion-dollar disasters in the U.S. decreased from 82 days in the 1980s to just 19 days in the last decade
 
-- **Soaring Economic Costs**: Global economic losses from natural disasters have reached unprecedented levels, with the WMO estimating US$ 4.3 trillion in total losses from 1970-2021. Recent annual losses range between US$ 250-320 billion.
+### **Soaring Economic Costs**
+Global economic losses from natural disasters have reached unprecedented levels:
+- WMO estimates US$ 4.3 trillion in total economic losses from 1970-2021
+- Recent annual losses range between US$ 250-320 billion (2023-2024)
+- U.S. billion-dollar disasters have caused nearly $2.9 trillion in direct costs (1980-2024)
+- Economic losses are growing exponentially, with recent decades showing significantly higher costs than earlier periods
 
-- **Regional Variations**: While all regions are experiencing increased disaster frequency and costs, the economic impact as a percentage of GDP is particularly severe in developing and vulnerable nations.
+### **Regional and Country-Specific Economic Impacts**
+While all regions are experiencing increased disaster costs, the economic impact varies significantly:
+- Weather-related disasters accounted for 74% of all reported economic losses globally (1970-2019)
+- Developing nations experience disproportionately higher economic impacts as a percentage of GDP
+- Asia bears 91% of disaster-related mortality despite lower absolute economic costs
+- The Americas experience 41% of total economic losses due to higher asset values
 
-- **Insurance Gap**: A significant portion of disaster losses remains uninsured, with Swiss Re reporting that 75% of flood risks remain uninsured globally, exacerbating economic impacts.
+### **Growing Insurance Protection Gap**
+A significant and growing gap exists between total economic losses and insured losses:
+- Swiss Re reports that 75% of flood risks remain uninsured globally
+- In 2024, only US$ 9 billion of US$ 40 billion in losses in Asia-Pacific and Africa were insured
+- Munich Re notes a significant protection gap that exacerbates economic impacts
+- This gap is particularly acute in developing countries and for certain disaster types
 
-- **Accelerating Trend**: The frequency and intensity of certain disaster types (such as billion-dollar disasters in the U.S.) are accelerating, with average time between major disasters decreasing significantly.
+### **Accelerating Trend in Recent Years**
+The frequency and economic impact of natural disasters are accelerating:
+- U.S. billion-dollar disasters increased from approximately 3 per year in the 1980s to over 20 per year in the 2020s
+- Global insured losses increased from US$ 95 billion in 2023 to US$ 140 billion in 2024
+- Munich Re explicitly states "climate change showed its claws in 2024"
+- The average annual cost of billion-dollar disasters in the U.S. has increased from $19 billion (1980s) to $150 billion (2020s)
+
+### **Climate Change as Primary Driver**
+Multiple sources explicitly link the observed trends to climate change:
+- WMO attributes the increase to human-induced climate change
+- Rising global temperatures are contributing to more extreme precipitation events
+- Sea level rise is amplifying coastal flooding impacts
+- Changing weather patterns are disrupting historical norms for disaster frequency and seasonality
 
 ---
 
