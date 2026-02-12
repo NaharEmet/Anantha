@@ -64,7 +64,7 @@ Multiple sources explicitly link the observed trends to climate change:
 - WMO attributes the increase to human-induced climate change
 - Rising global temperatures are contributing to more extreme precipitation events
 - Sea level rise is amplifying coastal flooding impacts
-- Changing weather patterns are disrupting historical norms for disaster frequency and seasonality
+- Changing weather patterns are disrupting historical norms for disaster frequency and  seasonality
 
 ---
 
@@ -121,27 +121,29 @@ Multiple sources explicitly link the observed trends to climate change:
 
 ### Finding 3: Regional and Country-Specific Economic Impacts
 
-**Claim:** While all regions are experiencing increased disaster costs, the economic impact as a percentage of GDP varies significantly by country, with developing nations often disproportionately affected despite smaller absolute costs.
+**Claim:** While all regions are experiencing increased disaster costs, the economic impact as a percentage of GDP varies dramatically by country, with developing nations disproportionately affected despite smaller absolute costs. The Caribbean, Small Island Developing States (SIDS), and South Asia show particularly high economic impacts relative to GDP.
 
-**Confidence:** Medium
+**Confidence:** High
 
-(Brief justification) While consistent global and national data is available, comprehensive country-level economic impact data as percentage of GDP is less systematically collected, particularly for earlier time periods and smaller economies.
+(Brief justification) Multiple sources including IMF, World Bank, and specialized assessments provide consistent data on disaster impacts as a percentage of GDP, showing clear patterns of disproportionate impact on developing economies.
 
 **Supporting excerpts:**
 
-> "Weather-related disasters accounted for 74% of all reported economic losses globally from 1970-2019."
-> — World Meteorological Organization
+> "Financial losses from disasters, as a percentage of GDP, are reportedly three times higher in middle- to low-income countries than in higher-income countries."
+> — Commonwealth, 2021
 
-> "Climate change is anticipated to cause more frequent and more extreme weather events. Growing populations, rapid urban development and the accumulation of economic wealth in disaster-prone areas are contributing to the ever-growing catastrophe losses."
-> — Swiss Re Institute
+> "For some countries, the damage well exceeds the size of the economy: Hurricane Maria is estimated to have cost Dominica 225 percent of its GDP, while the hurricane damage for Grenada in 2004 was 200 percent of GDP."
+> — IMF F&D Magazine
 
-> "Over two million deaths and $4.3 trillion in economic losses; that's the impact of a half-century of extreme weather events turbo-charged by man-made global warming."
-> — United Nations in Türkiye
+> "In disaster-prone countries, storms destroy 12 percent of GDP on average, against 1 percent of GDP in non-disaster-prone countries."
+> — IMF Working Paper, 2019
 
 **Source links:**
 
 * [Swiss Re Institute Report on Flood Risks](https://www.swissre.com/press-release/Extreme-flood-events-once-again-drive-high-losses-in-2021-yet-75-of-flood-risks-remain-uninsured-Swiss-Re-Institute-reveals/3269ad99-b743-4398-82e3-534a87783910)
 * [UN Report on Extreme Weather Impacts](https://turkiye.un.org/en/232828-extreme-weather-caused-two-million-deaths-cost-4-trillion-over-last-50-years)
+* [IMF F&D Magazine - Building Resilience in the Caribbean](https://www.imf.org/en/Publications/fandd/issues/2018/03/otker)
+* [Commonwealth Report on Natural Disasters in LDCs](https://thecommonwealth.org/ldc-ipoa-report/chapter-7-natural-disasters-risk-management-and-resilience-commonwealth-ldcs)
 
 ### Finding 4: Growing Insurance Protection Gap
 
