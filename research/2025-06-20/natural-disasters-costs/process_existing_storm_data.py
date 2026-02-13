@@ -80,9 +80,27 @@ def process_all_existing_files():
             
             # Extract year from filename
             try:
-                # Extract the part between '_d' and '_c'
-                year_part = filename.split('_d')[1].split('_c')[0]
-                year = int(year_part)
+                # Extract all digits and find the most likely year
+                all_digits = ''.join(filter(str.isdigit, filename))
+                
+                # Look for 4-digit sequences that could be years
+                possible_years = []
+                for i in range(len(all_digits) - 3):
+                    year_candidate = all_digits[i:i+4]
+                    year = int(year_candidate)
+                    # Check if it's a reasonable year
+                    if 1970 <= year <= 2023:
+                        possible_years.append(year_candidate)
+                
+                if possible_years:
+                    # Take the first reasonable year found
+                    year = int(possible_years[0])
+                else:
+                    year = None
+                    
+                if year is None:
+                    print(f"Could not extract year from filename: {filename}")
+                    continue
             except:
                 print(f"Could not extract year from filename: {filename}")
                 continue
