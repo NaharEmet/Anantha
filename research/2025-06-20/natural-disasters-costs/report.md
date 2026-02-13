@@ -191,7 +191,57 @@ Multiple sources explicitly link the observed trends to climate change:
 **Source links:**
 
 * [Climate Central Analysis](https://www.climatecentral.org/climate-matters/billion-dollar-disasters-2025)
-* [NOAA Climate.gov](https://www.climate.gov/news-features/blogs/beyond-data/2024-active-year-us-billion-dollar-weather-and-climate-disasters)
+* [NOAA Climate.gov](https://www.climate.gov/news-features/blogs/beyond-data/2024-active-year-year-us-billion-dollar-weather-and-climate-disasters)
+
+### Finding 6: Extreme Country-Specific Economic Impacts
+
+**Claim:** Certain countries experience natural disaster impacts that exceed the size of their economies, with Caribbean and Pacific Small Island Developing States (SIDS) showing the most extreme cases where single disasters can cause economic losses equivalent to 100-500% of annual GDP.
+
+**Confidence:** High
+
+(Brief justification) Multiple authoritative assessments from IMF, World Bank, and UN agencies provide consistent data on extreme disaster impacts in vulnerable island states.
+
+**Supporting excerpts:**
+
+> "Hurricane Maria is estimated to have cost Dominica 225 percent of its GDP, while the hurricane damage for Grenada in 2004 was 200 percent of GDP."
+> — IMF F&D Magazine
+
+> "Hurricane Tomas in 2010 caused economic damage estimated at 43 percent of Saint Lucia's GDP."
+> — World Bank
+
+> "Even without the damage from the 2010 earthquake, which was equivalent to 73% of annual GDP, Haiti would still be among the countries most vulnerable to economic losses from natural disasters."
+> — ReliefWeb analysis
+
+> "For small island states, natural disasters of 538 percent of its GDP, Samoa 488 percent of GDP and Vanuatu 223 percent of GDP."
+> — UNCTAD Research Paper
+
+**Source links:**
+
+* [IMF F&D Magazine - Building Resilience in the Caribbean](https://www.imf.org/en/Publications/fandd/issues/2018/03/otker)
+* [World Bank Report on Disaster Impacts](https://www.worldbank.org/en/news/press-release/2011/03/10/saint-lucia-after-tomas-20000-to-benefit-from-rehabilitation-of-public-infrastructure)
+* [ReliefWeb Analysis of Haiti's Vulnerability](https://reliefweb.int/report/china/haiti-and-mozambique-most-vulnerable-economic-losses-natural-disasters)
+* [UNCTAD Research Paper on SIDS Vulnerability](https://unctad.org/system/files/official-document/ser-rp-2020d14_en.pdf)
+
+### Finding 7: South Asian Economic Vulnerability
+
+**Claim:** South Asian countries face particularly high economic exposure to climate-related disasters, with an estimated 10-18% of GDP at risk from climate-related hazards, roughly triple that of North America and ten times more than the least-affected regions.
+
+**Confidence:** Medium
+
+(Brief justification) While the data represents exposure rather than actual realized losses, it provides important insight into potential future economic vulnerability in South Asia.
+
+**Supporting excerpts:**
+
+> "Bangladesh, India, Pakistan and Sri Lanka's exposure to wildfires, floods, major storms and also water shortages mean South Asia has 10%-18% of GDP at risk, roughly treble that of North America and 10 times more than the least-affected region."
+> — World Economic Forum
+
+> "The World Bank projected that 51 countries would experience an overall fall in GDP of 10-20% by the end of the decade if vital ecosystems collapsed. Among the hardest-hit will be Democratic Republic of Congo, Angola, Madagascar, Ethiopia, Bangladesh..."
+> — World Bank
+
+**Source links:**
+
+* [World Economic Forum on Climate GDP Risk](https://weforum.org/agenda/2022/04/climate-change-global-gdp-risk)
+* [World Bank on Ecosystem Collapse Impacts](https://www.weforum.org/stories/2021/07/climate-change-economic-cost-world-bank-environment/)
 
 ---
 
