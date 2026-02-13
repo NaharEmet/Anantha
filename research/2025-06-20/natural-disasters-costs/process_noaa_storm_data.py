@@ -60,10 +60,10 @@ def process_storm_file(filepath):
                         'Country/Region': row.get('STATE', 'United States'),
                         'Disaster Type': event_type,
                         'Deaths': str(int(row.get('DEATHS_DIRECT', 0)) + int(row.get('DEATHS_INDIRECT', 0))),
-                        'Economic Loss (USD)': str(int(row.get('DAMAGE_PROPERTY', 0)) + int(row.get('DAMAGE_CROPS', 0))),
+                        'Economic Loss (USD)': convert_damage_value(row.get('DAMAGE_PROPERTY', 0)) + convert_damage_value(row.get('DAMAGE_CROPS', 0)),
                         'Loss as % of GDP': '0',
                         'Source': 'NOAA Storm Events',
-                        'Catastrophic': 'Yes' if (int(row.get('DAMAGE_PROPERTY', 0)) + int(row.get('DAMAGE_CROPS', 0))) > 1000000 else 'No',
+                        'Catastrophic': 'Yes' if (convert_damage_value(row.get('DAMAGE_PROPERTY', 0)) + convert_damage_value(row.get('DAMAGE_CROPS', 0))) > 1000000 else 'No',
                         'Insured Loss (USD)': '0'
                     }
                     
@@ -130,6 +130,24 @@ def merge_with_existing_dataset(new_events):
     print("\nDisaster counts by year (recent years):")
     for year in sorted(year_counts.keys())[-10:]:
         print(f"  {year}: {year_counts[year]} disasters")
+
+def convert_damage_value(damage_str):
+    """Convert damage value string to numeric (handles K/M suffixes)"""
+    try:
+        if not damage_str or damage_str.strip() == '':
+            return 0
+        
+        damage_str = damage_str.strip()
+        
+        # Handle K (thousands) and M (millions) suffixes
+        if damage_str.endswith('K'):
+            return int(float(damage_str[:-1]) * 1000)
+        elif damage_str.endswith('M'):
+            return int(float(damage_str[:-1]) * 1000000)
+        else:
+            return int(float(damage_str))
+    except:
+        return 0
 
 def main():
     # Download and process storm data for recent years
