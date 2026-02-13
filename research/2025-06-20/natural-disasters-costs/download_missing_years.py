@@ -177,7 +177,7 @@ def main():
                 for i in range(len(all_digits) - 3):
                     year_candidate = all_digits[i:i+4]
                     year = int(year_candidate)
-                    if 2000 <= year <= 2023:
+                    if 2000 <= year <= 2025:
                         existing_years.append(str(year))
                         break
     
