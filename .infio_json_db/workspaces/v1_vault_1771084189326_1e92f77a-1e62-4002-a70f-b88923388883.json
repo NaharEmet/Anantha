@@ -1,0 +1,39 @@
+{
+  "id": "1e92f77a-1e62-4002-a70f-b88923388883",
+  "name": "vault",
+  "content": [
+    {
+      "type": "folder",
+      "content": "/"
+    }
+  ],
+  "chatHistory": [
+    {
+      "id": "6a953926-37f0-42a7-b236-7bacc3e3043c",
+      "title": "Direct Alignment with National/State Priorities:Ex"
+    },
+    {
+      "id": "eba8cff8-9c17-4571-ad14-1238bbc7d0ce",
+      "title": "That can definitely be arranged. Several houses in"
+    },
+    {
+      "id": "2da815b6-c3b5-4606-8397-b6b3f2ec04b0",
+      "title": "@Main "
+    },
+    {
+      "id": "7ea48bcd-ef72-4831-a1d2-f63927692aaf",
+      "title": "@Main this is a project what do you think of it"
+    },
+    {
+      "id": "2ac37006-c5b1-463e-a2a6-80c7abc92b71",
+      "title": "test"
+    }
+  ],
+  "metadata": {
+    "isDefault": true,
+    "description": "all vault as workspace"
+  },
+  "createdAt": 1769884929321,
+  "updatedAt": 1771084189326,
+  "schemaVersion": 1
+}
