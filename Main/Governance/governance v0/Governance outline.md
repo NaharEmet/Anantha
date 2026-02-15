@@ -4,6 +4,7 @@ the reason detre of money is to answear the question what goes where the world h
 if we remove money we must be able to answears the question of what to make how to best use the resorces we have, what to produce and who gets what. we must do this in a transparent way that all of the individuals feel is fair. the process of alocation must be always net positive in the sense of we are maximising the collective wellbeaing and increasing the abundance pot. 
 ### conflict resolution 
 ### external relations 
+
 ### social alignment 
 
 
