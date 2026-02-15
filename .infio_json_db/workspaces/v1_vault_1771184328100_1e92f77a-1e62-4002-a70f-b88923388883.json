@@ -27,6 +27,14 @@
     {
       "id": "2ac37006-c5b1-463e-a2a6-80c7abc92b71",
       "title": "test"
+    },
+    {
+      "id": "104c2d0b-18a9-414c-9f17-d020ce6d8bdb",
+      "title": "help me clean this up "
+    },
+    {
+      "id": "4982fb60-79de-44e2-b454-0e2a40b3263a",
+      "title": "clean this up "
     }
   ],
   "metadata": {
@@ -34,6 +42,6 @@
     "description": "all vault as workspace"
   },
   "createdAt": 1769884929321,
-  "updatedAt": 1771084189326,
+  "updatedAt": 1771184328100,
   "schemaVersion": 1
 }
