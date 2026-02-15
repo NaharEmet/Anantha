@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "Context7": {
+      "command": "/usr/bin/npx",
+      "args": ["-y", "@upstash/context7-mcp@latest"]
+    },
+    "obsidian-api": {
+      "command": "/usr/bin/npx",
+      "args": ["-y", "obsidian-mcp-server@latest"],
+      "env": {
+        "OBSIDIAN_API_KEY": "b06d8ba67c642543967752b2e29378b6b5f15ffc801735e38b2d59eff696f9e8",
+        "OBSIDIAN_API_URL": "http://127.0.0.1:27123"
+      }
+    }
+  }
+}
