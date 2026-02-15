@@ -1,0 +1,9 @@
+{
+  "agents": [
+    {
+      "id": "strategist",
+      "name": "Proposal Strategist",
+      "skills": ["Proposal-Strategist.md"]
+    }
+  ]
+}
