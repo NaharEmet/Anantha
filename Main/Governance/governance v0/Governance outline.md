@@ -1,1 +1,2 @@
-# The 4 componenets 
+# The 4 components 
+governance 
