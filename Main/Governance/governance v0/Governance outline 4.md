@@ -81,13 +81,15 @@ Agents gather data from those with direct situational knowledge. Subject Matter 
 
 #### 2. Agent-Mediated Discussion
 
-Agents facilitate dialogue between all concerned participants. When conflicts emerge (frontline wants speed, SMEs see risks), agents mediate to find synthesis or clarify trade-offs.
+Agents facilitate dialogue between all concerned ==(how do we establish the appropriate parties given a topic)== participants. When conflicts emerge (frontline wants speed, SMEs see risks), agents mediate to find synthesis or clarify trade-offs.
 
 #### 3. Values Alignment Check
 
 Before generating options, the system checks proposed directions against the community's dynamic values framework. If dissonance is detected, agents ask participants to clarify how the decision aligns with stated values—or if the values themselves need evolution.
 
 #### 4. Option Refinement
+
+#add leveraging history and long term context 
 
 Through iterative discussion, agents distill complexities into 2-10 high-quality options. Each option makes trade-offs explicit and shows alignment with community values.
 
