@@ -121,7 +121,7 @@ Options are presented for final vote. By this point, the community is informedâ€
     - D) Hybrid (balanced, addresses both values)
 5. **Vote:** Community chooses Option D with full understanding of how it balances environmental stewardship with member convenience. Even those who preferred C understand why D won.
 
-#how do we encourage bold decisions
+#how do we encourage bold decisions that align with our values 
 
 _Timeline: 4 weeks vs. 6+ months in traditional governance._
 
