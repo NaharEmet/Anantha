@@ -278,7 +278,7 @@ _Together, these forces create a unique window: the technological capability exi
 
 **Decisions:** Low-stakes (meal planning, scheduling, minor resource allocation)
 
-**Success Metrics:** Decision quality, participant satisfaction, time-to-resolution, values coherence
+**Success Metrics:** participant satisfaction, time-to-resolution, values coherence
 
 ## Phase 2: Scale & Refinement (Months 7-24)
 
@@ -315,3 +315,14 @@ The question is whether we build it intentionally—with transparency, expertise
 ---
 
 **Let's build it right.**
+
+
+
+what Problem are we solving and how are we quantifying it 
+
+# why are we doing this 
+
+
+# How are we mesuring this 
+
+# m
