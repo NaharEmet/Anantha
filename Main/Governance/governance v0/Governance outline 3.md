@@ -10,13 +10,13 @@ Traditional governance fails because information is asymmetric; the people with 
 
 # 1. The Shift
 
-> *AI will transform governance as much as writing.*
+> _AI will transform governance as much as writing._
 
 Historically, scaling coordination required layers of management, institutions, and representation. The cost of communication rose exponentially with population size, forcing societies to rely on intermediaries.
 
 **AI reduces the cost increase of coordination to near-linear.**
 
-> *A society where individuals communicate with AI agents, and the agents synthesize collective intent into coordinated action.*
+> _A society where individuals communicate with AI agents, and the agents synthesize collective intent into coordinated action._
 
 Anantha OS is not an AI government. It is an **AI coordination layer** that allows a society to self-organize.
 
@@ -66,35 +66,43 @@ Agents gather data from those with direct situational knowledge. Subject Matter 
 
 Agents facilitate dialogue between all concerned participants. When conflicts emerge (frontline wants speed, SMEs see risks), agents mediate to find synthesis or clarify trade-offs.
 
-### 3. Option Refinement
+### 3. Values Alignment Check
 
-Through iterative discussion, agents distill complexities into 2-10 high-quality options. Each option makes trade-offs explicit.
+Before generating options, the system checks proposed directions against the community's dynamic values framework. If dissonance is detected, agents ask participants to clarify how the decision aligns with stated values—or if the values themselves need evolution.
 
-### 4. Informed Voting
+### 4. Option Refinement
+
+Through iterative discussion, agents distill complexities into 2-10 high-quality options. Each option makes trade-offs explicit and shows alignment with community values.
+
+### 5. Informed Voting
 
 Options are presented for final vote. By this point, the community is informed—not just polarized. Even those who disagree understand the reasoning.
 
 ## Systemic Outcomes
 
-- **Cognitive Alignment:** The process ensures that by vote time, the community is informed.
+- **Cognitive Alignment:** The process ensures that by vote time, the community is informed
+- **Values Coherence:** Decisions remain aligned with collective beliefs, reducing cognitive dissonance
 - **Expertise-Driven Safety:** Risks are identified by proven experts, preventing mob rule from causing systemic damage
 - **High-Resolution Choice:** Voters choose from a spectrum of viable paths rather than binary options
 
 ## Example: Waste Management Decision
 
 1. **Input:** Residents report overflow issues. Sanitation workers share route constraints. Engineers flag compliance requirements.
-
+    
 2. **Synthesis:** Agents identify the conflict—residents want frequency, workers need different trucks, engineers see composting opportunity.
+    
+3. **Values Check:** System notes composting aligns with community value of "environmental stewardship" but may conflict with "minimize friction for members." Agents surface this tension.
+    
+4. **Options:**
+    
+    - A) More pickups with current trucks (high cost, low environmental impact)
+    - B) Smaller trucks + weekly (medium cost, accessibility focus)
+    - C) Composting + biweekly (low cost, high environmental impact, requires participation)
+    - D) Hybrid (balanced, addresses both values)
+5. **Vote:** Community chooses Option D with full understanding of how it balances environmental stewardship with member convenience. Even those who preferred C understand why D won.
+    
 
-3. **Options:** 
-	- . A) More pickups with current trucks (high cost), 
-	- . B) Smaller trucks + weekly (medium cost),
-	- . C) Composting + biweekly (low cost, behavior change), 
-	- . D) Hybrid (balanced).
-
-4. **Vote:** Community chooses Option D with full understanding of trade-offs. Even those who preferred C understand why D won.
-
-*Timeline: 4 weeks vs. 6+ months in traditional governance.*
+_Timeline: 4 weeks vs. 6+ months in traditional governance._
 
 ---
 
@@ -116,8 +124,9 @@ Markets solve this using prices. For communities moving beyond price signals, we
 - Social sentiment tracking and management
 - Social requests and consumption tracking
 - Abundance pool tracking surplus and reinvestment capacity
+- Values-aligned allocation scoring (ensures distribution reflects community priorities)
 
-*This ensures allocation decisions remain legible, adaptive, and collectively validated.*
+_This ensures allocation decisions remain legible, adaptive, and collectively validated._
 
 ## 4.2 Conflict Resolution Layer
 
@@ -137,8 +146,10 @@ Most conflicts originate from misunderstandings, especially in multicultural set
 
 - Guided dispute resolution via personal agents
 - Transparent reasoning trails
+- Automatic values-conflict detection (flags when disputes stem from misaligned values)
 
 _Goal: Reduce friction early, preserve trust continuously._
+
 ## 4.3 External Relations Layer
 
 **Purpose:** Present a coherent interface to the outside world.
@@ -151,8 +162,9 @@ Even decentralized societies must negotiate, contract, and defend shared interes
 - Mandate aggregation from members
 - Consistent communication framing
 - Traceable authorization for external commitments
+- Values-based negotiation boundaries (ensures external commitments don't violate core beliefs)
 
-*This allows a distributed society to act as a unified entity when required.*
+_This allows a distributed society to act as a unified entity when required._
 
 ## 4.4 Social Alignment Layer
 
@@ -160,14 +172,36 @@ Even decentralized societies must negotiate, contract, and defend shared interes
 
 Societies drift unless values are actively maintained. Traditional soft social agreements don't work in multicultural communities with high migration.
 
-**Anantha OS supports:**
+### The Dynamic Constitution
+
+Anantha OS maintains a living set of community values and direction that all participants continuously shape and agree upon. This acts as a dynamic constitution:
+
+- **Values emerge from patterns:** The system identifies shared beliefs across decisions, making implicit values explicit
+- **Dissonance triggers dialogue:** When a proposed decision conflicts with stated values, the system flags it and asks the community to reconcile the gap
+- **Evolution over stasis:** Values can change as the community grows and learns, but changes require broad consensus
+- **Grounding for synthesis:** Agents use this values framework to ensure synthesized options align with what the community actually believes
+
+Unlike static constitutions that ossify over decades, this framework breathes—adapting while maintaining coherence.
+
+### How It Works: The Living Constitution Process
+
+1. **Pattern Recognition:** System identifies recurring themes in decisions and discussions
+2. **Value Articulation:** Agents propose explicit value statements based on observed patterns
+3. **Community Validation:** Members review and refine proposed values
+4. **Continuous Refinement:** Values evolve as the community makes decisions that reveal nuance or shift priorities
+5. **Coherence Checking:** New decisions are automatically checked against the values framework
+
+This creates a self-reinforcing cycle where values guide decisions, and decisions refine values.
+
+### Features
 
 - Continuous sentiment sensing
-- Periodic value synthesis
+- Periodic value synthesis and articulation
 - Proposal cycles for cultural evolution
 - Visible alignment metrics
+- Dissonance alerts when proposed decisions conflict with stated values
 
-*Values become dynamic, participatory, and measurable rather than symbolic.*
+_Values become dynamic, participatory, and measurable rather than symbolic._
 
 ---
 
@@ -183,7 +217,7 @@ Anantha OS assumes a transition from scarcity-driven allocation toward abundance
 
 Together, these shifts allow societies to optimize for collective flourishing rather than accumulation.
 
-*Anantha OS provides the coordination infrastructure required for this transition.*
+_Anantha OS provides the coordination infrastructure required for this transition._
 
 ---
 
@@ -199,7 +233,7 @@ We've moved beyond command-response AI to persistent agents that maintain long-t
 
 Indian urban centers are hitting a breaking point—infrastructure is failing because legacy systems cannot scale with rapid density. Meanwhile, a significant cohort of high-skill youth is returning from the West, bringing baseline expectations for efficiency, digital-first infrastructure, and transparent systems. They are ideal early adopters for self-managing systems.
 
-*Together, these forces create a unique window: the technological capability exists, and a population exists that both needs and can adopt it.*
+_Together, these forces create a unique window: the technological capability exists, and a population exists that both needs and can adopt it._
 
 ---
 
@@ -213,9 +247,11 @@ Indian urban centers are hitting a breaking point—infrastructure is failing be
 
 **Focus:** Resource Allocation and Conflict Resolution modules
 
+**Key Feature:** Develop the dynamic values framework system
+
 **Decisions:** Low-stakes (meal planning, scheduling, minor resource allocation)
 
-**Success Metrics:** Decision quality, participant satisfaction, time-to-resolution
+**Success Metrics:** Decision quality, participant satisfaction, time-to-resolution, values coherence
 
 ## Phase 2: Scale & Refinement (Months 7-24)
 
@@ -224,6 +260,8 @@ Indian urban centers are hitting a breaking point—infrastructure is failing be
 **Deployment:** Expand to full testing community
 
 **Focus:** Add External Relations and Social Alignment layers
+
+**Key Feature:** Test dynamic constitution evolution with real values shifts
 
 **Deliverable:** Develop community-to-community coordination protocols
 
@@ -235,6 +273,7 @@ Indian urban centers are hitting a breaking point—infrastructure is failing be
 - Create governance frameworks for multi-community coordination
 - Establish training programs for community facilitators
 - Build partnerships with local governments and institutions
+- Document patterns in how different communities' values frameworks evolve
 
 ---
 
@@ -244,7 +283,7 @@ We are at an inflection point. The tools exist to coordinate at scale without in
 
 **Anantha OS is practical infrastructure for societies that want to self-organize intelligently.**
 
-The question is whether we build it intentionally—with transparency, expertise, and collective wisdom—or let it emerge chaotically.
+The question is whether we build it intentionally—with transparency, expertise, collective wisdom, and coherent values—or let it emerge chaotically.
 
 ---
 
