@@ -98,7 +98,7 @@ for a society to move beyond price signals, it must answer:
     
 - how are resources prioritized
     
-- how distribution is perceived as fair
+- how to ensure distribution is perceived as fair
     
 
 Anantha OS provides:
@@ -108,7 +108,9 @@ Anantha OS provides:
 - AI-assisted forecasting of social benefit
     
 - feedback loops linking allocation to outcomes
-    
+- social sentiment tracking and management
+- social requests 
+- consumption tracking and forecasting 
 - an “abundance pool” tracking surplus resources and reinvestment capacity
     
 
