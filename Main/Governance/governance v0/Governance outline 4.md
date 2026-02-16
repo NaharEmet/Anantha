@@ -320,9 +320,20 @@ The question is whether we build it intentionally—with transparency, expertise
 
 what Problem are we solving and how are we quantifying it 
 
+
 # why are we doing this 
 
 
-# How are we mesuring this 
+# How are we measuring this 
+partcipant sutfication 
+are we moving closer to our values 
 
-# m
+
+
+assisting the governance first 
+	use is a data harvesting tool first 
+	need human in the loop first
+
+make a data set and check if they are good
+
+reinventing organisations data set
