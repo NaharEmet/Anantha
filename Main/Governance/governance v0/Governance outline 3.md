@@ -46,8 +46,6 @@ When decisions are made, implementation stalls and costs run over due to decisio
 
 Anantha OS replaces institutional coordination with AI-mediated information symmetry. The system bypasses the 'official' layer by synthesizing decisions directly from those most qualified to inform them.
 
-## How It Works: The Neural Network Model
-
 **Think of the community as a neural network:**
 
 - **People are neurons** (each holds local information and context)
@@ -56,28 +54,6 @@ Anantha OS replaces institutional coordination with AI-mediated information symm
 
 Instead of information bottlenecking through hierarchy, it flows in parallel through the entire network. Agents discuss with participants to gather their knowledge, needs, and constraints, then synthesize that distributed intelligence into coherent options.
 
-## The Synthesis & Deliberation Mechanism
-
-### 1. Frontline & Expert Input
-
-Agents gather data from those with direct situational knowledge. Subject Matter Experts (SMEs)—defined by past performance and peer-verified expertise—are prioritized in the synthesis.
-
-### 2. Agent-Mediated Discussion
-
-Agents facilitate dialogue between all concerned participants. When conflicts emerge (frontline wants speed, SMEs see risks), agents mediate to find synthesis or clarify trade-offs.
-
-### 3. Values Alignment Check
-
-Before generating options, the system checks proposed directions against the community's dynamic values framework. If dissonance is detected, agents ask participants to clarify how the decision aligns with stated values—or if the values themselves need evolution.
-
-### 4. Option Refinement
-
-Through iterative discussion, agents distill complexities into 2-10 high-quality options. Each option makes trade-offs explicit and shows alignment with community values.
-
-### 5. Informed Voting
-
-Options are presented for final vote. By this point, the community is informed—not just polarized. Even those who disagree understand the reasoning.
-
 ## Systemic Outcomes
 
 - **Cognitive Alignment:** The process ensures that by vote time, the community is informed
@@ -85,7 +61,49 @@ Options are presented for final vote. By this point, the community is informed�
 - **Expertise-Driven Safety:** Risks are identified by proven experts, preventing mob rule from causing systemic damage
 - **High-Resolution Choice:** Voters choose from a spectrum of viable paths rather than binary options
 
-## Example: Waste Management Decision
+---
+
+# 4. Core Governance Modules
+
+Anantha OS organizes governance into five functional layers:
+
+## 4.1 Collective Decision-Making Layer
+
+**Purpose:** Decide what the community should do.
+
+Every community needs a way to make decisions that affect everyone. Traditional systems either move too slowly (committees, voting on everything) or concentrate power (boards, executives). Anantha OS enables fast, informed, participatory decisions.
+
+### The Decision Process
+
+#### 1. Frontline & Expert Input
+
+Agents gather data from those with direct situational knowledge. Subject Matter Experts (SMEs)—defined by past performance and peer-verified expertise—are prioritized in the synthesis.
+
+#### 2. Agent-Mediated Discussion
+
+Agents facilitate dialogue between all concerned participants. When conflicts emerge (frontline wants speed, SMEs see risks), agents mediate to find synthesis or clarify trade-offs.
+
+#### 3. Values Alignment Check
+
+Before generating options, the system checks proposed directions against the community's dynamic values framework. If dissonance is detected, agents ask participants to clarify how the decision aligns with stated values—or if the values themselves need evolution.
+
+#### 4. Option Refinement
+
+Through iterative discussion, agents distill complexities into 2-10 high-quality options. Each option makes trade-offs explicit and shows alignment with community values.
+
+#### 5. Informed Voting
+
+Options are presented for final vote. By this point, the community is informed—not just polarized. Even those who disagree understand the reasoning.
+
+### Features
+
+- Parallel information gathering across the entire community
+- Expertise-weighted synthesis (without creating oligarchy)
+- Values coherence checking
+- High-resolution choice (spectrum of options, not binary)
+- Transparent reasoning trails
+
+**Example: Waste Management Decision**
 
 1. **Input:** Residents report overflow issues. Sanitation workers share route constraints. Engineers flag compliance requirements.
     
@@ -104,13 +122,7 @@ Options are presented for final vote. By this point, the community is informed�
 
 _Timeline: 4 weeks vs. 6+ months in traditional governance._
 
----
-
-# 4. Core Governance Modules
-
-Anantha OS organizes governance into four functional layers:
-
-## 4.1 Resource Allocation Layer
+## 4.2 Resource Allocation Layer
 
 **Purpose:** Decide what goes where.
 
@@ -128,7 +140,19 @@ Markets solve this using prices. For communities moving beyond price signals, we
 
 _This ensures allocation decisions remain legible, adaptive, and collectively validated._
 
-## 4.2 Conflict Resolution Layer
+**Example: Community Kitchen Planning**
+
+**Morning: 7am** - Your agent notifies you the community kitchen is planning this week's production
+
+**Interaction:** You indicate preferences through natural conversation: "More of that dal from last week, less rice"
+
+**Synthesis: By 9am** - Agent has synthesized 1,000 member preferences, identified patterns, generated production plan
+
+**Review: 10am** - Plan posted for review, no conflicts detected → goes to kitchen automatically
+
+**The Point:** Resource allocation happens continuously but doesn't require constant attention. Your agent represents you, escalates only what needs your direct input.
+
+## 4.3 Conflict Resolution Layer
 
 **Purpose:** Transform misunderstandings into growth.
 
@@ -150,7 +174,7 @@ Most conflicts originate from misunderstandings, especially in multicultural set
 
 _Goal: Reduce friction early, preserve trust continuously._
 
-## 4.3 External Relations Layer
+## 4.4 External Relations Layer
 
 **Purpose:** Present a coherent interface to the outside world.
 
@@ -166,7 +190,7 @@ Even decentralized societies must negotiate, contract, and defend shared interes
 
 _This allows a distributed society to act as a unified entity when required._
 
-## 4.4 Social Alignment Layer
+## 4.5 Social Alignment Layer
 
 **Purpose:** Maintain shared direction and history.
 
