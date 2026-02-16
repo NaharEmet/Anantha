@@ -322,10 +322,12 @@ what Problem are we solving and how are we quantifying it
 
 
 # why are we doing this 
-
+manual is inconsistent forgetful 
+doesnt reflect values biased 
+slow 
 
 # How are we measuring this 
-partcipant sutfication 
+participant stultification 
 are we moving closer to our values 
 
 
@@ -335,5 +337,14 @@ assisting the governance first
 	need human in the loop first
 
 make a data set and check if they are good
+
+teal organisation 
+	book 
+	website 
+	forume (reinventing organisation)
+	videos
+	use as data set
+
+slm 
 
 reinventing organisations data set
