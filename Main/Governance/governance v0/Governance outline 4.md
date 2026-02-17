@@ -418,7 +418,21 @@ The purpose of measurement is to determine whether coordination improves, human 
 
 ---
 
-# 1. Governance Function
+# North Star Metrics
+
+To keep the system legible, everything rolls into three indicators.
+
+**Governance Responsiveness**  
+→ How fast and accurately reality becomes action
+
+**Community Health**  
+→ Whether people feel stable, heard, and supported
+
+**Forward Momentum**  
+→ Whether decisions compound capacity and resilience
+
+
+# 1. Governance Responsiveness
 
 **Are decisions better coordinated?**
 
@@ -476,7 +490,7 @@ The purpose of measurement is to determine whether coordination improves, human 
 
 ---
 
-# 2. Human Outcomes
+# 2. Community Health
 
 **Are people better off?**
 
@@ -504,7 +518,7 @@ The purpose of measurement is to determine whether coordination improves, human 
 
 ---
 
-# 3. Future Trajectory
+# 3. Forward Momentum
 
 **Are decisions improving the future?**
 
@@ -545,20 +559,6 @@ The purpose of measurement is to determine whether coordination improves, human 
 |Trajectory|Reactive|Forward moving|
 |Resources|Wasteful|Efficient|
 
----
-
-# 5. North Star Metrics
-
-To keep the system legible, everything rolls into three indicators.
-
-**Governance Responsiveness**  
-→ How fast and accurately reality becomes action
-
-**Community Health**  
-→ Whether people feel stable, heard, and supported
-
-**Forward Momentum**  
-→ Whether decisions compound capacity and resilience
 
 ---
 
