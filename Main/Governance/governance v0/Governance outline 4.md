@@ -713,13 +713,13 @@ A rising score means the system compounds intelligence and capacity over time.
 
 If governance is working:
 
-- decisions become faster and better informed
+- Decisions are fast and informed
     
 - people feel heard and stable
     
-- resources are used more intelligently
+- resources are used intelligently
     
-- and the future becomes easier to navigate
+- Society is in a sense of flow
     
 
 **Anantha OS measures all four simultaneously.**
