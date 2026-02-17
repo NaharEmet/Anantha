@@ -269,46 +269,134 @@ _Together, these forces create a unique window: the technological capability exi
 #redo
 # 7. Development Roadmap
 
-ai system acts an information aid to a council 
-## Phase 1: Foundation (Months 1-6)
+## Phase 1: Council Intelligence Layer (Months 1–12)
 
+**Positioning:**  
+AI acts as an **information aide to an existing council**, not a decision-maker.
 
-assisting the governance first 
+This avoids political resistance and lets you collect real governance data.
 
-**Goal:** Prove the core synthesis mechanism works
+**Goal:**  
+Prove the synthesis engine improves human decision-making.
 
-**Deployment:** Testing with 20 people
+**Deployment:**  
+Pilot with ~20 participants and a small decision council.
 
-**Focus:** Resource Allocation and Conflict Resolution modules
+**Focus Modules:**
 
-**Key Feature:** Develop the dynamic values framework system
+- Resource Allocation
+    
+- Conflict Resolution
+    
 
-**Decisions:** Low-stakes (meal planning, scheduling, minor resource allocation)
+**Role of AI:**
 
-**Success Metrics:** participant satisfaction, time-to-resolution, values coherence
+- Gather inputs from members
+    
+- Surface trade-offs
+    
+- Summarize stakeholder positions
+    
+- Track alignment with stated values
+    
 
-## Phase 2: Scale & Refinement (Months 7-24)
+**Decisions Tested:**
 
-**Goal:** Add all four governance layers, test at community scale
+- Meal planning
+    
+- Scheduling
+    
+- Shared resources
+    
+- Minor disputes
+    
 
-**Deployment:** Expand to full testing community
+**Success Metrics:**
 
-**Focus:** Add External Relations and Social Alignment layers
+- Reduction in time-to-decision
+    
+- Reduction in unresolved conflicts
+    
+- Participant satisfaction
+    
+- Measured alignment between decisions and stated values
+    
+- Council perception that decisions are better informed
+    
 
-**Key Feature:** Test dynamic constitution evolution with real values shifts
+ _Output of Phase 1:_  
+A validated dataset of real interactions + proof that synthesis improves outcomes.
 
-**Deliverable:** Develop community-to-community coordination protocols
+---
 
-## Phase 3: Ecosystem Building (Months 24-48)
+## Phase 2: Assisted Governance System (Months 12–30)
 
-**Goal:** Prepare for city-scale deployment
+**Positioning:**  
+AI moves from aide → **coordination infrastructure**.
 
-- Open-source core components for community customization
-- Create governance frameworks for multi-community coordination
-- Establish training programs for community facilitators
-- Build partnerships with local governments and institutions
-- Document patterns in how different communities' values frameworks evolve
+Councils still decide, but now the system structures the decision space.
 
+**Goal:**  
+Demonstrate that agent-mediated governance scales beyond small groups.
+
+**Deployment:**  
+Expand to full community pilot.
+
+**New Modules Added:**
+
+- External Relations Layer
+    
+- Social Alignment Layer
+    
+
+**Key Experiments:**
+
+- Track how community values actually evolve over time
+    
+- Measure whether decisions stay consistent with those values
+    
+- Test cross-community coordination using agents
+    
+
+**New Deliverables:**
+
+- Dynamic constitution versioning model
+    
+- Decision traceability system
+    
+- Community-to-community protocol for coordination
+    
+
+ _Output of Phase 2:_  
+Working “governance OS” prototype running alongside human institutions.
+
+---
+
+## Phase 3: Governance Infrastructure Ecosystem (Months 30–60)
+
+**Positioning:**  
+From product → **public infrastructure layer**
+
+The system becomes something communities adopt, customize, and interconnect.
+
+**Goal:**  
+Make Anantha OS deployable at city scale.
+
+**Focus Areas:**
+
+- Open-source core governance modules
+    
+- Interoperability standards between communities
+    
+- Training programs for facilitators and civic operators
+    
+- Partnerships with municipalities, cooperatives, and institutions
+    
+- Comparative research on how values evolve in different cultures
+    
+
+ _Output of Phase 3:_  
+A replicable governance coordination layer usable across cities.
 ---
 
 # Why this Matters
