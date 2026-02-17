@@ -322,13 +322,18 @@ what Problem are we solving and how are we quantifying it
 
 
 # why are we doing this 
-manual is inconsistent forgetful 
+### manual 
+is inconsistent forgetful 
 doesnt reflect values biased 
 slow 
+drift social 
+
 
 # How are we measuring this 
-participant stultification 
-are we moving closer to our values 
+consistent with values 
+fast 
+participatory
+value transparency
 
 
 
