@@ -413,8 +413,8 @@ The question is whether we build it intentionally—with transparency, expertise
 
 # Measurement Framework
 
-governance is a feedback system.  
-We measure whether coordination improves, people benefit, and the future strengthens.
+_Governance is a feedback system._  
+The purpose of measurement is to determine whether coordination improves, human well-being rises, and the future becomes more navigable.
 
 ---
 
