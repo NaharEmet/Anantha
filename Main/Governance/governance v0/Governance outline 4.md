@@ -361,6 +361,7 @@ The question is whether we build it intentionally—with transparency, expertise
 
 
 
+
 what Problem are we solving and how are we quantifying it 
 
 
