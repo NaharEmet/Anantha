@@ -269,7 +269,11 @@ _Together, these forces create a unique window: the technological capability exi
 #redo
 # 7. Development Roadmap
 
+ai system acts an information aid to a council 
 ## Phase 1: Foundation (Months 1-6)
+
+
+assisting the governance first 
 
 **Goal:** Prove the core synthesis mechanism works
 
@@ -362,8 +366,6 @@ The question is whether we build it intentionally—with transparency, expertise
 | Collective well being | Unknown       | Tracked and growing       |
 | Value alignment       | Unknown       | Tracked rapid progress    |
 
-# Stage 1
-assisting the governance first 
 
 # Data Sets
 teal organization 
