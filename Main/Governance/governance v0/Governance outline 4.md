@@ -256,14 +256,14 @@ _Anantha OS provides the coordination infrastructure required for this transitio
 
 ---
 
-# Measurement Framework
+# 6. Measurement Framework
 
 _Governance is a feedback system._  
 The purpose of measurement is to determine whether coordination improves, human well-being rises, and the future becomes more navigable.
 
 ---
 
-# North Star Metrics
+## 1. North Star Metrics
 
 To keep the system legible, everything rolls into three indicators.
 
@@ -277,7 +277,7 @@ To keep the system legible, everything rolls into three indicators.
 → Whether decisions compound capacity and resilience
 
 
-# 7. Governance Responsiveness
+## 2.  Governance Responsiveness
 
 **Are decisions better coordinated?**
 
@@ -335,7 +335,7 @@ To keep the system legible, everything rolls into three indicators.
 
 ---
 
-# 2. Community Health
+## 3. Community Health
 
 **Are people better off?**
 
@@ -363,7 +363,7 @@ To keep the system legible, everything rolls into three indicators.
 
 ---
 
-# 3. Forward Momentum
+## 4. Forward Momentum
 
 **Are decisions improving the future?**
 
@@ -391,18 +391,18 @@ To keep the system legible, everything rolls into three indicators.
 
 ---
 
-# 4. What Success Looks Like
+## 5. What Success Looks Like
 
-|Dimension|Failure|Success|
-|---|---|---|
-|Decisions|Slow|Fast & informed|
-|Participation|Low|Broadly represented|
-|Values|Drifting|Explicit & tracked|
-|Execution|Stalled|Delivered on spec|
-|Conflicts|Escalate|Resolved early|
-|Well-Being|Unknown|Stable or rising|
-|Trajectory|Reactive|Forward moving|
-|Resources|Wasteful|Efficient|
+| Dimension     | Failure  | Success             |
+| ------------- | -------- | ------------------- |
+| Decisions     | Slow     | Fast & informed     |
+| Participation | Low      | Broadly represented |
+| Values        | Drifting | Explicit & tracked  |
+| Execution     | Stalled  | Delivered on spec   |
+| Conflicts     | Escalate | Resolved early      |
+| Well-Being    | Unknown  | Stable or rising    |
+| Trajectory    | Reactive | Forward moving      |
+| Resources     | Wasteful | Efficient           |
 
 ---
 
@@ -536,6 +536,7 @@ Make Anantha OS deployable at city scale.
 
  _Output of Phase 3:_  
 A replicable governance coordination layer usable across cities.
+
 ---
 
 # Why this Matters
