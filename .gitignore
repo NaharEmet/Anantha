@@ -2,16 +2,14 @@ Xfiles/
 .vscode/
 .obsidian/
 .env
-<<<<<<< HEAD
 _infio_prompts/
 copilot/
 .hinote/
 .kilo/
 .kilocode/
 .smtcmp_vector_db.tar.gz
-=======
-
->>>>>>> origin/main
+.infio_json_db/
+research/
 
 
 
