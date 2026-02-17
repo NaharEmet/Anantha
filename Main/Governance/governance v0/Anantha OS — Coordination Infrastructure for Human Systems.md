@@ -397,6 +397,72 @@ A rising score means the system **compounds intelligence and capacity over time*
 
 # **8. Development Roadmap**
 
+## **Phase 1: Foundation (Months 1–6)**
+
+**Goal:** Prove the core synthesis mechanism works  
+**Deployment:** Testing with 20 people
+
+**Focus:**
+
+- Resource Allocation module
+    
+- Conflict Resolution module
+    
+
+**Key Feature:**  
+Develop the dynamic values framework system
+
+**Decision Scope:**  
+Low-stakes decisions (meal planning, scheduling, minor resource allocation)
+
+**Success Metrics:**
+
+- Participant satisfaction
+    
+- Time to resolution
+    
+- Values coherence
+    
+
+---
+
+## **Phase 2: Scale & Refinement (Months 7–24)**
+
+**Goal:** Add all four governance layers and test at community scale  
+**Deployment:** Expand to full testing community
+
+**Focus:**
+
+- External Relations layer
+    
+- Social Alignment layer
+    
+
+**Key Feature:**  
+Test dynamic constitution evolution with real values shifts
+
+**Deliverable:**  
+Develop community-to-community coordination protocols
+
+---
+
+## **Phase 3: Ecosystem Building (Months 24–48)**
+
+**Goal:** Prepare for city-scale deployment
+
+**Actions:**
+
+- Open-source core components for community customization
+    
+- Create governance frameworks for multi-community coordination
+    
+- Establish training programs for community facilitators
+    
+- Build partnerships with local governments and institutions
+    
+- Document patterns in how different communities’ values frameworks evolve
+    
+
 ---
 
 # **9. Core Principle**
@@ -413,6 +479,20 @@ If governance works:
     
 
 **Anantha OS measures all four simultaneously.**
+
+---
+# **Why This Matters**
+
+We are at an inflection point.
+
+The tools now exist to coordinate at scale without heavy intermediaries.  
+The need also exists, urban infrastructure is straining, institutional trust is eroding, and capable people are seeking alternatives.
+
+**Anantha OS is practical infrastructure for societies that want to self-organize intelligently.**
+
+The question is not whether new coordination systems will emerge.
+
+The question is whether we build them intentionally — with transparency, expertise, collective wisdom, and coherent values — or allow them to emerge chaotically.
 
 ---
 

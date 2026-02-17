@@ -262,86 +262,31 @@ _Together, these forces create a unique window: the technological capability exi
 ---
 
 # 7. Development Roadmap
-## **Phase 1: Foundation (Months 1–6)**
 
-**Goal:** Prove the core synthesis mechanism works  
+## Phase 1: Foundation (Months 1-6)
+
+**Goal:** Prove the core synthesis mechanism works
+
 **Deployment:** Testing with 20 people
 
-**Focus:**
+**Focus:** Resource Allocation and Conflict Resolution modules
 
-- Resource Allocation module
-    
-- Conflict Resolution module
-    
+**Key Feature:** Develop the dynamic values framework system
 
-**Key Feature:**  
-Develop the dynamic values framework system
+**Decisions:** Low-stakes (meal planning, scheduling, minor resource allocation)
 
-**Decision Scope:**  
-Low-stakes decisions (meal planning, scheduling, minor resource allocation)
+**Success Metrics:** Decision quality, participant satisfaction, time-to-resolution, values coherence
 
-**Success Metrics:**
+## Phase 2: Scale & Refinement (Months 7-24)
 
-- Participant satisfaction
-    
-- Time to resolution
-    
-- Values coherence
-    
+**Goal:** Add all four governance layers, test at community scale
 
----
-
-## **Phase 2: Scale & Refinement (Months 7–24)**
-
-**Goal:** Add all four governance layers and test at community scale  
 **Deployment:** Expand to full testing community
 
-**Focus:**
+**Focus:** Add External Relations and Social Alignment layers
 
-- External Relations layer
-    
-- Social Alignment layer
-    
+**Key Feature:** Test dynamic constitution evolution with real values shifts
 
-**Key Feature:**  
-Test dynamic constitution evolution with real values shifts
-
-**Deliverable:**  
-Develop community-to-community coordination protocols
-
----
-
-## **Phase 3: Ecosystem Building (Months 24–48)**
-
-**Goal:** Prepare for city-scale deployment
-
-**Actions:**
-
-- Open-source core components for community customization
-    
-- Create governance frameworks for multi-community coordination
-    
-- Establish training programs for community facilitators
-    
-- Build partnerships with local governments and institutions
-    
-- Document patterns in how different communities’ values frameworks evolve
-    
-
----
-
-# **Why This Matters**
-
-We are at an inflection point.
-
-The tools now exist to coordinate at scale without heavy intermediaries.  
-The need also exists — urban infrastructure is straining, institutional trust is eroding, and capable people are seeking alternatives.
-
-**Anantha OS is practical infrastructure for societies that want to self-organize intelligently.**
-
-The question is not whether new coordination systems will emerge.
-
-The question is whether we build them intentionally — with transparency, expertise, collective wisdom, and coherent values — or allow them to emerge chaotically.
 **Deliverable:** Develop community-to-community coordination protocols
 
 ## Phase 3: Ecosystem Building (Months 24-48)
