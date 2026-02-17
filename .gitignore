@@ -9,7 +9,7 @@ copilot/
 .kilocode/
 .smtcmp_vector_db.tar.gz
 .infio_json_db/
-
+research/
 
 
 # Ignore Smart Environment folder
