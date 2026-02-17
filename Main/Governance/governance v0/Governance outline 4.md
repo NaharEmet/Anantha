@@ -307,7 +307,7 @@ _Together, these forces create a unique window: the technological capability exi
 
 ---
 
-# Why This Matters
+# Why this Matters
 
 We are at an inflection point. The tools exist to coordinate at scale without intermediaries. The need exists—urban infrastructure is failing, trust in institutions is eroding, and capable people are seeking alternatives.
 
@@ -324,7 +324,7 @@ The question is whether we build it intentionally—with transparency, expertise
 
 ### 1. Information Asymmetry
 
-**Problem:** The people with knowledge aren't making decisions. Decision-makers lack ground truth. **Measure:** % of decisions that include direct input from frontline participants and relevant SMEs
+**Problem:** The people with knowledge aren't making decisions. Decision-makers lack ground truth. **Measure:** % of decisions that include direct input from front line participants and relevant SMEs
 
 ### 2. Coordination Friction
 
@@ -350,20 +350,22 @@ The question is whether we build it intentionally—with transparency, expertise
 
 ## What Success Looks Like
 
-| Problem             | Bad           | Good                      |
-| ------------------- | ------------- | ------------------------- |
-| Decision speed      | Months        | Days                      |
-| Participation       | <20%          | >80%                      |
-| Values coherence    | Unknown       | Tracked and visible       |
-| Conflict escalation | Reaches legal | Resolved at clarification |
-| Execution           | Stalls        | Completed on spec         |
-| Representation      | Top-down      | Frontline-informed        |
+| Problem                 | Bad           | Good                      |
+| ----------------------- | ------------- | ------------------------- |
+| Decision speed          | Months        | Days                      |
+| Participation           | <20%          | >80%                      |
+| Value coherence         | Unknown       | Tracked and visible       |
+| Conflict escalation     | Reaches legal | Resolved at clarification |
+| Execution               | Stalls        | Completed on spec         |
+| Representation          | Top-down      | Frontline-informed        |
+| Individual satisfaction | Unknown       | Tracked and stable        |
+| Collective              |               |                           |
 
 
-# stage 1
+# Stage 1
 assisting the governance first 
 
-# data sets
+# Data Sets
 teal organization 
 - book 
 - website 
