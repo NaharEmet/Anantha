@@ -2,7 +2,12 @@ Xfiles/
 .vscode/
 .obsidian/
 .env
-
+_infio_prompts/
+copilot/
+.hinote/
+.kilo/
+.kilocode/
+.smtcmp_vector_db.tar.gz
 
 
 
