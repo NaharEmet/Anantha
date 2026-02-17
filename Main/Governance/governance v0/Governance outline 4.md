@@ -516,7 +516,7 @@ These measure whether governance improves people’s lived experience.
 
 ## 2.1 Individual Well-Being
 
-Tracked via periodic agent check-ins and behavioral signals.
+Tracked via agent check-ins and behavioral signals.
 
 Measured by:
 
@@ -622,19 +622,19 @@ Resource Intelligence Index
 
 # 4. What Success Looks Like
 
-|Dimension|Failure Mode Today|Success Signal with Anantha OS|
-|---|---|---|
-|Decision Speed|Months|Days or weeks|
-|Participation|<20% engaged|>80% represented|
-|Knowledge Inclusion|Partial / opaque|Frontline + SME input visible|
-|Value Coherence|Implicit / drifting|Explicit and tracked|
-|Representation|Optics-driven|Sentiment-aligned decisions|
-|Execution|Stalled / diluted|Delivered on spec|
-|Conflict Handling|Escalates late|Resolved early|
-|Individual Well-Being|Not measured|Stable or improving trend|
-|Collective Well-Being|Invisible|Visible and improving|
-|Future Trajectory|Reactive|Forward momentum increasing|
-|Resource Efficiency|Waste and duplication|Utilization improving|
+| **Dimension**         | **Failure**           | **Success**                   |
+| --------------------- | --------------------- | ----------------------------- |
+| Decision Speed        | Months                | Days or weeks                 |
+| Participation         | <20% engaged          | >80% represented              |
+| Knowledge Inclusion   | Partial / opaque      | Frontline + SME input visible |
+| Value Coherence       | Implicit / drifting   | Explicit and tracked          |
+| Representation        | Optics-driven         | Sentiment-aligned decisions   |
+| Execution             | Stalled / diluted     | Delivered on spec             |
+| Conflict Handling     | Escalates late        | Resolved early                |
+| Individual Well-Being | Not measured          | Stable or improving trend     |
+| Collective Well-Being | Invisible             | Visible and improving         |
+| Future Trajectory     | Reactive              | Forward momentum increasing   |
+| Resource Efficiency   | Waste and duplication | Utilization improving         |
 
 ---
 
