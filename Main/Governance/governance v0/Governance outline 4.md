@@ -348,16 +348,16 @@ The question is whether we build it intentionally—with transparency, expertise
 
 ---
 
-## What Good Looks Like
+## What Success Looks Like
 
-|Problem|Bad|Good|
-|---|---|---|
-|Decision speed|Months|Days|
-|Participation|<20%|>80%|
-|Values coherence|Unknown|Tracked and visible|
-|Conflict escalation|Reaches legal|Resolved at clarification|
-|Execution|Stalls|Completed on spec|
-|Representation|Top-down|Frontline-informed|
+| Problem             | Bad           | Good                      |
+| ------------------- | ------------- | ------------------------- |
+| Decision speed      | Months        | Days                      |
+| Participation       | <20%          | >80%                      |
+| Values coherence    | Unknown       | Tracked and visible       |
+| Conflict escalation | Reaches legal | Resolved at clarification |
+| Execution           | Stalls        | Completed on spec         |
+| Representation      | Top-down      | Frontline-informed        |
 
 
 
