@@ -360,38 +360,16 @@ The question is whether we build it intentionally—with transparency, expertise
 | Representation      | Top-down      | Frontline-informed        |
 
 
-
-
-what Problem are we solving and how are we quantifying it 
-
-
-# why are we doing this 
-### manual 
-is inconsistent forgetful 
-doesnt reflect values biased 
-slow 
-drift social 
-
-
-# How are we measuring this 
-consistent with values 
-fast 
-participatory
-value transparency
-
-
-
+# stage 1
 assisting the governance first 
-	use is a data harvesting tool first 
-	need human in the loop first
 
-make a data set and check if they are good
 # data sets
-teal organisation 
+teal organization 
 - book 
 - website 
-- reinventing organisation (forum)
+- reinventing organization (forum)
 - videos
-- reinventing organisations data set
-can be used to finetune models
+- Reinventing organizations data set
+can be used to fine tune models
 
+	
