@@ -380,18 +380,18 @@ A rising score means the system **compounds intelligence and capacity over time*
 
 # **7. What Success Looks Like**
 
-|Dimension|Failure|Success|
-|---|---|---|
-|Decision Speed|Months|Days or weeks|
-|Participation|Low engagement|Broad representation|
-|Knowledge Inclusion|Partial|Frontline + SME input visible|
-|Value Coherence|Drifting|Explicit and tracked|
-|Execution|Stalled|Delivered on spec|
-|Conflict Handling|Escalates late|Resolved early|
-|Individual Well-Being|Unknown|Stable or improving|
-|Collective Well-Being|Invisible|Visible and improving|
-|Future Trajectory|Reactive|Momentum increasing|
-|Resource Efficiency|Wasteful|Utilization improving|
+| Dimension             | Failure        | Success                       |
+| --------------------- | -------------- | ----------------------------- |
+| Decision Speed        | Months         | Days or weeks                 |
+| Participation         | Low engagement | Broad representation          |
+| Knowledge Inclusion   | Partial        | Frontline + SME input visible |
+| Value Coherence       | Drifting       | Explicit and tracked          |
+| Execution             | Stalled        | Delivered on spec             |
+| Conflict Handling     | Escalates late | Resolved early                |
+| Individual Well-Being | Unknown        | Stable or improving           |
+| Collective Well-Being | Invisible      | Visible and improving         |
+| Future Trajectory     | Reactive       | Momentum increasing           |
+| Resource Efficiency   | Wasteful       | Utilization improving         |
 
 ---
 
@@ -471,7 +471,7 @@ If governance works:
 
 - decisions are fast and informed
     
-- people feel heard and stable
+- people feel heard and cared for
     
 - resources are used intelligently
     
@@ -481,18 +481,18 @@ If governance works:
 **Anantha OS measures all four simultaneously.**
 
 ---
-# **Why This Matters**
+# Why This Matters
 
 We are at an inflection point.
 
-The tools now exist to coordinate at scale without heavy intermediaries.  
+The tools now exist to coordinate and monitor at scale without intermediaries.  
 The need also exists, urban infrastructure is straining, institutional trust is eroding, and capable people are seeking alternatives.
 
 **Anantha OS is practical infrastructure for societies that want to self-organize intelligently.**
 
 The question is not whether new coordination systems will emerge.
 
-The question is whether we build them intentionally — with transparency, expertise, collective wisdom, and coherent values — or allow them to emerge chaotically.
+The question is whether we build them intentionally, with transparency, expertise, collective wisdom, and values, or allow them to emerge chaotically.
 
 ---
 
