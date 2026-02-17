@@ -1,0 +1,63 @@
+{
+  "id": "1e92f77a-1e62-4002-a70f-b88923388883",
+  "name": "vault",
+  "content": [
+    {
+      "type": "folder",
+      "content": "/"
+    }
+  ],
+  "chatHistory": [
+    {
+      "id": "6a953926-37f0-42a7-b236-7bacc3e3043c",
+      "title": "Direct Alignment with National/State Priorities:Ex"
+    },
+    {
+      "id": "eba8cff8-9c17-4571-ad14-1238bbc7d0ce",
+      "title": "That can definitely be arranged. Several houses in"
+    },
+    {
+      "id": "2da815b6-c3b5-4606-8397-b6b3f2ec04b0",
+      "title": "@Main "
+    },
+    {
+      "id": "7ea48bcd-ef72-4831-a1d2-f63927692aaf",
+      "title": "@Main this is a project what do you think of it"
+    },
+    {
+      "id": "2ac37006-c5b1-463e-a2a6-80c7abc92b71",
+      "title": "test"
+    },
+    {
+      "id": "104c2d0b-18a9-414c-9f17-d020ce6d8bdb",
+      "title": "help me clean this up "
+    },
+    {
+      "id": "4982fb60-79de-44e2-b454-0e2a40b3263a",
+      "title": "clean this up "
+    },
+    {
+      "id": "bf2a314c-5583-4d2a-b8b9-b2632e6b9930",
+      "title": "help me clean this up "
+    },
+    {
+      "id": "abbb4f62-898d-49a8-bfa4-9bb6077d7394",
+      "title": "Restructure: Group related ideas together. Reorgan"
+    },
+    {
+      "id": "bfaa01da-80e9-4c44-a880-345bccd46acb",
+      "title": "Restructure: Group related ideas together. Reorgan"
+    },
+    {
+      "id": "8ae8c947-bfb9-4dc2-a67b-cd386fe49e6e",
+      "title": "only rewrite the text given in the prompt do not r"
+    }
+  ],
+  "metadata": {
+    "isDefault": true,
+    "description": "all vault as workspace"
+  },
+  "createdAt": 1769884929321,
+  "updatedAt": 1771187196796,
+  "schemaVersion": 1
+}

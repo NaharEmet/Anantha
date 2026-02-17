@@ -1,0 +1,238 @@
+{
+  "id": "a211a006-fb6f-4136-88a3-1af007dccdf1",
+  "title": "look through the headings and find what has alread",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "look through the headings and find what has already been written in regards to them in ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@Main",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Main",
+                  "mentionable": {
+                    "type": "folder",
+                    "folder": "Main"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "## Potentially Relevant Snippets from the current vault\n```Main/execution/Metrics/KPI references.md\n85|## 10. Summary Baseline Table (All Key KPIs)\n```\n```Main/execution/Metrics/KPI references.md\n66|## 7. Economic & Productivity Costs of Emissions\n67|\n68|- Air pollution costs India ~US$95–150 B/year (~3% GDP) in lost productivity, healthcare, absenteeism ([Clean Air Fund](https://www.cleanairfund.org/resource/air-pollution-in-india-and-the-impact-on-business/?utm_source=chatgpt.com), [Indian Express](https://indianexpress.com/article/opinion/columns/gita-gopinath-cost-of-pollution-is-higher-than-any-tariff-10491167/?utm_source=chatgpt.com))  \n69|- Millions of premature deaths and chronic illnesses across urban India; proxy for productivity impacts.\n70|\n71|---\n72|\n73|## 8. Food & Local Production\n74|\n75|- Urban food production <10% of total consumed calories (remainder via external agriculture) — proxy from urban land use and supply chain studies.\n76|\n77|---\n78|\n79|## 9. Governance & Social Factors\n80|\n81|- Governance effectiveness moderate; decision cycles often several months; citizen participation <20% in formal processes.\n82|\n83|---\n```\n```Main/execution/Metrics/KPI references.md\n47|## 5. Health & Human Well-Being\n48|\n49|### Air Pollution & Health Burden\n50|- Delhi air pollution linked to >17,000 premature deaths/year; proxy for urban mega-city impact ([Le Monde](https://www.lemonde.fr/en/environment/article/2025/11/13/delhi-is-no-longer-livable-deadly-pollution-in-indian-capital-claims-more-than-17-000-lives-each-year_6747432_114.html?utm_source=chatgpt.com))\n51|\n52|### Hospital Beds & Infrastructure\n53|- India: <1.3 beds per 1,000 population ([Brickwork Ratings](https://www.brickworkratings.com/Research/Private%20Hospitals%20report_10Nov2025.pdf?utm_source=chatgpt.com))  \n54|- Bengaluru: expansions underway (Kidwai Institute ~1,200 beds) ([Times of India](https://timesofindia.indiatimes.com/city/bengaluru/kidwai-memorial-institute-of-oncology-to-become-bengalurus-largest-govt-run-hospital-with-1200-beds/articleshow/124553459.cms?utm_source=chatgpt.com))\n55|\n56|---\n```\n```Main/execution/Metrics/Post-Urban Performance Framework.md\n35|[[KPI references]]\n36|\n37|---\n```\n```Main/Governance/Governance Framework.md\n1|---\n2|dg-publish: true\n3|---\n4|\n5|# Governance Framework\n6|\n7|Governance is not a philosophy of leadership, a council model, or a political ideology.\n8|\n9|It is a **designed system** intended to remain functional under scale, stress, and time—without relying on individual intelligence, morality, or restraint.\n10|\n11|## Core Premise\n12|\n13|governance must be designed with **no expectation of individual intelligence, morality, or goodwill**.\n14|\n15|Governance therefore lives in **structure, transparency, and constraint**, assisted by AI.\n16|\n17|All actions by governing and operating entities are recorded in a **public, immutable ledger**.\n18|\n19|A good democracy is treated as a **system output of informed participation**, not individual benevolence.\n20|\n21|---\n22|#todo make this make sense\n```\n```Main/Governance/Ownership & Structural Architecture.md\n1|---\n2|dg-publish: true\n3|---\n4|\n5|This document defines **what is owned, by whom, and under what constraints** within the GAUSS ecosystem.\n6|\n7|It is designed to:\n8|- protect long-term assets from operational risk\n9|- prevent capture by any single entity\n10|- allow capital participation without control\n11|- enable replication without centralization\n12|\n13|It does **not** define governance processes, returns, or board mechanics.\n14|\n15|---\n16|![[Pasted image 20260104010831.png]]\n17|## System Structure (At a Glance)\n18|\n19|GAUSS is composed of **legally independent entities with non-overlapping roles**:\n20|- **3 Holding Companies (HoldCos)** — own assets\n21|- **3 Operating Companies (OpCos)** — run systems\n22|- **1 Singapore Entity** — capital coordination & IP ownership\n23|\n24|No entity has unilateral authority over land, infrastructure, IP, economy, or social systems.\n25|\n26|---\n```\n```Main/Governance/Ownership & Structural Architecture.md\n28|## Core Design Principles\n29|\n30|1. **Separation of Ownership & Operation**\n31|    Assets are owned by HoldCos and leased to OpCos. Operators own nothing core.\n32|    \n33|2. **Asset Permanence**\n34|    Land, infrastructure, and IP cannot be pledged, sold, or encumbered by operators.\n35|    \n36|3. **Operator Replaceability**\n37|    OpCos can fail or be replaced without asset liquidation or system collapse.\n38|    \n39|4. **Jurisdictional Risk Containment**\n40|    Capital and IP are held in Singapore to isolate political, regulatory, and execution risk.\n41|    \n42|5. **Non-Capture**\n43|    No entity may simultaneously control assets, operations, IP, and governance logic.\n44|    \n45|\n46|---\n```\n```Main/execution/Metrics/Post-Urban Performance Framework.md\n20|| Domain         | Key Metric                                                                      | Baseline Value / Source                                                                                                                                                                                                                |\n21|| -------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n```\n```Main/execution/Metrics/KPI references.md\n1|# Comprehensive Urban Baseline — Bengaluru (Bangalore Equivalent)\n2|\n3|*Baseline values reflect the latest available data and credible studies for Bangalore/Bengaluru and broader Indian urban context.*\n4|\n5|---\n6|\n7|## 1. Demographics & Economy\n8|\n9|### Population & Urban Status\n10|- Metropolitan Bengaluru population ~15.2 million ([Wikipedia](https://en.wikipedia.org/wiki/Metropolitan_area?utm_source=chatgpt.com))\n11|\n12|### Economic Output\n13|- Metro GDP estimated ~US$130 B ([Wikipedia](https://en.wikipedia.org/wiki/List_of_metropolitan_areas_by_GDP?utm_source=chatgpt.com))  \n14|- Bengaluru contributes ~43% of Karnataka’s GDP, leading in software exports ([Wikipedia](https://en.wikipedia.org/wiki/Economy_of_Bengaluru?utm_source=chatgpt.com))\n15|\n16|---\n17|\n18|## 2. Land Use & Ecology\n19|\n20|### Urban Land Use\n21|- Rapid urbanization has reduced natural ecosystems; built environment dominates.\n22|\n23|### Water Bodies & Green Cover\n24|- Water bodies <1% of urban footprint.  \n25|- Green/natural land cover remains low (~6–22%).\n26|\n27|---\n```\n```Main/Governance/Governance Framework.md\n23|## What is Governance \n24|\n25|Governance answers only four questions:\n26|\n27|1. What happened?\n28|    \n29|2. What norms apply?\n30|    \n31|3. What repair is required?\n32|    \n33|4. How is the repair executed?\n34|    \n35|\n36|Anything beyond this is culture, ethics, or politics — **not governance**.\n37|\n38|---\n39|\n40|## AI-Enabled Context and review\n41|\n42|Every participant is paired with an **AI agent** that:\n43|\n44|- provides historical and situational context\n45|    \n46|- surfaces relevant precedents\n47|    \n48|- discusses options and consequences\n49|    \n50|- flags inconsistencies\n51|    \n52|- proposes actions and repairs\n53|    \n54|\n55|Humans give input and  **approve or reject** .\n56|\n57|They do **not design governance manually**.\n58|\n59|No decision proceeds without AI-generated context.\n60|\n61|_(See: AI-Enabled Governance)_\n62|\n63|---\n```\n\n\n\nlook through the headings and find what has already been written in regards to them in @Main \n\n"
+        }
+      ],
+      "id": "c36a8207-025e-41f3-b30f-32a5e4706e19",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "oslo.md"
+        },
+        {
+          "type": "folder",
+          "folder": "Main"
+        }
+      ],
+      "similaritySearchResults": [
+        {
+          "id": 640,
+          "path": "Main/execution/Metrics/KPI references.md",
+          "mtime": 1769632875849,
+          "content": "## 10. Summary Baseline Table (All Key KPIs)",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 85,
+            "startLine": 85
+          },
+          "similarity": 0.5526062257189688
+        },
+        {
+          "id": 639,
+          "path": "Main/execution/Metrics/KPI references.md",
+          "mtime": 1769632875849,
+          "content": "## 7. Economic & Productivity Costs of Emissions\n\n- Air pollution costs India ~US$95–150 B/year (~3% GDP) in lost productivity, healthcare, absenteeism ([Clean Air Fund](https://www.cleanairfund.org/resource/air-pollution-in-india-and-the-impact-on-business/?utm_source=chatgpt.com), [Indian Express](https://indianexpress.com/article/opinion/columns/gita-gopinath-cost-of-pollution-is-higher-than-any-tariff-10491167/?utm_source=chatgpt.com))  \n- Millions of premature deaths and chronic illnesses across urban India; proxy for productivity impacts.\n\n---\n\n## 8. Food & Local Production\n\n- Urban food production <10% of total consumed calories (remainder via external agriculture) — proxy from urban land use and supply chain studies.\n\n---\n\n## 9. Governance & Social Factors\n\n- Governance effectiveness moderate; decision cycles often several months; citizen participation <20% in formal processes.\n\n---",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 83,
+            "startLine": 66
+          },
+          "similarity": 0.48026450318852654
+        },
+        {
+          "id": 637,
+          "path": "Main/execution/Metrics/KPI references.md",
+          "mtime": 1769632875849,
+          "content": "## 5. Health & Human Well-Being\n\n### Air Pollution & Health Burden\n- Delhi air pollution linked to >17,000 premature deaths/year; proxy for urban mega-city impact ([Le Monde](https://www.lemonde.fr/en/environment/article/2025/11/13/delhi-is-no-longer-livable-deadly-pollution-in-indian-capital-claims-more-than-17-000-lives-each-year_6747432_114.html?utm_source=chatgpt.com))\n\n### Hospital Beds & Infrastructure\n- India: <1.3 beds per 1,000 population ([Brickwork Ratings](https://www.brickworkratings.com/Research/Private%20Hospitals%20report_10Nov2025.pdf?utm_source=chatgpt.com))  \n- Bengaluru: expansions underway (Kidwai Institute ~1,200 beds) ([Times of India](https://timesofindia.indiatimes.com/city/bengaluru/kidwai-memorial-institute-of-oncology-to-become-bengalurus-largest-govt-run-hospital-with-1200-beds/articleshow/124553459.cms?utm_source=chatgpt.com))\n\n---",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 56,
+            "startLine": 47
+          },
+          "similarity": 0.47178886239559703
+        },
+        {
+          "id": 629,
+          "path": "Main/execution/Metrics/Post-Urban Performance Framework.md",
+          "mtime": 1769886187784,
+          "content": "[[KPI references]]\n\n---",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 37,
+            "startLine": 35
+          },
+          "similarity": 0.47113963413242943
+        },
+        {
+          "id": 699,
+          "path": "Main/Governance/Governance Framework.md",
+          "mtime": 1767633396208,
+          "content": "---\ndg-publish: true\n---\n\n# Governance Framework\n\nGovernance is not a philosophy of leadership, a council model, or a political ideology.\n\nIt is a **designed system** intended to remain functional under scale, stress, and time—without relying on individual intelligence, morality, or restraint.\n\n## Core Premise\n\ngovernance must be designed with **no expectation of individual intelligence, morality, or goodwill**.\n\nGovernance therefore lives in **structure, transparency, and constraint**, assisted by AI.\n\nAll actions by governing and operating entities are recorded in a **public, immutable ledger**.\n\nA good democracy is treated as a **system output of informed participation**, not individual benevolence.\n\n---\n#todo make this make sense",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 22,
+            "startLine": 1
+          },
+          "similarity": 0.46710467273853706
+        },
+        {
+          "id": 693,
+          "path": "Main/Governance/Ownership & Structural Architecture.md",
+          "mtime": 1767628889516,
+          "content": "---\ndg-publish: true\n---\n\nThis document defines **what is owned, by whom, and under what constraints** within the GAUSS ecosystem.\n\nIt is designed to:\n- protect long-term assets from operational risk\n- prevent capture by any single entity\n- allow capital participation without control\n- enable replication without centralization\n\nIt does **not** define governance processes, returns, or board mechanics.\n\n---\n![[Pasted image 20260104010831.png]]\n## System Structure (At a Glance)\n\nGAUSS is composed of **legally independent entities with non-overlapping roles**:\n- **3 Holding Companies (HoldCos)** — own assets\n- **3 Operating Companies (OpCos)** — run systems\n- **1 Singapore Entity** — capital coordination & IP ownership\n\nNo entity has unilateral authority over land, infrastructure, IP, economy, or social systems.\n\n---",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 26,
+            "startLine": 1
+          },
+          "similarity": 0.46542883965102955
+        },
+        {
+          "id": 694,
+          "path": "Main/Governance/Ownership & Structural Architecture.md",
+          "mtime": 1767628889516,
+          "content": "## Core Design Principles\n\n1. **Separation of Ownership & Operation**\n    Assets are owned by HoldCos and leased to OpCos. Operators own nothing core.\n    \n2. **Asset Permanence**\n    Land, infrastructure, and IP cannot be pledged, sold, or encumbered by operators.\n    \n3. **Operator Replaceability**\n    OpCos can fail or be replaced without asset liquidation or system collapse.\n    \n4. **Jurisdictional Risk Containment**\n    Capital and IP are held in Singapore to isolate political, regulatory, and execution risk.\n    \n5. **Non-Capture**\n    No entity may simultaneously control assets, operations, IP, and governance logic.\n    \n\n---",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 46,
+            "startLine": 28
+          },
+          "similarity": 0.46283832634448774
+        },
+        {
+          "id": 622,
+          "path": "Main/execution/Metrics/Post-Urban Performance Framework.md",
+          "mtime": 1769886187784,
+          "content": "| Domain         | Key Metric                                                                      | Baseline Value / Source                                                                                                                                                                                                                |\n| -------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 21,
+            "startLine": 20
+          },
+          "similarity": 0.45884661397471826
+        },
+        {
+          "id": 634,
+          "path": "Main/execution/Metrics/KPI references.md",
+          "mtime": 1769632875849,
+          "content": "# Comprehensive Urban Baseline — Bengaluru (Bangalore Equivalent)\n\n*Baseline values reflect the latest available data and credible studies for Bangalore/Bengaluru and broader Indian urban context.*\n\n---\n\n## 1. Demographics & Economy\n\n### Population & Urban Status\n- Metropolitan Bengaluru population ~15.2 million ([Wikipedia](https://en.wikipedia.org/wiki/Metropolitan_area?utm_source=chatgpt.com))\n\n### Economic Output\n- Metro GDP estimated ~US$130 B ([Wikipedia](https://en.wikipedia.org/wiki/List_of_metropolitan_areas_by_GDP?utm_source=chatgpt.com))  \n- Bengaluru contributes ~43% of Karnataka’s GDP, leading in software exports ([Wikipedia](https://en.wikipedia.org/wiki/Economy_of_Bengaluru?utm_source=chatgpt.com))\n\n---\n\n## 2. Land Use & Ecology\n\n### Urban Land Use\n- Rapid urbanization has reduced natural ecosystems; built environment dominates.\n\n### Water Bodies & Green Cover\n- Water bodies <1% of urban footprint.  \n- Green/natural land cover remains low (~6–22%).\n\n---",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 27,
+            "startLine": 1
+          },
+          "similarity": 0.45799048301186696
+        },
+        {
+          "id": 700,
+          "path": "Main/Governance/Governance Framework.md",
+          "mtime": 1767633396208,
+          "content": "## What is Governance \n\nGovernance answers only four questions:\n\n1. What happened?\n    \n2. What norms apply?\n    \n3. What repair is required?\n    \n4. How is the repair executed?\n    \n\nAnything beyond this is culture, ethics, or politics — **not governance**.\n\n---\n\n## AI-Enabled Context and review\n\nEvery participant is paired with an **AI agent** that:\n\n- provides historical and situational context\n    \n- surfaces relevant precedents\n    \n- discusses options and consequences\n    \n- flags inconsistencies\n    \n- proposes actions and repairs\n    \n\nHumans give input and  **approve or reject** .\n\nThey do **not design governance manually**.\n\nNo decision proceeds without AI-generated context.\n\n_(See: AI-Enabled Governance)_\n\n---",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 63,
+            "startLine": 23
+          },
+          "similarity": 0.45777561025666635
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the content in your `@Main` folder, several of the headings in `oslo.md` have foundational documentation already established. Here is a mapping of your questions to the existing logic:\n\n### how do i see the machine llm human future \nYour framework for AI-human interaction is detailed in the Governance Framework. It specifies that AI agents handle context, history, and proposal generation, while humans are restricted to approving or rejecting these outputs rather than manual design.\n\n<smtcmp_block filename=\"Main/Governance/Governance Framework.md\" language=\"markdown\" startLine=\"40\" endLine=\"61\"></smtcmp_block>\n\n### what do i care about and why\nThis is addressed through your \"Core Premise\" and \"Core Design Principles.\" You prioritize systems that don't rely on individual morality or intelligence, focusing instead on structural constraints, separation of ownership, and non-capture of the system.\n\n<smtcmp_block filename=\"Main/Governance/Governance Framework.md\" language=\"markdown\" startLine=\"11\" endLine=\"19\"></smtcmp_block>\n\n<smtcmp_block filename=\"Main/Governance/Ownership & Structural Architecture.md\" language=\"markdown\" startLine=\"28\" endLine=\"43\"></smtcmp_block>\n\n### oslo interactions with governments\nThe strategy for dealing with external political and regulatory environments is defined as \"Jurisdictional Risk Containment.\" You separate capital and IP (held in Singapore) from execution and political risks in the building sites.\n\n<smtcmp_block filename=\"Main/Governance/Ownership & Structural Architecture.md\" language=\"markdown\" startLine=\"39\" endLine=\"41\"></smtcmp_block>\n\n### where do we build and why \nWhile the specific \"10 places\" list isn't fully expanded in these snippets, you have established a comprehensive baseline for urban projects using Bengaluru as the primary reference point for economic, demographic, and ecological metrics.\n\n<smtcmp_block filename=\"Main/execution/Metrics/KPI references.md\" language=\"markdown\" startLine=\"1\" endLine=\"27\"></smtcmp_block>\n\n### sequencing and timeline / how many people per project\nThere is currently no specific data in the provided snippets regarding headcount per project or the specific sequencing timeline. These sections in `oslo.md` appear to be new requirements or areas that need further expansion based on the existing `Post-Urban Performance Framework`.",
+      "id": "a52ef871-1588-422c-aab9-dadd7a232ebe",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-3-flash-preview",
+          "model": "gemini-3-flash-preview"
+        },
+        "usage": {
+          "prompt_tokens": 2782,
+          "completion_tokens": 515,
+          "total_tokens": 4215
+        }
+      },
+      "providerMetadata": {
+        "gemini": {
+          "thoughtSignature": "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"
+        }
+      }
+    }
+  ],
+  "createdAt": 1770213162405,
+  "updatedAt": 1770213205762,
+  "schemaVersion": 1
+}

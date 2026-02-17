@@ -1,13 +1,7 @@
 {
   "version": "2.0",
   "mapping": {
-    "home.md": "home.md.json",
-    "pages/Home.md": "pages_home.md.json",
-    "README.md": "readme.md.json",
-    "Untitled": "untitled.json",
-    "execution": "execution.json",
-    "execution/Untitled.md": "execution_untitled.md.json",
-    "execution/What do we need.md": "execution_what_do_we_need.md.json"
+    "Main/Governance/governance v0/Governance outline.md": "main_governance_governance_v0_governance_outline.md.json"
   },
-  "lastUpdated": 1767641480579
+  "lastUpdated": 1771162070507
 }
