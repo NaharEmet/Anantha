@@ -350,17 +350,17 @@ The question is whether we build it intentionally—with transparency, expertise
 
 ## What Success Looks Like
 
-| Problem                 | Bad           | Good                      |
-| ----------------------- | ------------- | ------------------------- |
-| Decision speed          | Months        | Days                      |
-| Participation           | <20%          | >80%                      |
-| Value coherence         | Unknown       | Tracked and visible       |
-| Conflict escalation     | Reaches legal | Resolved at clarification |
-| Execution               | Stalls        | Completed on spec         |
-| Representation          | Top-down      | Frontline-informed        |
-| Individual satisfaction | Unknown       | Tracked and stable        |
-| Collective              |               |                           |
-
+| Problem               | Bad           | Good                      |
+| --------------------- | ------------- | ------------------------- |
+| Decision speed        | Months        | Days                      |
+| Participation         | <20%          | >80%                      |
+| Value coherence       | Unknown       | Tracked and visible       |
+| Conflict escalation   | Reaches legal | Resolved at clarification |
+| Execution             | Stalls        | Completed on spec         |
+| Representation        | Top-down      | Frontline-informed        |
+| Individual well being | Unknown       | Tracked and stable        |
+| Collective well being | Unknown       | Tracked and growing       |
+| Value alignment       | Unknown       | Tracked rapid progress    |
 
 # Stage 1
 assisting the governance first 
@@ -373,5 +373,3 @@ teal organization
 - videos
 - Reinventing organizations data set
 can be used to fine tune models
-
-	
