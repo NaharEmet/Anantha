@@ -13,3 +13,7 @@ cities that needs to pull receorces from affar consume a lot of energy
 bottom up system that evolves through biology 
 cities adapted to their environment 
 ###### blue green infra is the base 
+#### Key kpi: Energy efficiency
+
+Red queen problem 
+
