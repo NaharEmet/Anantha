@@ -18,19 +18,24 @@ cities adapted to their environment
 Red queen problem 
 
 
-# energy
+# energy!!!
+
 ##### energy 
 ##### resilientliant 
 ##### small 
 ##### efficient 
+
 
 ### what does blue green infra effect energy consumption?
 
 ## energy: efficiency over generation
 
 cooling commons not personal 
-
 ### how to win the blue green infrastructure argument?
+
+
+
+##### tension is life balance is death 
 
 
 
