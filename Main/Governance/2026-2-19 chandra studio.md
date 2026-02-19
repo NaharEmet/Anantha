@@ -19,14 +19,18 @@ Red queen problem
 
 
 # energy
-### energy 
-### resilientliant 
-### small 
-### efficient 
+##### energy 
+##### resilientliant 
+##### small 
+##### efficient 
 
-## what does blue green infra effect energy consumption?
+### what does blue green infra effect energy consumption?
 
+## energy: efficiency over generation
 
+cooling commons not personal 
+
+## how to win the blue green infrastructureargument
 
 
 
