@@ -103,17 +103,22 @@ universal framework
 + 2 to 3 local solutions
 
 
-every city that survived for a 1000 years had a belife 
-	what is our belife 
+every city that survived for a 1000 years had a belief 
+	what is our belief 
 
 
-## Read up on complex adaptive systems 
+#### Read up on complex adaptive systems 
 
 
 
+same global frame work solution local context 
 
-same global frame work sollution local context 
 
+Agriculture and food abundance
+	anshul and auro orchard
+	seeds and resilinace
+	food forests 
+	
 
 
 
