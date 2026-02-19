@@ -111,7 +111,7 @@ A living set of values that breathes with the community.
 
 ---
 
-# **8. Development Roadmap**
+# **5. Development Roadmap**
 
 ## **Phase 1: Foundation (Months 1–6)**
 
@@ -168,8 +168,6 @@ Develop community-to-community coordination protocols
 
 **Actions:**
 
-- Open-source core components for community customization
-    
 - Create governance frameworks for multi-community coordination
     
 - Establish training programs for community facilitators
@@ -181,7 +179,7 @@ Develop community-to-community coordination protocols
 
 ---
 
-# **9. Core Principle**
+# **6. Core Principle**
 
 If governance works:
 
@@ -196,12 +194,85 @@ If governance works:
 
 **Anantha OS measures all four simultaneously.**
 
+
+# **7. North Star Metrics**
+
+To make system health legible at a glance, Anantha OS aggregates signals into three indicators.
+
+---
+
+## **7.1 Governance Responsiveness Index**
+
+Captures how effectively the system converts reality into action.
+
+Combines:
+
+- decision speed
+    
+- knowledge inclusion
+    
+- participation
+    
+- execution completion
+    
+
+A rising score means the community can **sense, decide, and act without losing accuracy**.
+
+---
+
+## **7.2 Community Health Index**
+
+Captures whether governance improves lived experience.
+
+Combines:
+
+- individual well-being trends
+    
+- satisfaction distribution
+    
+- conflict frequency and resolution
+    
+- trust and agency signals
+    
+
+A rising score means people feel **stable, heard, and supported**.
+
+---
+
+## **7.3 Forward Momentum Index**
+
+Captures whether decisions improve the future.
+
+Combines:
+
+- long-term outcomes
+    
+- reduction of recurring problems
+    
+- capability growth
+    
+- resource efficiency
+    
+- resilience and optionality
+    
+
+A rising score means the system **compounds intelligence and capacity over time**.
+
+---
+
+# **7. What Success Looks Like**
+
+| Dimension      | Failure | Success       |
+| -------------- | ------- | ------------- |
+| Decision Speed | Months  | Days or weeks |
+
+
 ---
 # Why This Matters
 
 We are at an inflection point.
 
-The tools now exist to coordinate and monitor at scale without intermediaries.  
+The tools now exist to coordinate and monitor at scale.  
 The need also exists, urban infrastructure is straining, institutional trust is eroding, and capable people are seeking alternatives.
 
 **Anantha OS is practical infrastructure for societies that want to self-organize intelligently.**
