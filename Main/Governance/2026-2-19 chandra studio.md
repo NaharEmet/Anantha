@@ -46,8 +46,13 @@ cooling commons not personal
 circular 
 adaptable 
 resilient 
+
+20k people ideal number 
+
+## Core problems
 energy efficient
 water efficient
+building materials
 
 
 
@@ -75,13 +80,23 @@ how widly is lime available
 # building materials 
 ### Need a paper on lime stone 
 _why was lime not used_
+### cement lobby 
 
 
-dhune next to jaipur 
+look at dhune next to jaipur 
 
 
+### Government classification 
+more than 5l corpration 
+more than 50k municipalities
+10 to 50k town panchayat 
+
+pollution in water is propitiation to corruption 
 
 
+preferred solution: collection of small towns
+
+Articu
 
 
 
