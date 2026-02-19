@@ -103,6 +103,14 @@ universal framework
 + 2 to 3 local solutions
 
 
+every city that survived for a 1000 years had a belife 
+	what is our belife 
+
+
+## Read up on complex adaptive systems 
+
+
+
 
 same global frame work sollution local context 
 
