@@ -64,6 +64,13 @@ more than just water
 
 bigger cities need more water
 measured as just human centric
+water needs to be designed with local context
+
+### building materials 
+nothing is better than concrete
+mimic corral reeffes
+	lime 
+
 
 
 
