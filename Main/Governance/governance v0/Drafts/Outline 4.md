@@ -20,14 +20,14 @@ Anantha OS is not an AI government. It is an **AI coordination layer** that allo
 
 # 2. Problems We're Solving
 
-|Problem|Description|Primary Measure|
-|---|---|---|
-|**1. Information Asymmetry**|People with knowledge aren't making decisions; decision-makers lack ground truth.|**% of decisions** including direct input from frontline participants and relevant SMEs.|
-|**2. Coordination Friction**|Decisions take too long. By the time they are made, reality has shifted.|**Cycle Time:** Time from problem identification to implemented decision.|
-|**3. Values Drift**|Rules accumulate without reason; people ignore them, and the framework erodes.|**Coherence Score:** Rate of values dissonance alerts vs. resolution.|
-|**4. Representation Loss**|Governance optimizes for optics, not outcomes. Frontline knowledge is lost.|**Correlation** between member sentiment and final decisions made.|
-|**5. Execution Gap**|Decisions don't stick due to unclear ownership and misaligned incentives.|**Implementation Rate:** Outcome vs. Intention and Cost vs. Budget.|
-|**6. Conflict Compounding**|Small misunderstandings escalate into systemic dissatisfaction.|**Resolution Velocity:** Time to resolve disputes before escalation.|
+| Problem                      | Description                                                                       | Primary Measure                                                                          |
+| ---------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **1. Information Asymmetry** | People with knowledge aren't making decisions; decision-makers lack ground truth. | **% of decisions** including direct input from frontline participants and relevant SMEs. |
+| **2. Coordination Friction** | Decisions take too long. By the time they are made, reality has shifted.          | **Cycle Time:** Time from problem identification to implemented decision.                |
+| **3. Values Drift**          | Rules accumulate without reason; people ignore them, and the framework erodes.    | **Coherence Score:** Rate of values dissonance alerts vs. resolution.                    |
+| **4. Representation Loss**   | Governance optimizes for optics, not outcomes. Frontline knowledge is lost.       | **Correlation** between member sentiment and final decisions made.                       |
+| **5. Execution Gap**         | Decisions don't stick due to unclear ownership and misaligned incentives.         | **Implementation Rate:** Outcome vs. Intention and Cost vs. Budget.                      |
+| **6. Conflict Compounding**  | Small misunderstandings escalate into systemic dissatisfaction.                   | **Resolution Velocity:** Time to resolve disputes before escalation.                     |
 
 
 ---
@@ -79,17 +79,37 @@ Agents engage with participants to gather needs and constraints, then synthesize
 
 ### 4.3 Resource Allocation Layer
 
-**Purpose:** Decide what goes where in a post-scarcity framework.
+Purpose: decide _what goes where_.
 
-- Transparent allocation logs and AI-assisted forecasting of social benefit.
+Markets solve this today using prices.  
+If a society moves beyond price signals, it must still answer:
+
+- what should be produced
     
-- **Abundance Pool Tracking:** Monitoring surplus and reinvestment capacity.
+- how resources are prioritized
     
-- **Values-Aligned Scoring:** Ensuring distribution reflects community priorities.
+- how distribution is perceived as fair
     
+
+Anantha OS provides:
+
+- transparent allocation logs (public but privacy-safe)
+    
+- AI-assisted modeling of social benefit
+    
+- feedback loops linking allocation to outcomes
+    
+- an “abundance pool” tracking surplus resources and reinvestment capacity
+    
+
+This ensures allocation decisions remain legible, adaptive, and collectively validated.
+
+---
 
 ### 4.4 Conflict Resolution Layer
 
+
+_Small unresolved conflicts compound into systemic instability._
 **Purpose:** Transform misunderstandings into growth.
 
 - **Clarification:** Establishing ground reality through agent-mediated dialogue.
@@ -99,18 +119,52 @@ Agents engage with participants to gather needs and constraints, then synthesize
 - **Legal Escalation:** High-level violations escalate to external authorities.
     
 
+The goal is not to centralize authority, but to **reduce friction early** and preserve trust continuously.
+
 ### 4.5 Social Alignment Layer (Dynamic Constitution)
 
-A living set of values that breathes with the community.
+**Purpose: maintain shared direction over time.**
 
-- **Pattern Recognition:** Identifies recurring themes to make implicit values explicit.
+Societies drift unless values are actively maintained.
+
+Anantha OS supports:
+
+- continuous sentiment sensing
     
-- **Dissonance Alerts:** Flags when proposed decisions conflict with stated values.
+- periodic value synthesis
     
+- proposal cycles for cultural evolution
+    
+- visible alignment metrics
+    
+
+Values become dynamic, participatory, and measurable rather than symbolic.
+
 
 ---
 
-# **5. Development Roadmap**
+
+## 5. Economic Foundation
+
+Anantha assumes a transition from scarcity-driven allocation toward **abundance-oriented coordination**.
+
+This does not mean resources are infinite.  
+It means that:
+
+- automation increases production capacity
+    
+- circular systems reduce waste
+    
+- care and social labor become visible economic inputs
+    
+- AI reduces coordination inefficiency
+    
+
+Together, these shifts allow societies to optimize for **collective flourishing** rather than accumulation.
+
+Anantha OS provides the coordination infrastructure required for this transition.
+
+# **6. Development Roadmap**
 
 ## **Phase 1: Foundation (Months 1–6)**
 
