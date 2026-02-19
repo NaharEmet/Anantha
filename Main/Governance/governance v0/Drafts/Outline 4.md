@@ -68,11 +68,11 @@ Agents engage with participants to gather needs and constraints, then synthesize
 
 1. **Frontline & Expert Input:** Agents prioritize data from those with situational knowledge and verified SMEs.
     
-2. **Agent-Mediated Discussion:** Agents facilitate dialogue. _(Note: How do we establish the appropriate parties given a topic?)_
+2. **Agent-Mediated Discussion:** Agents facilitate dialogue. _(Core question: How do we establish the appropriate parties given a topic?)_
     
 3. **Values Alignment Check:** System checks directions against the dynamic values framework.
     
-4. **Option Refinement:** Agents distill complexities into 2–10 high-quality options. _(Note: Leverage history and long-term context here.)_
+4. **Option Refinement:** Agents distill complexities into 2–10 high-quality options. _( Leveraging history and long-term context here.)_
     
 5. **Informed Voting:** Options are presented for a final vote where the community is informed, not just polarized.
     
@@ -99,7 +99,7 @@ Agents engage with participants to gather needs and constraints, then synthesize
 - **Legal Escalation:** High-level violations escalate to external authorities.
     
 
-### 4.5 Social Alignment Layer (The Dynamic Constitution)
+### 4.5 Social Alignment Layer (Dynamic Constitution)
 
 A living set of values that breathes with the community.
 
@@ -200,62 +200,50 @@ _We do not measure for control; we measure for health. These indices track the r
 
 ---
 
-## **7.1 Governance Responsiveness Index**
+### **7.1 Governance Responsiveness Index**
 
-Captures how effectively the system converts reality into action.
+**The Speed of Wisdom.** This captures how effectively the system converts raw reality into meaningful action. It combines:
 
-Combines:
-
-- decision speed
+- **Decision Velocity:** The time elapsed from signal to resolution.
     
-- knowledge inclusion
+- **Knowledge Inclusion:** The depth of SME and frontline integration.
     
-- participation
+- **Participation Breadth:** The diversity of the active contributor pool.
     
-- execution completion
+- **Execution Fidelity:** The closing of the "say-do" gap.
     
 
-A rising score means the community can **sense, decide, and act without losing accuracy**.
+> **Signal:** A rising score indicates the community can **sense, decide, and act** with high fidelity and zero institutional lag.
 
----
+### **7.2 Community Health Index**
 
-## **7.2 Community Health Index**
+**The Depth of Well-being.** Governance is a failure if the people are exhausted. This index measures the lived experience of the "neurons" in the network:
 
-Captures whether governance improves lived experience.
-
-Combines:
-
-- individual well-being trends
+- **Agency Signals:** Do individuals feel they can influence their environment?
     
-- satisfaction distribution
+- **Trust Density:** The frequency and speed of conflict resolution.
     
-- conflict frequency and resolution
+- **Sentiment Distribution:** Moving beyond "average" happiness to identify marginalized friction.
     
-- trust and agency signals
+- **Social Stability:** Trends in individual and collective security.
     
 
-A rising score means people feel **stable, heard, and supported**.
+> **Signal:** A rising score means the community feels **stable, heard, and structurally supported**.
 
----
+### **7.3 Forward Momentum Index**
 
-## **7.3 Forward Momentum Index**
+**The Compound Interest of Intelligence.** A system that only reacts is a system in decay. This index tracks our trajectory:
 
-Captures whether decisions improve the future.
-
-Combines:
-
-- long-term outcomes
+- **Recursive Problem Reduction:** Are we solving the same problems twice, or moving to new ones?
     
-- reduction of recurring problems
+- **Capability Growth:** The expansion of what the community is able to achieve.
     
-- capability growth
+- **Resilience & Optionality:** Our ability to absorb shocks and pivot.
     
-- resource efficiency
-    
-- resilience and optionality
+- **Resource Efficiency:** Maximizing social benefit per unit of abundance.
     
 
-A rising score means the system **compounds intelligence and capacity over time**.
+> **Signal:** A rising score means the system **compounds intelligence and capacity** over time.
 
 ---
 
