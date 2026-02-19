@@ -35,11 +35,24 @@ cooling commons not personal
 
 
 
+
 ##### tension is life balance is death 
 
 
+#### make the statistics tangible! 
 
 
+
+circular 
+adaptable 
+resilient 
+energy efficient
+water efficient
+
+
+
+## water
+how to get?
 
 
 
