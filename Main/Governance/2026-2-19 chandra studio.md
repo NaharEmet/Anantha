@@ -96,7 +96,17 @@ pollution in water is propitiation to corruption
 
 preferred solution: collection of small towns
 
-Articu
+# Articulate: vision of the ideal world 
+#### written 
+#### Envisioned 
+universal framework
++ 2 to 3 local solutions
+
+
+
+same global frame work sollution local context 
+
+
 
 
 
