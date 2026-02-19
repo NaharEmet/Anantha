@@ -24,6 +24,11 @@ Red queen problem
 ### small 
 ### efficient 
 
+## what does blue green infra effect energy consumption?
+
+
+
+
 
 
 
