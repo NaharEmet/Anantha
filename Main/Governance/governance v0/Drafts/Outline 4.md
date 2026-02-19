@@ -20,15 +20,23 @@ Anantha OS is not an AI government. It is an **AI coordination layer** that allo
 
 # 2. Problems We're Solving
 
-| Problem                      | Description                                                                       | Primary Measure                                                                          |
-| ---------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **1. Information Asymmetry** | People with knowledge aren't making decisions; decision-makers lack ground truth. | **% of decisions** including direct input from frontline participants and relevant SMEs. |
-| **2. Coordination Friction** | Decisions take too long. By the time they are made, reality has shifted.          | **Cycle Time:** Time from problem identification to implemented decision.                |
-| **3. Values Drift**          | Rules accumulate without reason; people ignore them, and the framework erodes.    | **Coherence Score:** Rate of values dissonance alerts vs. resolution.                    |
-| **4. Representation Loss**   | Governance optimizes for optics, not outcomes. Frontline knowledge is lost.       | **Correlation** between member sentiment and final decisions made.                       |
-| **5. Execution Gap**         | Decisions don't stick due to unclear ownership and misaligned incentives.         | **Implementation Rate:** Outcome vs. Intention and Cost vs. Budget.                      |
-| **6. Conflict Compounding**  | Small misunderstandings escalate into systemic dissatisfaction.                   | **Resolution Velocity:** Time to resolve disputes before escalation.                     |
+**1. Information Asymmetry**
+People with knowledge aren't making decisions; decision-makers lack ground truth.
 
+**2. Coordination Friction**
+Decisions take too long. By the time they are made, reality has shifted.
+
+**3. Values Drift**
+Rules accumulate without reason; people ignore them, and the framework erodes.
+
+**4. Representation Loss**
+Governance optimizes for optics, not outcomes. Frontline knowledge is lost.
+
+**5. Execution Gap**
+Decisions don't stick due to unclear ownership and misaligned incentives.
+
+**6. Conflict Compounding**
+Small misunderstandings escalate into systemic dissatisfaction.
 
 ---
 
@@ -232,7 +240,13 @@ Develop community-to-community coordination protocols
 
 ---
 
-# **6. Core Principle**
+
+# **7. The North Star: Feedback Loops for Abundance**
+
+_We do not measure for control; we measure for health. These indices track the resonance between intent and reality._
+
+
+#### Core Principle
 
 If governance works:
 
@@ -244,13 +258,6 @@ If governance works:
     
 - society moves with a sense of flow
     
-
-**Anantha OS measures all four simultaneously.**
-
-
-# **7. The North Star: Feedback Loops for Abundance**
-
-_We do not measure for control; we measure for health. These indices track the resonance between intent and reality._
 
 ---
 
