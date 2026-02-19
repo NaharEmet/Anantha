@@ -4,7 +4,7 @@ structure is scaffolding but not the building
 
 
 cities are plants where do they draw material and energy from 
-cities that needs to pull receorces from affar consume a lot of energy 
+cities that needs to pull ressorcess from afar consume a lot of energy 
 
 
 #### KW for well being 
@@ -16,4 +16,19 @@ cities adapted to their environment
 #### Key kpi: Energy efficiency
 
 Red queen problem 
+
+
+# energy
+### energy 
+### resilientliant 
+### small 
+### efficient 
+
+
+
+
+
+
+
+
 
