@@ -183,7 +183,8 @@ Anantha OS provides the coordination infrastructure required for this transition
 
 - Resource Allocation module
     
-- Conflict Resolution module
+- Clarification and Fact-Finding
+- individual and community well being
     
 
 **Key Feature:**  
