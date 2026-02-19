@@ -30,7 +30,10 @@ Red queen problem
 
 cooling commons not personal 
 
-## how to win the blue green infrastructureargument
+### how to win the blue green infrastructure argument?
+
+
+
 
 
 
