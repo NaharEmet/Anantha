@@ -115,10 +115,11 @@ same global frame work solution local context
 
 
 Agriculture and food abundance
-	anshul and auro orchard
-	seeds and resilinace
-	food forests 
-	
+	Anshul and Auro Orchard
+	seeds and resilience
+	Food forests
+
+
 
 
 
