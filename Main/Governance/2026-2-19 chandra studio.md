@@ -53,6 +53,19 @@ water efficient
 
 ## water
 how to get?
+water is a product a commodity a service and faith 
+#### water security 
+collection 
+sewage recycling 
+storm water management
+	part of blue green infrastructure
+capture water in soil 
+more than just water 
+
+bigger cities need more water
+measured as just human centric
+
+
 
 
 
