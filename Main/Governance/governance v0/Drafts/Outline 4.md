@@ -29,7 +29,6 @@ Anantha OS is not an AI government. It is an **AI coordination layer** that allo
 |**5. Execution Gap**|Decisions don't stick due to unclear ownership and misaligned incentives.|**Implementation Rate:** Outcome vs. Intention and Cost vs. Budget.|
 |**6. Conflict Compounding**|Small misunderstandings escalate into systemic dissatisfaction.|**Resolution Velocity:** Time to resolve disputes before escalation.|
 
-Export to Sheets
 
 ---
 
@@ -195,9 +194,9 @@ If governance works:
 **Anantha OS measures all four simultaneously.**
 
 
-# **7. North Star Metrics**
+# **7. The North Star: Feedback Loops for Abundance**
 
-To make system health legible at a glance, Anantha OS aggregates signals into three indicators.
+_We do not measure for control; we measure for health. These indices track the resonance between intent and reality._
 
 ---
 
@@ -260,15 +259,24 @@ A rising score means the system **compounds intelligence and capacity over time*
 
 ---
 
-# **7. What Success Looks Like**
+# **8. What Success Looks Like**
 
-| Dimension      | Failure | Success       |
-| -------------- | ------- | ------------- |
-| Decision Speed | Months  | Days or weeks |
+| Dimension             | Failure        | Success                       |
+| --------------------- | -------------- | ----------------------------- |
+| Decision Speed        | Months         | Days or weeks                 |
+| Participation         | Low engagement | Broad representation          |
+| Knowledge Inclusion   | Partial        | Frontline + SME input visible |
+| Value Coherence       | Drifting       | Explicit and tracked          |
+| Execution             | Stalled        | Delivered on spec             |
+| Conflict Handling     | Escalates late | Resolved early                |
+| Individual Well-Being | Unknown        | Stable or improving           |
+| Collective Well-Being | Invisible      | Visible and improving         |
+| Future Trajectory     | Reactive       | Momentum increasing           |
+| Resource Efficiency   | Wasteful       | Utilization improving         |
 
 
 ---
-# Why This Matters
+# Why Now
 
 We are at an inflection point.
 
