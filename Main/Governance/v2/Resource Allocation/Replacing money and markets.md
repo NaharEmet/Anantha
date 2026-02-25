@@ -1,1 +1,3 @@
 money has many uses and is very much a winning Solution. the first futures contract was executed in babelon in 2000bc. money as a abstraction for the store of value is a simple and elegant 
+
+
