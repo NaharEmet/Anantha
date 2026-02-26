@@ -1,5 +1,5 @@
 what was money backed by before the 80s?
-gold 
+### gold 
 but why gold? its a shiny metal that doesn't rust, its soft and malleable and thats about it its not very useful in industry, you cant build with it and you cant make weapons from it. the only things that you can use it for is to make jewelry, decoration and other symbolic items. Why would a material that has no inherent use beyond peacocking become the underwriter of the global economy for over 4000 years?
 its because much like the male peacock it was used to beget the affection of the opposite sex to secure the most sought after commodity of man; status which comes with natures favorite product children.
 
