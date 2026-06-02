@@ -1,0 +1,8 @@
+How can we restructure organisations to be more human and earth scentric?
+This is a question that's been with me for the past two decades: why is the world as it is and how can we move it towards a species that we would be proud to have  spread across the stars.
+over the last few years. I've come to the understanding that the state of the world we are in is the product of the solutions found for the 2 oldest problems of our species.
+the coordination problem and allocation problems.
+#### coordination:
+how do we get a group of people to produce drinks you need people to develop products to wash bottles to make the juice to bootle to deliver to talk to clients and soo on as long as its being done by one person its easy just do it if you dont it breaks with 2 people you need to devide roles and 
+The best solution we have found for these problems is hierarchy for coordination and money and markets for resource allocation. In Auroville , a project that tried to go beyond them, I've watched the evolution and studied the origins of these 2 systems, how they came in as easy answers to difficult questions. From what I've seen with the tools of the old world, the world we are in now is the best construct.
+ With the advent of AI I see an opportunity to use it to allocate resources and move information across organizations in a way that we could have only dreamed of 5 years ago. I've been building experiments and I want to work with other people to build and deploy new solutions to the 2 fundamental problems faced by humanity. to allow people to have a better relationship with each other and with our planet 
