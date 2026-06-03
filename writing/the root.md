@@ -17,4 +17,4 @@ The best solution we have found for these problems is hierarchy for coordination
 the second question is how do we decide what goes where. in a world of infinite need and finite resorces we must decide who needs the limited supply of products the most. the way that we do it is with abstracted value. which evolved from gold and jewlery to coins then dues and now finally to numbers on a screen. 
 
 the fundemental problem with communisim and other system that centralized resorce distribution is that they eliminate markets and with them the signals that would allow them to decide where the resorces need to go. 
-on a very fundemantal level the entire capitalistic system exists to generate demand signals and then allocate the finite resorces as efficiently as possible
+on a very fundemantal level the entire capitalistic system exists to generate demand signals and then allocate the finite resorces as efficiently as possible to generate the maximum value for the people who are the best at managing value.
